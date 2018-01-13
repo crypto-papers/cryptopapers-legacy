@@ -19,20 +19,21 @@ module.exports = {
         anonymize: true,
       }
     },
-    {
+    'gatsby-transformer-remark',
+    /*{
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 590,
+              maxWidth: 960,
               linkImagesToOriginal: true,
               sizeByPixelDensity: false,
             }
           }
         ]
       }
-    },
+    },*/
   ],
 };

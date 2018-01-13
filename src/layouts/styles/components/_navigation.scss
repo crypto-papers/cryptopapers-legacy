@@ -1,11 +1,16 @@
 .site_navigation {
-  margin: 0 auto;
-  max-width: 960px;
-  padding: 0 1.0875rem 1rem;
+  background: $medium-blue;
+  margin: 0;
 }
 
-.top_nav_item {
-  background: $blue;
+.nav_container {
+  margin: 0 auto;
+  max-width: 960px;
+  padding: .7rem 1.0875rem;
+}
+
+.nav_item {
+  background: $medium-blue;
 
   > a {
     text-decoration: none;

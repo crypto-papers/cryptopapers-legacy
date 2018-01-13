@@ -12,8 +12,8 @@ const TemplateWrapper = ({ children }) => (
     <Helmet
       title="CryptoPapers.info"
       meta={[
-        { name: 'description', content: 'CryptoPapers is a simple archive of papers related to cryptocurrency.' },
-        { name: 'keywords', content: 'cryptocurrency' },
+        { name: 'description', content: 'Your source for cryptocurrency research.' },
+        { name: 'keywords', content: 'cryptocurrency, ico, bitcoin, ethereum' },
       ]}
     />
     <div className='page_wrap'>

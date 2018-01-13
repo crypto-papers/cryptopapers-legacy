@@ -3,8 +3,19 @@ import Link from 'gatsby-link'
 
 const Navigation = () => (
   <div className='site_navigation'>
-    <div className='top_nav_item'>
-      <Link to="/donations/">Donate</Link>
+    <div className='nav_container grid_wrapper'>
+      <div className='nav_item'>
+        <Link to="/currencies/">Currencies</Link>
+      </div>
+      <div className='nav_item'>
+        <Link to="/research/">Research</Link>
+      </div>
+      <div className='nav_item'>
+        <Link to="/donations/">Donate</Link>
+      </div>
+      <div className='nav_item'>
+        <Link to="/donations/">Search</Link>
+      </div>
     </div>
   </div>
 )

@@ -1,10 +1,16 @@
 ---
-path: 'gnosis-whitepaper'
-title: 'Gnosis Whitepaper'
+path: 'bitcoin-whitepaper'
+title: 'Bitcoin Whitepaper'
 cover: 'gnosis.png'
+pdf: 'gnosis_12_22_2017.pdf'
+category: 'whitepaper'
+is_currency: true
+currency: 'Bitcoin'
 ---
 
-What is Lorem Ipsum?
+![Gnosis](../assets/images/gnosis.png)
+
+[Download](..assets/pdfs/gnosis_12_22_2017.pdf)
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 Why do we use it?

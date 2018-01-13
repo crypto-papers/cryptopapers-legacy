@@ -2,7 +2,6 @@
 1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
 1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
 1 verbose cli   'install',
-1 verbose cli   '--save',
 1 verbose cli   'gatsby-remark-images' ]
 2 info using npm@3.10.10
 3 info using node@v6.10.2
@@ -25,34 +24,34 @@
 13 silly mapToRegistry uri https://registry.npmjs.org/gatsby-remark-images
 14 verbose request uri https://registry.npmjs.org/gatsby-remark-images
 15 verbose request no auth needed
-16 info attempt registry request try #1 at 10:45:36 PM
-17 verbose request id db9a3a54014988ab
+16 info attempt registry request try #1 at 12:59:09 AM
+17 verbose request id fa1512a939122cb4
 18 verbose etag "5a58f9af-16bd1"
 19 verbose lastModified Fri, 12 Jan 2018 18:08:47 GMT
 20 http request GET https://registry.npmjs.org/gatsby-remark-images
 21 http 304 https://registry.npmjs.org/gatsby-remark-images
-22 verbose headers { date: 'Sat, 13 Jan 2018 03:45:36 GMT',
+22 verbose headers { date: 'Sat, 13 Jan 2018 05:59:10 GMT',
 22 verbose headers   via: '1.1 varnish',
 22 verbose headers   'cache-control': 'max-age=300',
 22 verbose headers   etag: '"5a58f9af-16bd1"',
-22 verbose headers   age: '550',
+22 verbose headers   age: '8564',
 22 verbose headers   connection: 'keep-alive',
-22 verbose headers   'x-served-by': 'cache-iad2141-IAD',
+22 verbose headers   'x-served-by': 'cache-iad2145-IAD',
 22 verbose headers   'x-cache': 'HIT',
 22 verbose headers   'x-cache-hits': '1',
-22 verbose headers   'x-timer': 'S1515815137.648571,VS0,VE1',
+22 verbose headers   'x-timer': 'S1515823150.340931,VS0,VE1',
 22 verbose headers   vary: 'Accept-Encoding, Accept' }
 23 silly get cb [ 304,
-23 silly get   { date: 'Sat, 13 Jan 2018 03:45:36 GMT',
+23 silly get   { date: 'Sat, 13 Jan 2018 05:59:10 GMT',
 23 silly get     via: '1.1 varnish',
 23 silly get     'cache-control': 'max-age=300',
 23 silly get     etag: '"5a58f9af-16bd1"',
-23 silly get     age: '550',
+23 silly get     age: '8564',
 23 silly get     connection: 'keep-alive',
-23 silly get     'x-served-by': 'cache-iad2141-IAD',
+23 silly get     'x-served-by': 'cache-iad2145-IAD',
 23 silly get     'x-cache': 'HIT',
 23 silly get     'x-cache-hits': '1',
-23 silly get     'x-timer': 'S1515815137.648571,VS0,VE1',
+23 silly get     'x-timer': 'S1515823150.340931,VS0,VE1',
 23 silly get     vary: 'Accept-Encoding, Accept' } ]
 24 verbose etag https://registry.npmjs.org/gatsby-remark-images from cache
 25 verbose get saving gatsby-remark-images to C:\Users\Marek\AppData\Roaming\npm-cache\registry.npmjs.org\gatsby-remark-images\.cache.json
@@ -130,308 +129,308 @@
 70 silly mapToRegistry   spec: 'latest',
 70 silly mapToRegistry   type: 'tag' }
 71 silly mapToRegistry uri https://registry.npmjs.org/gatsby-plugin-sharp
-72 verbose request uri https://registry.npmjs.org/cheerio
+72 verbose request uri https://registry.npmjs.org/gatsby-plugin-sharp
 73 verbose request no auth needed
-74 info attempt registry request try #1 at 10:45:38 PM
-75 verbose etag "5a5259d5-1a850"
-76 verbose lastModified Sun, 7 Jan 2018 17:33:09 GMT
-77 http request GET https://registry.npmjs.org/cheerio
-78 verbose request uri https://registry.npmjs.org/gatsby-plugin-sharp
+74 info attempt registry request try #1 at 12:59:12 AM
+75 verbose etag "5a58f968-48c24"
+76 verbose lastModified Fri, 12 Jan 2018 18:07:36 GMT
+77 http request GET https://registry.npmjs.org/gatsby-plugin-sharp
+78 verbose request uri https://registry.npmjs.org/cheerio
 79 verbose request no auth needed
-80 info attempt registry request try #1 at 10:45:38 PM
-81 verbose etag "5a58f968-48c24"
-82 verbose lastModified Fri, 12 Jan 2018 18:07:36 GMT
-83 http request GET https://registry.npmjs.org/gatsby-plugin-sharp
-84 http 304 https://registry.npmjs.org/cheerio
-85 verbose headers { date: 'Sat, 13 Jan 2018 03:45:38 GMT',
+80 info attempt registry request try #1 at 12:59:12 AM
+81 verbose etag "5a5259d5-1a850"
+82 verbose lastModified Sun, 7 Jan 2018 17:33:09 GMT
+83 http request GET https://registry.npmjs.org/cheerio
+84 http 304 https://registry.npmjs.org/gatsby-plugin-sharp
+85 verbose headers { date: 'Sat, 13 Jan 2018 05:59:12 GMT',
 85 verbose headers   via: '1.1 varnish',
 85 verbose headers   'cache-control': 'max-age=300',
-85 verbose headers   etag: '"5a5259d5-1a850"',
-85 verbose headers   age: '7684',
+85 verbose headers   etag: '"5a58f968-48c24"',
+85 verbose headers   age: '8564',
 85 verbose headers   connection: 'keep-alive',
-85 verbose headers   'x-served-by': 'cache-iad2141-IAD',
+85 verbose headers   'x-served-by': 'cache-iad2145-IAD',
 85 verbose headers   'x-cache': 'HIT',
-85 verbose headers   'x-cache-hits': '19',
-85 verbose headers   'x-timer': 'S1515815139.897307,VS0,VE0',
+85 verbose headers   'x-cache-hits': '1',
+85 verbose headers   'x-timer': 'S1515823153.899279,VS0,VE1',
 85 verbose headers   vary: 'Accept-Encoding, Accept' }
 86 silly get cb [ 304,
-86 silly get   { date: 'Sat, 13 Jan 2018 03:45:38 GMT',
+86 silly get   { date: 'Sat, 13 Jan 2018 05:59:12 GMT',
 86 silly get     via: '1.1 varnish',
 86 silly get     'cache-control': 'max-age=300',
-86 silly get     etag: '"5a5259d5-1a850"',
-86 silly get     age: '7684',
+86 silly get     etag: '"5a58f968-48c24"',
+86 silly get     age: '8564',
 86 silly get     connection: 'keep-alive',
-86 silly get     'x-served-by': 'cache-iad2141-IAD',
+86 silly get     'x-served-by': 'cache-iad2145-IAD',
 86 silly get     'x-cache': 'HIT',
-86 silly get     'x-cache-hits': '19',
-86 silly get     'x-timer': 'S1515815139.897307,VS0,VE0',
+86 silly get     'x-cache-hits': '1',
+86 silly get     'x-timer': 'S1515823153.899279,VS0,VE1',
 86 silly get     vary: 'Accept-Encoding, Accept' } ]
-87 verbose etag https://registry.npmjs.org/cheerio from cache
-88 verbose get saving cheerio to C:\Users\Marek\AppData\Roaming\npm-cache\registry.npmjs.org\cheerio\.cache.json
+87 verbose etag https://registry.npmjs.org/gatsby-plugin-sharp from cache
+88 verbose get saving gatsby-plugin-sharp to C:\Users\Marek\AppData\Roaming\npm-cache\registry.npmjs.org\gatsby-plugin-sharp\.cache.json
 89 verbose correctMkdir C:\Users\Marek\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
-90 silly resolveWithNewModule cheerio@1.0.0-rc.2 checking installable status
-91 silly cache add args [ 'cheerio@^1.0.0-rc.2', null ]
-92 verbose cache add spec cheerio@^1.0.0-rc.2
+90 silly resolveWithNewModule gatsby-plugin-sharp@1.6.24 checking installable status
+91 silly cache add args [ 'gatsby-plugin-sharp@^1.6.24', null ]
+92 verbose cache add spec gatsby-plugin-sharp@^1.6.24
 93 silly cache add parsed spec Result {
-93 silly cache add   raw: 'cheerio@^1.0.0-rc.2',
+93 silly cache add   raw: 'gatsby-plugin-sharp@^1.6.24',
 93 silly cache add   scope: null,
-93 silly cache add   escapedName: 'cheerio',
-93 silly cache add   name: 'cheerio',
-93 silly cache add   rawSpec: '^1.0.0-rc.2',
-93 silly cache add   spec: '>=1.0.0-rc.2 <2.0.0',
+93 silly cache add   escapedName: 'gatsby-plugin-sharp',
+93 silly cache add   name: 'gatsby-plugin-sharp',
+93 silly cache add   rawSpec: '^1.6.24',
+93 silly cache add   spec: '>=1.6.24 <2.0.0',
 93 silly cache add   type: 'range' }
-94 silly addNamed cheerio@>=1.0.0-rc.2 <2.0.0
-95 verbose addNamed ">=1.0.0-rc.2 <2.0.0" is a valid semver range for cheerio
-96 silly addNameRange { name: 'cheerio', range: '>=1.0.0-rc.2 <2.0.0', hasData: false }
-97 silly mapToRegistry name cheerio
+94 silly addNamed gatsby-plugin-sharp@>=1.6.24 <2.0.0
+95 verbose addNamed ">=1.6.24 <2.0.0" is a valid semver range for gatsby-plugin-sharp
+96 silly addNameRange { name: 'gatsby-plugin-sharp',
+96 silly addNameRange   range: '>=1.6.24 <2.0.0',
+96 silly addNameRange   hasData: false }
+97 silly mapToRegistry name gatsby-plugin-sharp
 98 silly mapToRegistry using default registry
 99 silly mapToRegistry registry https://registry.npmjs.org/
 100 silly mapToRegistry data Result {
-100 silly mapToRegistry   raw: 'cheerio',
+100 silly mapToRegistry   raw: 'gatsby-plugin-sharp',
 100 silly mapToRegistry   scope: null,
-100 silly mapToRegistry   escapedName: 'cheerio',
-100 silly mapToRegistry   name: 'cheerio',
+100 silly mapToRegistry   escapedName: 'gatsby-plugin-sharp',
+100 silly mapToRegistry   name: 'gatsby-plugin-sharp',
 100 silly mapToRegistry   rawSpec: '',
 100 silly mapToRegistry   spec: 'latest',
 100 silly mapToRegistry   type: 'tag' }
-101 silly mapToRegistry uri https://registry.npmjs.org/cheerio
-102 verbose addNameRange registry:https://registry.npmjs.org/cheerio not in flight; fetching
-103 verbose get https://registry.npmjs.org/cheerio not expired, no request
-104 silly addNameRange number 2 { name: 'cheerio', range: '>=1.0.0-rc.2 <2.0.0', hasData: true }
-105 silly addNameRange versions [ 'cheerio',
-105 silly addNameRange   [ '0.0.1',
-105 silly addNameRange     '0.0.2',
-105 silly addNameRange     '0.0.3',
-105 silly addNameRange     '0.0.4',
-105 silly addNameRange     '0.1.1',
-105 silly addNameRange     '0.1.2',
-105 silly addNameRange     '0.1.3',
-105 silly addNameRange     '0.1.4',
-105 silly addNameRange     '0.1.5',
-105 silly addNameRange     '0.2.0',
-105 silly addNameRange     '0.2.1',
-105 silly addNameRange     '0.2.2',
-105 silly addNameRange     '0.3.0',
-105 silly addNameRange     '0.3.1',
-105 silly addNameRange     '0.3.2',
-105 silly addNameRange     '0.4.0',
-105 silly addNameRange     '0.4.1',
-105 silly addNameRange     '0.4.2',
-105 silly addNameRange     '0.5.0',
-105 silly addNameRange     '0.5.1',
-105 silly addNameRange     '0.5.2',
-105 silly addNameRange     '0.6.0',
-105 silly addNameRange     '0.6.1',
-105 silly addNameRange     '0.6.2',
-105 silly addNameRange     '0.7.0',
-105 silly addNameRange     '0.8.0',
-105 silly addNameRange     '0.8.1',
-105 silly addNameRange     '0.8.2',
-105 silly addNameRange     '0.8.3',
-105 silly addNameRange     '0.9.0',
-105 silly addNameRange     '0.9.1',
-105 silly addNameRange     '0.9.2',
-105 silly addNameRange     '0.10.0',
-105 silly addNameRange     '0.10.1',
-105 silly addNameRange     '0.10.2',
-105 silly addNameRange     '0.10.3',
-105 silly addNameRange     '0.10.4',
-105 silly addNameRange     '0.10.5',
-105 silly addNameRange     '0.10.6',
-105 silly addNameRange     '0.10.7',
-105 silly addNameRange     '0.10.8',
-105 silly addNameRange     '0.11.0',
-105 silly addNameRange     '0.12.0',
-105 silly addNameRange     '0.12.1',
-105 silly addNameRange     '0.12.2',
-105 silly addNameRange     '0.12.3',
-105 silly addNameRange     '0.12.4',
-105 silly addNameRange     '0.13.0',
-105 silly addNameRange     '0.13.1',
-105 silly addNameRange     '0.14.0',
-105 silly addNameRange     '0.15.0',
-105 silly addNameRange     '0.16.0',
-105 silly addNameRange     '0.17.0',
-105 silly addNameRange     '0.18.0',
-105 silly addNameRange     '0.19.0',
-105 silly addNameRange     '0.20.0',
-105 silly addNameRange     '0.22.0',
-105 silly addNameRange     '1.0.0-rc.1',
-105 silly addNameRange     '1.0.0-rc.2' ] ]
-106 silly addNamed cheerio@1.0.0-rc.2
-107 verbose addNamed "1.0.0-rc.2" is a plain semver version for cheerio
-108 silly cache afterAdd cheerio@1.0.0-rc.2
-109 verbose afterAdd C:\Users\Marek\AppData\Roaming\npm-cache\cheerio\1.0.0-rc.2\package\package.json not in flight; writing
+101 silly mapToRegistry uri https://registry.npmjs.org/gatsby-plugin-sharp
+102 verbose addNameRange registry:https://registry.npmjs.org/gatsby-plugin-sharp not in flight; fetching
+103 verbose get https://registry.npmjs.org/gatsby-plugin-sharp not expired, no request
+104 silly addNameRange number 2 { name: 'gatsby-plugin-sharp',
+104 silly addNameRange   range: '>=1.6.24 <2.0.0',
+104 silly addNameRange   hasData: true }
+105 silly addNameRange versions [ 'gatsby-plugin-sharp',
+105 silly addNameRange   [ '1.0.0-alpha11-alpha.f46304ad',
+105 silly addNameRange     '1.0.0-alpha11-alpha.3e341373',
+105 silly addNameRange     '1.0.0-alpha11-alpha.c623e1cc',
+105 silly addNameRange     '1.0.0-alpha11-alpha.267af45c',
+105 silly addNameRange     '1.0.0-alpha11-alpha.2a65312c',
+105 silly addNameRange     '1.0.0-alpha11',
+105 silly addNameRange     '1.0.0-alpha12-alpha.1dc37e8b',
+105 silly addNameRange     '1.0.0-alpha12-alpha.117c94f8',
+105 silly addNameRange     '1.0.0-alpha12-alpha.373740a8',
+105 silly addNameRange     '1.0.0-alpha12-alpha.bdc68bfd',
+105 silly addNameRange     '1.0.0-alpha12-alpha.faff3fa9',
+105 silly addNameRange     '1.0.0-alpha12-alpha.a82bd105',
+105 silly addNameRange     '1.0.0-alpha12-alpha.d452aed2',
+105 silly addNameRange     '1.0.0-alpha12-alpha.40e6a4d1',
+105 silly addNameRange     '1.0.0-alpha12-alpha.f4d91ef3',
+105 silly addNameRange     '1.0.0-alpha12-alpha.659f61a4',
+105 silly addNameRange     '1.0.0-alpha12-alpha.e1a3cfed',
+105 silly addNameRange     '1.0.0-alpha12-alpha.70258e9c',
+105 silly addNameRange     '1.0.0-alpha12',
+105 silly addNameRange     '1.0.0-alpha12-alpha.209952c2',
+105 silly addNameRange     '1.0.0-alpha12-alpha.8f812d13',
+105 silly addNameRange     '1.0.0-alpha12-alpha.10a12536',
+105 silly addNameRange     '1.0.0-alpha12-alpha.d82af48f',
+105 silly addNameRange     '1.0.0-alpha12-alpha.9a2a3c59',
+105 silly addNameRange     '1.0.0-alpha12-alpha.72e8aced',
+105 silly addNameRange     '1.0.0-alpha12-alpha.04c05494',
+105 silly addNameRange     '1.0.0-alpha12-alpha.352b3448',
+105 silly addNameRange     '1.0.0-alpha12-alpha.f205e4d4',
+105 silly addNameRange     '1.0.0-alpha12-alpha.3a216f9f',
+105 silly addNameRange     '1.0.0-alpha12-alpha.3f98b323',
+105 silly addNameRange     '1.0.0-alpha12-alpha.cfc93fc7',
+105 silly addNameRange     '1.0.0-alpha12-alpha.e22dfd31',
+105 silly addNameRange     '1.0.0-alpha12-alpha.3e72cc6f',
+105 silly addNameRange     '1.0.0-alpha12-alpha.c8cb2100',
+105 silly addNameRange     '1.0.0-alpha12-alpha.4ba57c84',
+105 silly addNameRange     '1.0.0-alpha12-alpha.a7e9d9c0',
+105 silly addNameRange     '1.0.0-alpha12-alpha.75167f51',
+105 silly addNameRange     '1.0.0-alpha12-alpha.4af3700e',
+105 silly addNameRange     '1.0.0-alpha12-alpha.dfc40de1',
+105 silly addNameRange     '1.0.0-alpha12-alpha.f32320b1',
+105 silly addNameRange     '1.0.0-alpha12-alpha.547467c5',
+105 silly addNameRange     '1.0.0-alpha12-alpha.3d7a5eb6',
+105 silly addNameRange     '1.0.0-alpha12-alpha.b3dbfd2b',
+105 silly addNameRange     '1.0.0-alpha12-alpha.4575c38e',
+105 silly addNameRange     '1.0.0-alpha12-alpha.1b1c742b',
+105 silly addNameRange     '1.0.0-alpha12-alpha.545e4a03',
+105 silly addNameRange     '1.0.0-alpha12-alpha.4f30010e',
+105 silly addNameRange     '1.0.0-alpha12-alpha.e1f27e45',
+105 silly addNameRange     '1.0.0-alpha12-alpha.d37d5d32',
+105 silly addNameRange     '1.0.0-alpha12-alpha.81355cc0',
+105 silly addNameRange     '1.0.0-alpha12-alpha.dbf1a599',
+105 silly addNameRange     '1.0.0-alpha12-alpha.10141fd4',
+105 silly addNameRange     '1.0.0-alpha12-alpha.6e55cfe7',
+105 silly addNameRange     '1.0.0-alpha12-alpha.d7d6ef64',
+105 silly addNameRange     '1.0.0-alpha12-alpha.dffeaa1f',
+105 silly addNameRange     '1.0.0-alpha12-alpha.c155b956',
+105 silly addNameRange     '1.0.0-alpha12-alpha.80e93d69',
+105 silly addNameRange     '1.0.0-alpha12-alpha.4e93d2cf',
+105 silly addNameRange     '1.0.0-alpha12-alpha.351006cf',
+105 silly addNameRange     '1.0.0-alpha12-alpha.0b4b912a',
+105 silly addNameRange     '1.0.0-alpha12-alpha.1fdb9004',
+105 silly addNameRange     '1.0.0-alpha12-alpha.51e1923f',
+105 silly addNameRange     '1.0.0-alpha12-alpha.571b4bbd',
+105 silly addNameRange     '1.0.0-alpha12-alpha.c0bba969',
+105 silly addNameRange     '1.0.0-alpha12-alpha.89d880ee',
+105 silly addNameRange     '1.0.0-alpha12-alpha.b66dd8d3',
+105 silly addNameRange     '1.0.0-alpha12-alpha.577b9e82',
+105 silly addNameRange     '1.0.0-alpha12-alpha.8370739a',
+105 silly addNameRange     '1.0.0-alpha13',
+105 silly addNameRange     '1.0.0-alpha13-alpha.c6e3cbb2',
+105 silly addNameRange     '1.0.0-alpha13-alpha.91dbde54',
+105 silly addNameRange     '1.0.0-alpha13-alpha.ec011f40',
+105 silly addNameRange     '1.0.0-alpha13-alpha.537d11c6',
+105 silly addNameRange     '1.0.0-alpha13-alpha.0189ea42',
+105 silly addNameRange     '1.0.0-alpha13-alpha.215cabc2',
+105 silly addNameRange     '1.0.0-alpha13-alpha.526805ab',
+105 silly addNameRange     '1.0.0-alpha13-alpha.0f0222b8',
+105 silly addNameRange     '1.0.0-alpha13-alpha.7d186994',
+105 silly addNameRange     '1.0.0-alpha13-alpha.a3ef328b',
+105 silly addNameRange     '1.0.0-alpha13-alpha.84bd4b24',
+105 silly addNameRange     '1.0.0-alpha13-alpha.7efda7f0',
+105 silly addNameRange     '1.0.0-alpha13-alpha.435e0178',
+105 silly addNameRange     '1.0.0-alpha13-alpha.e4457d15',
+105 silly addNameRange     '1.0.0-alpha13-alpha.43a3774e',
+105 silly addNameRange     '1.0.0-alpha14',
+105 silly addNameRange     '1.0.0-alpha14-alpha.3145bea2',
+105 silly addNameRange     '1.0.0-alpha14-alpha.e5097827',
+105 silly addNameRange     '1.0.0-alpha14-alpha.5f9232df',
+105 silly addNameRange     '1.0.0-alpha14-alpha.48e2735c',
+105 silly addNameRange     '1.0.0-alpha14-alpha.42f0e16a',
+105 silly addNameRange     '1.0.0-alpha14-alpha.1ebda6e4',
+105 silly addNameRange     '1.0.0-alpha14-alpha.a4a50ee4',
+105 silly addNameRange     '1.0.0-alpha14-alpha.6611f24e',
+105 silly addNameRange     '1.0.0-alpha14-alpha.ac7022a4',
+105 silly addNameRange     '1.0.0-alpha15',
+105 silly addNameRange     '1.0.0-alpha15-alpha.6c40594a',
+105 silly addNameRange     '1.0.0-alpha15-alpha.17ca92e9',
+105 silly addNameRange     '1.0.0-alpha15-alpha.7211d781',
+105 silly addNameRange     '1.0.0-alpha15-alpha.11f194aa',
+105 silly addNameRange     '1.0.0-alpha15-alpha.62fcc2e1',
+105 silly addNameRange     ... 101 more items ] ]
+106 silly addNamed gatsby-plugin-sharp@1.6.24
+107 verbose addNamed "1.6.24" is a plain semver version for gatsby-plugin-sharp
+108 silly cache afterAdd gatsby-plugin-sharp@1.6.24
+109 verbose afterAdd C:\Users\Marek\AppData\Roaming\npm-cache\gatsby-plugin-sharp\1.6.24\package\package.json not in flight; writing
 110 verbose correctMkdir C:\Users\Marek\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
-111 verbose afterAdd C:\Users\Marek\AppData\Roaming\npm-cache\cheerio\1.0.0-rc.2\package\package.json written
-112 http 304 https://registry.npmjs.org/gatsby-plugin-sharp
-113 verbose headers { date: 'Sat, 13 Jan 2018 03:45:39 GMT',
+111 verbose afterAdd C:\Users\Marek\AppData\Roaming\npm-cache\gatsby-plugin-sharp\1.6.24\package\package.json written
+112 http 304 https://registry.npmjs.org/cheerio
+113 verbose headers { date: 'Sat, 13 Jan 2018 05:59:13 GMT',
 113 verbose headers   via: '1.1 varnish',
 113 verbose headers   'cache-control': 'max-age=300',
-113 verbose headers   etag: '"5a58f968-48c24"',
-113 verbose headers   age: '550',
+113 verbose headers   etag: '"5a5259d5-1a850"',
+113 verbose headers   age: '1293',
 113 verbose headers   connection: 'keep-alive',
-113 verbose headers   'x-served-by': 'cache-iad2623-IAD',
+113 verbose headers   'x-served-by': 'cache-iad2642-IAD',
 113 verbose headers   'x-cache': 'HIT',
-113 verbose headers   'x-cache-hits': '1',
-113 verbose headers   'x-timer': 'S1515815139.313159,VS0,VE2',
+113 verbose headers   'x-cache-hits': '4',
+113 verbose headers   'x-timer': 'S1515823153.137291,VS0,VE0',
 113 verbose headers   vary: 'Accept-Encoding, Accept' }
 114 silly get cb [ 304,
-114 silly get   { date: 'Sat, 13 Jan 2018 03:45:39 GMT',
+114 silly get   { date: 'Sat, 13 Jan 2018 05:59:13 GMT',
 114 silly get     via: '1.1 varnish',
 114 silly get     'cache-control': 'max-age=300',
-114 silly get     etag: '"5a58f968-48c24"',
-114 silly get     age: '550',
+114 silly get     etag: '"5a5259d5-1a850"',
+114 silly get     age: '1293',
 114 silly get     connection: 'keep-alive',
-114 silly get     'x-served-by': 'cache-iad2623-IAD',
+114 silly get     'x-served-by': 'cache-iad2642-IAD',
 114 silly get     'x-cache': 'HIT',
-114 silly get     'x-cache-hits': '1',
-114 silly get     'x-timer': 'S1515815139.313159,VS0,VE2',
+114 silly get     'x-cache-hits': '4',
+114 silly get     'x-timer': 'S1515823153.137291,VS0,VE0',
 114 silly get     vary: 'Accept-Encoding, Accept' } ]
-115 verbose etag https://registry.npmjs.org/gatsby-plugin-sharp from cache
-116 verbose get saving gatsby-plugin-sharp to C:\Users\Marek\AppData\Roaming\npm-cache\registry.npmjs.org\gatsby-plugin-sharp\.cache.json
+115 verbose etag https://registry.npmjs.org/cheerio from cache
+116 verbose get saving cheerio to C:\Users\Marek\AppData\Roaming\npm-cache\registry.npmjs.org\cheerio\.cache.json
 117 verbose correctMkdir C:\Users\Marek\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
-118 silly resolveWithNewModule gatsby-plugin-sharp@1.6.24 checking installable status
-119 silly cache add args [ 'gatsby-plugin-sharp@^1.6.24', null ]
-120 verbose cache add spec gatsby-plugin-sharp@^1.6.24
+118 silly resolveWithNewModule cheerio@1.0.0-rc.2 checking installable status
+119 silly cache add args [ 'cheerio@^1.0.0-rc.2', null ]
+120 verbose cache add spec cheerio@^1.0.0-rc.2
 121 silly cache add parsed spec Result {
-121 silly cache add   raw: 'gatsby-plugin-sharp@^1.6.24',
+121 silly cache add   raw: 'cheerio@^1.0.0-rc.2',
 121 silly cache add   scope: null,
-121 silly cache add   escapedName: 'gatsby-plugin-sharp',
-121 silly cache add   name: 'gatsby-plugin-sharp',
-121 silly cache add   rawSpec: '^1.6.24',
-121 silly cache add   spec: '>=1.6.24 <2.0.0',
+121 silly cache add   escapedName: 'cheerio',
+121 silly cache add   name: 'cheerio',
+121 silly cache add   rawSpec: '^1.0.0-rc.2',
+121 silly cache add   spec: '>=1.0.0-rc.2 <2.0.0',
 121 silly cache add   type: 'range' }
-122 silly addNamed gatsby-plugin-sharp@>=1.6.24 <2.0.0
-123 verbose addNamed ">=1.6.24 <2.0.0" is a valid semver range for gatsby-plugin-sharp
-124 silly addNameRange { name: 'gatsby-plugin-sharp',
-124 silly addNameRange   range: '>=1.6.24 <2.0.0',
-124 silly addNameRange   hasData: false }
-125 silly mapToRegistry name gatsby-plugin-sharp
+122 silly addNamed cheerio@>=1.0.0-rc.2 <2.0.0
+123 verbose addNamed ">=1.0.0-rc.2 <2.0.0" is a valid semver range for cheerio
+124 silly addNameRange { name: 'cheerio', range: '>=1.0.0-rc.2 <2.0.0', hasData: false }
+125 silly mapToRegistry name cheerio
 126 silly mapToRegistry using default registry
 127 silly mapToRegistry registry https://registry.npmjs.org/
 128 silly mapToRegistry data Result {
-128 silly mapToRegistry   raw: 'gatsby-plugin-sharp',
+128 silly mapToRegistry   raw: 'cheerio',
 128 silly mapToRegistry   scope: null,
-128 silly mapToRegistry   escapedName: 'gatsby-plugin-sharp',
-128 silly mapToRegistry   name: 'gatsby-plugin-sharp',
+128 silly mapToRegistry   escapedName: 'cheerio',
+128 silly mapToRegistry   name: 'cheerio',
 128 silly mapToRegistry   rawSpec: '',
 128 silly mapToRegistry   spec: 'latest',
 128 silly mapToRegistry   type: 'tag' }
-129 silly mapToRegistry uri https://registry.npmjs.org/gatsby-plugin-sharp
-130 verbose addNameRange registry:https://registry.npmjs.org/gatsby-plugin-sharp not in flight; fetching
-131 verbose get https://registry.npmjs.org/gatsby-plugin-sharp not expired, no request
-132 silly addNameRange number 2 { name: 'gatsby-plugin-sharp',
-132 silly addNameRange   range: '>=1.6.24 <2.0.0',
-132 silly addNameRange   hasData: true }
-133 silly addNameRange versions [ 'gatsby-plugin-sharp',
-133 silly addNameRange   [ '1.0.0-alpha11-alpha.f46304ad',
-133 silly addNameRange     '1.0.0-alpha11-alpha.3e341373',
-133 silly addNameRange     '1.0.0-alpha11-alpha.c623e1cc',
-133 silly addNameRange     '1.0.0-alpha11-alpha.267af45c',
-133 silly addNameRange     '1.0.0-alpha11-alpha.2a65312c',
-133 silly addNameRange     '1.0.0-alpha11',
-133 silly addNameRange     '1.0.0-alpha12-alpha.1dc37e8b',
-133 silly addNameRange     '1.0.0-alpha12-alpha.117c94f8',
-133 silly addNameRange     '1.0.0-alpha12-alpha.373740a8',
-133 silly addNameRange     '1.0.0-alpha12-alpha.bdc68bfd',
-133 silly addNameRange     '1.0.0-alpha12-alpha.faff3fa9',
-133 silly addNameRange     '1.0.0-alpha12-alpha.a82bd105',
-133 silly addNameRange     '1.0.0-alpha12-alpha.d452aed2',
-133 silly addNameRange     '1.0.0-alpha12-alpha.40e6a4d1',
-133 silly addNameRange     '1.0.0-alpha12-alpha.f4d91ef3',
-133 silly addNameRange     '1.0.0-alpha12-alpha.659f61a4',
-133 silly addNameRange     '1.0.0-alpha12-alpha.e1a3cfed',
-133 silly addNameRange     '1.0.0-alpha12-alpha.70258e9c',
-133 silly addNameRange     '1.0.0-alpha12',
-133 silly addNameRange     '1.0.0-alpha12-alpha.209952c2',
-133 silly addNameRange     '1.0.0-alpha12-alpha.8f812d13',
-133 silly addNameRange     '1.0.0-alpha12-alpha.10a12536',
-133 silly addNameRange     '1.0.0-alpha12-alpha.d82af48f',
-133 silly addNameRange     '1.0.0-alpha12-alpha.9a2a3c59',
-133 silly addNameRange     '1.0.0-alpha12-alpha.72e8aced',
-133 silly addNameRange     '1.0.0-alpha12-alpha.04c05494',
-133 silly addNameRange     '1.0.0-alpha12-alpha.352b3448',
-133 silly addNameRange     '1.0.0-alpha12-alpha.f205e4d4',
-133 silly addNameRange     '1.0.0-alpha12-alpha.3a216f9f',
-133 silly addNameRange     '1.0.0-alpha12-alpha.3f98b323',
-133 silly addNameRange     '1.0.0-alpha12-alpha.cfc93fc7',
-133 silly addNameRange     '1.0.0-alpha12-alpha.e22dfd31',
-133 silly addNameRange     '1.0.0-alpha12-alpha.3e72cc6f',
-133 silly addNameRange     '1.0.0-alpha12-alpha.c8cb2100',
-133 silly addNameRange     '1.0.0-alpha12-alpha.4ba57c84',
-133 silly addNameRange     '1.0.0-alpha12-alpha.a7e9d9c0',
-133 silly addNameRange     '1.0.0-alpha12-alpha.75167f51',
-133 silly addNameRange     '1.0.0-alpha12-alpha.4af3700e',
-133 silly addNameRange     '1.0.0-alpha12-alpha.dfc40de1',
-133 silly addNameRange     '1.0.0-alpha12-alpha.f32320b1',
-133 silly addNameRange     '1.0.0-alpha12-alpha.547467c5',
-133 silly addNameRange     '1.0.0-alpha12-alpha.3d7a5eb6',
-133 silly addNameRange     '1.0.0-alpha12-alpha.b3dbfd2b',
-133 silly addNameRange     '1.0.0-alpha12-alpha.4575c38e',
-133 silly addNameRange     '1.0.0-alpha12-alpha.1b1c742b',
-133 silly addNameRange     '1.0.0-alpha12-alpha.545e4a03',
-133 silly addNameRange     '1.0.0-alpha12-alpha.4f30010e',
-133 silly addNameRange     '1.0.0-alpha12-alpha.e1f27e45',
-133 silly addNameRange     '1.0.0-alpha12-alpha.d37d5d32',
-133 silly addNameRange     '1.0.0-alpha12-alpha.81355cc0',
-133 silly addNameRange     '1.0.0-alpha12-alpha.dbf1a599',
-133 silly addNameRange     '1.0.0-alpha12-alpha.10141fd4',
-133 silly addNameRange     '1.0.0-alpha12-alpha.6e55cfe7',
-133 silly addNameRange     '1.0.0-alpha12-alpha.d7d6ef64',
-133 silly addNameRange     '1.0.0-alpha12-alpha.dffeaa1f',
-133 silly addNameRange     '1.0.0-alpha12-alpha.c155b956',
-133 silly addNameRange     '1.0.0-alpha12-alpha.80e93d69',
-133 silly addNameRange     '1.0.0-alpha12-alpha.4e93d2cf',
-133 silly addNameRange     '1.0.0-alpha12-alpha.351006cf',
-133 silly addNameRange     '1.0.0-alpha12-alpha.0b4b912a',
-133 silly addNameRange     '1.0.0-alpha12-alpha.1fdb9004',
-133 silly addNameRange     '1.0.0-alpha12-alpha.51e1923f',
-133 silly addNameRange     '1.0.0-alpha12-alpha.571b4bbd',
-133 silly addNameRange     '1.0.0-alpha12-alpha.c0bba969',
-133 silly addNameRange     '1.0.0-alpha12-alpha.89d880ee',
-133 silly addNameRange     '1.0.0-alpha12-alpha.b66dd8d3',
-133 silly addNameRange     '1.0.0-alpha12-alpha.577b9e82',
-133 silly addNameRange     '1.0.0-alpha12-alpha.8370739a',
-133 silly addNameRange     '1.0.0-alpha13',
-133 silly addNameRange     '1.0.0-alpha13-alpha.c6e3cbb2',
-133 silly addNameRange     '1.0.0-alpha13-alpha.91dbde54',
-133 silly addNameRange     '1.0.0-alpha13-alpha.ec011f40',
-133 silly addNameRange     '1.0.0-alpha13-alpha.537d11c6',
-133 silly addNameRange     '1.0.0-alpha13-alpha.0189ea42',
-133 silly addNameRange     '1.0.0-alpha13-alpha.215cabc2',
-133 silly addNameRange     '1.0.0-alpha13-alpha.526805ab',
-133 silly addNameRange     '1.0.0-alpha13-alpha.0f0222b8',
-133 silly addNameRange     '1.0.0-alpha13-alpha.7d186994',
-133 silly addNameRange     '1.0.0-alpha13-alpha.a3ef328b',
-133 silly addNameRange     '1.0.0-alpha13-alpha.84bd4b24',
-133 silly addNameRange     '1.0.0-alpha13-alpha.7efda7f0',
-133 silly addNameRange     '1.0.0-alpha13-alpha.435e0178',
-133 silly addNameRange     '1.0.0-alpha13-alpha.e4457d15',
-133 silly addNameRange     '1.0.0-alpha13-alpha.43a3774e',
-133 silly addNameRange     '1.0.0-alpha14',
-133 silly addNameRange     '1.0.0-alpha14-alpha.3145bea2',
-133 silly addNameRange     '1.0.0-alpha14-alpha.e5097827',
-133 silly addNameRange     '1.0.0-alpha14-alpha.5f9232df',
-133 silly addNameRange     '1.0.0-alpha14-alpha.48e2735c',
-133 silly addNameRange     '1.0.0-alpha14-alpha.42f0e16a',
-133 silly addNameRange     '1.0.0-alpha14-alpha.1ebda6e4',
-133 silly addNameRange     '1.0.0-alpha14-alpha.a4a50ee4',
-133 silly addNameRange     '1.0.0-alpha14-alpha.6611f24e',
-133 silly addNameRange     '1.0.0-alpha14-alpha.ac7022a4',
-133 silly addNameRange     '1.0.0-alpha15',
-133 silly addNameRange     '1.0.0-alpha15-alpha.6c40594a',
-133 silly addNameRange     '1.0.0-alpha15-alpha.17ca92e9',
-133 silly addNameRange     '1.0.0-alpha15-alpha.7211d781',
-133 silly addNameRange     '1.0.0-alpha15-alpha.11f194aa',
-133 silly addNameRange     '1.0.0-alpha15-alpha.62fcc2e1',
-133 silly addNameRange     ... 101 more items ] ]
-134 silly addNamed gatsby-plugin-sharp@1.6.24
-135 verbose addNamed "1.6.24" is a plain semver version for gatsby-plugin-sharp
-136 silly cache afterAdd gatsby-plugin-sharp@1.6.24
-137 verbose afterAdd C:\Users\Marek\AppData\Roaming\npm-cache\gatsby-plugin-sharp\1.6.24\package\package.json not in flight; writing
+129 silly mapToRegistry uri https://registry.npmjs.org/cheerio
+130 verbose addNameRange registry:https://registry.npmjs.org/cheerio not in flight; fetching
+131 verbose get https://registry.npmjs.org/cheerio not expired, no request
+132 silly addNameRange number 2 { name: 'cheerio', range: '>=1.0.0-rc.2 <2.0.0', hasData: true }
+133 silly addNameRange versions [ 'cheerio',
+133 silly addNameRange   [ '0.0.1',
+133 silly addNameRange     '0.0.2',
+133 silly addNameRange     '0.0.3',
+133 silly addNameRange     '0.0.4',
+133 silly addNameRange     '0.1.1',
+133 silly addNameRange     '0.1.2',
+133 silly addNameRange     '0.1.3',
+133 silly addNameRange     '0.1.4',
+133 silly addNameRange     '0.1.5',
+133 silly addNameRange     '0.2.0',
+133 silly addNameRange     '0.2.1',
+133 silly addNameRange     '0.2.2',
+133 silly addNameRange     '0.3.0',
+133 silly addNameRange     '0.3.1',
+133 silly addNameRange     '0.3.2',
+133 silly addNameRange     '0.4.0',
+133 silly addNameRange     '0.4.1',
+133 silly addNameRange     '0.4.2',
+133 silly addNameRange     '0.5.0',
+133 silly addNameRange     '0.5.1',
+133 silly addNameRange     '0.5.2',
+133 silly addNameRange     '0.6.0',
+133 silly addNameRange     '0.6.1',
+133 silly addNameRange     '0.6.2',
+133 silly addNameRange     '0.7.0',
+133 silly addNameRange     '0.8.0',
+133 silly addNameRange     '0.8.1',
+133 silly addNameRange     '0.8.2',
+133 silly addNameRange     '0.8.3',
+133 silly addNameRange     '0.9.0',
+133 silly addNameRange     '0.9.1',
+133 silly addNameRange     '0.9.2',
+133 silly addNameRange     '0.10.0',
+133 silly addNameRange     '0.10.1',
+133 silly addNameRange     '0.10.2',
+133 silly addNameRange     '0.10.3',
+133 silly addNameRange     '0.10.4',
+133 silly addNameRange     '0.10.5',
+133 silly addNameRange     '0.10.6',
+133 silly addNameRange     '0.10.7',
+133 silly addNameRange     '0.10.8',
+133 silly addNameRange     '0.11.0',
+133 silly addNameRange     '0.12.0',
+133 silly addNameRange     '0.12.1',
+133 silly addNameRange     '0.12.2',
+133 silly addNameRange     '0.12.3',
+133 silly addNameRange     '0.12.4',
+133 silly addNameRange     '0.13.0',
+133 silly addNameRange     '0.13.1',
+133 silly addNameRange     '0.14.0',
+133 silly addNameRange     '0.15.0',
+133 silly addNameRange     '0.16.0',
+133 silly addNameRange     '0.17.0',
+133 silly addNameRange     '0.18.0',
+133 silly addNameRange     '0.19.0',
+133 silly addNameRange     '0.20.0',
+133 silly addNameRange     '0.22.0',
+133 silly addNameRange     '1.0.0-rc.1',
+133 silly addNameRange     '1.0.0-rc.2' ] ]
+134 silly addNamed cheerio@1.0.0-rc.2
+135 verbose addNamed "1.0.0-rc.2" is a plain semver version for cheerio
+136 silly cache afterAdd cheerio@1.0.0-rc.2
+137 verbose afterAdd C:\Users\Marek\AppData\Roaming\npm-cache\cheerio\1.0.0-rc.2\package\package.json not in flight; writing
 138 verbose correctMkdir C:\Users\Marek\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
-139 verbose afterAdd C:\Users\Marek\AppData\Roaming\npm-cache\gatsby-plugin-sharp\1.6.24\package\package.json written
+139 verbose afterAdd C:\Users\Marek\AppData\Roaming\npm-cache\cheerio\1.0.0-rc.2\package\package.json written
 140 silly fetchNamedPackageData htmlparser2
 141 silly mapToRegistry name htmlparser2
 142 silly mapToRegistry using default registry
@@ -447,33 +446,33 @@
 145 silly mapToRegistry uri https://registry.npmjs.org/htmlparser2
 146 verbose request uri https://registry.npmjs.org/htmlparser2
 147 verbose request no auth needed
-148 info attempt registry request try #1 at 10:45:39 PM
+148 info attempt registry request try #1 at 12:59:13 AM
 149 verbose etag "5a5971be-126e2"
 150 verbose lastModified Sat, 13 Jan 2018 2:41:02 GMT
 151 http request GET https://registry.npmjs.org/htmlparser2
 152 http 304 https://registry.npmjs.org/htmlparser2
-153 verbose headers { date: 'Sat, 13 Jan 2018 03:45:39 GMT',
+153 verbose headers { date: 'Sat, 13 Jan 2018 05:59:13 GMT',
 153 verbose headers   via: '1.1 varnish',
 153 verbose headers   'cache-control': 'max-age=300',
 153 verbose headers   etag: '"5a5971be-126e2"',
-153 verbose headers   age: '3863',
+153 verbose headers   age: '11877',
 153 verbose headers   connection: 'keep-alive',
-153 verbose headers   'x-served-by': 'cache-iad2141-IAD',
+153 verbose headers   'x-served-by': 'cache-iad2145-IAD',
 153 verbose headers   'x-cache': 'HIT',
-153 verbose headers   'x-cache-hits': '10',
-153 verbose headers   'x-timer': 'S1515815139.465611,VS0,VE0',
+153 verbose headers   'x-cache-hits': '35',
+153 verbose headers   'x-timer': 'S1515823154.991313,VS0,VE0',
 153 verbose headers   vary: 'Accept-Encoding, Accept' }
 154 silly get cb [ 304,
-154 silly get   { date: 'Sat, 13 Jan 2018 03:45:39 GMT',
+154 silly get   { date: 'Sat, 13 Jan 2018 05:59:13 GMT',
 154 silly get     via: '1.1 varnish',
 154 silly get     'cache-control': 'max-age=300',
 154 silly get     etag: '"5a5971be-126e2"',
-154 silly get     age: '3863',
+154 silly get     age: '11877',
 154 silly get     connection: 'keep-alive',
-154 silly get     'x-served-by': 'cache-iad2141-IAD',
+154 silly get     'x-served-by': 'cache-iad2145-IAD',
 154 silly get     'x-cache': 'HIT',
-154 silly get     'x-cache-hits': '10',
-154 silly get     'x-timer': 'S1515815139.465611,VS0,VE0',
+154 silly get     'x-cache-hits': '35',
+154 silly get     'x-timer': 'S1515823154.991313,VS0,VE0',
 154 silly get     vary: 'Accept-Encoding, Accept' } ]
 155 verbose etag https://registry.npmjs.org/htmlparser2 from cache
 156 verbose get saving htmlparser2 to C:\Users\Marek\AppData\Roaming\npm-cache\registry.npmjs.org\htmlparser2\.cache.json
@@ -586,33 +585,33 @@
 185 silly mapToRegistry uri https://registry.npmjs.org/domhandler
 186 verbose request uri https://registry.npmjs.org/domhandler
 187 verbose request no auth needed
-188 info attempt registry request try #1 at 10:45:39 PM
+188 info attempt registry request try #1 at 12:59:14 AM
 189 verbose etag "5a316b9a-4918"
 190 verbose lastModified Wed, 13 Dec 2017 18:04:10 GMT
 191 http request GET https://registry.npmjs.org/domhandler
 192 http 304 https://registry.npmjs.org/domhandler
-193 verbose headers { date: 'Sat, 13 Jan 2018 03:45:39 GMT',
+193 verbose headers { date: 'Sat, 13 Jan 2018 05:59:14 GMT',
 193 verbose headers   via: '1.1 varnish',
 193 verbose headers   'cache-control': 'max-age=300',
 193 verbose headers   etag: '"5a316b9a-4918"',
-193 verbose headers   age: '4515',
+193 verbose headers   age: '12530',
 193 verbose headers   connection: 'keep-alive',
-193 verbose headers   'x-served-by': 'cache-iad2623-IAD',
+193 verbose headers   'x-served-by': 'cache-iad2642-IAD',
 193 verbose headers   'x-cache': 'HIT',
-193 verbose headers   'x-cache-hits': '20',
-193 verbose headers   'x-timer': 'S1515815140.584249,VS0,VE0',
+193 verbose headers   'x-cache-hits': '44',
+193 verbose headers   'x-timer': 'S1515823154.281349,VS0,VE0',
 193 verbose headers   vary: 'Accept-Encoding, Accept' }
 194 silly get cb [ 304,
-194 silly get   { date: 'Sat, 13 Jan 2018 03:45:39 GMT',
+194 silly get   { date: 'Sat, 13 Jan 2018 05:59:14 GMT',
 194 silly get     via: '1.1 varnish',
 194 silly get     'cache-control': 'max-age=300',
 194 silly get     etag: '"5a316b9a-4918"',
-194 silly get     age: '4515',
+194 silly get     age: '12530',
 194 silly get     connection: 'keep-alive',
-194 silly get     'x-served-by': 'cache-iad2623-IAD',
+194 silly get     'x-served-by': 'cache-iad2642-IAD',
 194 silly get     'x-cache': 'HIT',
-194 silly get     'x-cache-hits': '20',
-194 silly get     'x-timer': 'S1515815140.584249,VS0,VE0',
+194 silly get     'x-cache-hits': '44',
+194 silly get     'x-timer': 'S1515823154.281349,VS0,VE0',
 194 silly get     vary: 'Accept-Encoding, Accept' } ]
 195 verbose etag https://registry.npmjs.org/domhandler from cache
 196 verbose get saving domhandler to C:\Users\Marek\AppData\Roaming\npm-cache\registry.npmjs.org\domhandler\.cache.json
@@ -685,33 +684,33 @@
 225 silly mapToRegistry uri https://registry.npmjs.org/sharp
 226 verbose request uri https://registry.npmjs.org/sharp
 227 verbose request no auth needed
-228 info attempt registry request try #1 at 10:45:39 PM
+228 info attempt registry request try #1 at 12:59:14 AM
 229 verbose etag "5a57f246-2792c"
 230 verbose lastModified Thu, 11 Jan 2018 23:24:54 GMT
 231 http request GET https://registry.npmjs.org/sharp
 232 http 304 https://registry.npmjs.org/sharp
-233 verbose headers { date: 'Sat, 13 Jan 2018 03:45:39 GMT',
+233 verbose headers { date: 'Sat, 13 Jan 2018 05:59:14 GMT',
 233 verbose headers   via: '1.1 varnish',
 233 verbose headers   'cache-control': 'max-age=300',
 233 verbose headers   etag: '"5a57f246-2792c"',
-233 verbose headers   age: '13844',
+233 verbose headers   age: '7429',
 233 verbose headers   connection: 'keep-alive',
-233 verbose headers   'x-served-by': 'cache-iad2141-IAD',
+233 verbose headers   'x-served-by': 'cache-iad2145-IAD',
 233 verbose headers   'x-cache': 'HIT',
 233 verbose headers   'x-cache-hits': '1',
-233 verbose headers   'x-timer': 'S1515815140.826175,VS0,VE2',
+233 verbose headers   'x-timer': 'S1515823154.492249,VS0,VE1',
 233 verbose headers   vary: 'Accept-Encoding, Accept' }
 234 silly get cb [ 304,
-234 silly get   { date: 'Sat, 13 Jan 2018 03:45:39 GMT',
+234 silly get   { date: 'Sat, 13 Jan 2018 05:59:14 GMT',
 234 silly get     via: '1.1 varnish',
 234 silly get     'cache-control': 'max-age=300',
 234 silly get     etag: '"5a57f246-2792c"',
-234 silly get     age: '13844',
+234 silly get     age: '7429',
 234 silly get     connection: 'keep-alive',
-234 silly get     'x-served-by': 'cache-iad2141-IAD',
+234 silly get     'x-served-by': 'cache-iad2145-IAD',
 234 silly get     'x-cache': 'HIT',
 234 silly get     'x-cache-hits': '1',
-234 silly get     'x-timer': 'S1515815140.826175,VS0,VE2',
+234 silly get     'x-timer': 'S1515823154.492249,VS0,VE1',
 234 silly get     vary: 'Accept-Encoding, Accept' } ]
 235 verbose etag https://registry.npmjs.org/sharp from cache
 236 verbose get saving sharp to C:\Users\Marek\AppData\Roaming\npm-cache\registry.npmjs.org\sharp\.cache.json
@@ -848,68 +847,68 @@
 270 silly mapToRegistry   spec: 'latest',
 270 silly mapToRegistry   type: 'tag' }
 271 silly mapToRegistry uri https://registry.npmjs.org/color
-272 verbose request uri https://registry.npmjs.org/color
+272 verbose request uri https://registry.npmjs.org/caw
 273 verbose request no auth needed
-274 info attempt registry request try #1 at 10:45:40 PM
-275 verbose etag "5a588e91-99c8"
-276 verbose lastModified Fri, 12 Jan 2018 10:31:45 GMT
-277 http request GET https://registry.npmjs.org/color
-278 verbose request uri https://registry.npmjs.org/caw
+274 info attempt registry request try #1 at 12:59:15 AM
+275 verbose etag "59709e8d-28c2"
+276 verbose lastModified Thu, 20 Jul 2017 12:14:05 GMT
+277 http request GET https://registry.npmjs.org/caw
+278 verbose request uri https://registry.npmjs.org/color
 279 verbose request no auth needed
-280 info attempt registry request try #1 at 10:45:40 PM
-281 verbose etag "59709e8d-28c2"
-282 verbose lastModified Thu, 20 Jul 2017 12:14:05 GMT
-283 http request GET https://registry.npmjs.org/caw
+280 info attempt registry request try #1 at 12:59:15 AM
+281 verbose etag "5a588e91-99c8"
+282 verbose lastModified Fri, 12 Jan 2018 10:31:45 GMT
+283 http request GET https://registry.npmjs.org/color
 284 http 304 https://registry.npmjs.org/caw
-285 verbose headers { date: 'Sat, 13 Jan 2018 03:45:40 GMT',
+285 verbose headers { date: 'Sat, 13 Jan 2018 05:59:15 GMT',
 285 verbose headers   via: '1.1 varnish',
 285 verbose headers   'cache-control': 'max-age=300',
 285 verbose headers   etag: '"59709e8d-28c2"',
-285 verbose headers   age: '13426',
+285 verbose headers   age: '6996',
 285 verbose headers   connection: 'keep-alive',
-285 verbose headers   'x-served-by': 'cache-iad2141-IAD',
+285 verbose headers   'x-served-by': 'cache-iad2642-IAD',
 285 verbose headers   'x-cache': 'HIT',
-285 verbose headers   'x-cache-hits': '1',
-285 verbose headers   'x-timer': 'S1515815141.895501,VS0,VE1',
+285 verbose headers   'x-cache-hits': '3',
+285 verbose headers   'x-timer': 'S1515823156.759149,VS0,VE0',
 285 verbose headers   vary: 'Accept-Encoding, Accept' }
 286 silly get cb [ 304,
-286 silly get   { date: 'Sat, 13 Jan 2018 03:45:40 GMT',
+286 silly get   { date: 'Sat, 13 Jan 2018 05:59:15 GMT',
 286 silly get     via: '1.1 varnish',
 286 silly get     'cache-control': 'max-age=300',
 286 silly get     etag: '"59709e8d-28c2"',
-286 silly get     age: '13426',
+286 silly get     age: '6996',
 286 silly get     connection: 'keep-alive',
-286 silly get     'x-served-by': 'cache-iad2141-IAD',
+286 silly get     'x-served-by': 'cache-iad2642-IAD',
 286 silly get     'x-cache': 'HIT',
-286 silly get     'x-cache-hits': '1',
-286 silly get     'x-timer': 'S1515815141.895501,VS0,VE1',
+286 silly get     'x-cache-hits': '3',
+286 silly get     'x-timer': 'S1515823156.759149,VS0,VE0',
 286 silly get     vary: 'Accept-Encoding, Accept' } ]
 287 verbose etag https://registry.npmjs.org/caw from cache
 288 verbose get saving caw to C:\Users\Marek\AppData\Roaming\npm-cache\registry.npmjs.org\caw\.cache.json
 289 verbose correctMkdir C:\Users\Marek\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
 290 http 304 https://registry.npmjs.org/color
-291 verbose headers { date: 'Sat, 13 Jan 2018 03:45:40 GMT',
+291 verbose headers { date: 'Sat, 13 Jan 2018 05:59:15 GMT',
 291 verbose headers   via: '1.1 varnish',
 291 verbose headers   'cache-control': 'max-age=300',
 291 verbose headers   etag: '"5a588e91-99c8"',
-291 verbose headers   age: '4390',
+291 verbose headers   age: '12405',
 291 verbose headers   connection: 'keep-alive',
-291 verbose headers   'x-served-by': 'cache-iad2623-IAD',
+291 verbose headers   'x-served-by': 'cache-iad2145-IAD',
 291 verbose headers   'x-cache': 'HIT',
-291 verbose headers   'x-cache-hits': '6',
-291 verbose headers   'x-timer': 'S1515815141.895459,VS0,VE0',
+291 verbose headers   'x-cache-hits': '17',
+291 verbose headers   'x-timer': 'S1515823156.759265,VS0,VE0',
 291 verbose headers   vary: 'Accept-Encoding, Accept' }
 292 silly get cb [ 304,
-292 silly get   { date: 'Sat, 13 Jan 2018 03:45:40 GMT',
+292 silly get   { date: 'Sat, 13 Jan 2018 05:59:15 GMT',
 292 silly get     via: '1.1 varnish',
 292 silly get     'cache-control': 'max-age=300',
 292 silly get     etag: '"5a588e91-99c8"',
-292 silly get     age: '4390',
+292 silly get     age: '12405',
 292 silly get     connection: 'keep-alive',
-292 silly get     'x-served-by': 'cache-iad2623-IAD',
+292 silly get     'x-served-by': 'cache-iad2145-IAD',
 292 silly get     'x-cache': 'HIT',
-292 silly get     'x-cache-hits': '6',
-292 silly get     'x-timer': 'S1515815141.895459,VS0,VE0',
+292 silly get     'x-cache-hits': '17',
+292 silly get     'x-timer': 'S1515823156.759265,VS0,VE0',
 292 silly get     vary: 'Accept-Encoding, Accept' } ]
 293 verbose etag https://registry.npmjs.org/color from cache
 294 verbose get saving color to C:\Users\Marek\AppData\Roaming\npm-cache\registry.npmjs.org\color\.cache.json
@@ -1014,10 +1013,10 @@
 332 silly cache afterAdd caw@2.0.1
 333 verbose afterAdd C:\Users\Marek\AppData\Roaming\npm-cache\caw\2.0.1\package\package.json not in flight; writing
 334 verbose correctMkdir C:\Users\Marek\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
-335 silly cache afterAdd color@1.0.3
-336 verbose afterAdd C:\Users\Marek\AppData\Roaming\npm-cache\color\1.0.3\package\package.json not in flight; writing
-337 verbose correctMkdir C:\Users\Marek\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
-338 verbose afterAdd C:\Users\Marek\AppData\Roaming\npm-cache\caw\2.0.1\package\package.json written
+335 verbose afterAdd C:\Users\Marek\AppData\Roaming\npm-cache\caw\2.0.1\package\package.json written
+336 silly cache afterAdd color@1.0.3
+337 verbose afterAdd C:\Users\Marek\AppData\Roaming\npm-cache\color\1.0.3\package\package.json not in flight; writing
+338 verbose correctMkdir C:\Users\Marek\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
 339 verbose afterAdd C:\Users\Marek\AppData\Roaming\npm-cache\color\1.0.3\package\package.json written
 340 silly fetchNamedPackageData get-proxy
 341 silly mapToRegistry name get-proxy
@@ -1034,33 +1033,33 @@
 345 silly mapToRegistry uri https://registry.npmjs.org/get-proxy
 346 verbose request uri https://registry.npmjs.org/get-proxy
 347 verbose request no auth needed
-348 info attempt registry request try #1 at 10:45:40 PM
+348 info attempt registry request try #1 at 12:59:15 AM
 349 verbose etag "59bdb911-1b21"
 350 verbose lastModified Sat, 16 Sep 2017 23:51:45 GMT
 351 http request GET https://registry.npmjs.org/get-proxy
 352 http 304 https://registry.npmjs.org/get-proxy
-353 verbose headers { date: 'Sat, 13 Jan 2018 03:45:41 GMT',
+353 verbose headers { date: 'Sat, 13 Jan 2018 05:59:15 GMT',
 353 verbose headers   via: '1.1 varnish',
 353 verbose headers   'cache-control': 'max-age=300',
 353 verbose headers   etag: '"59bdb911-1b21"',
-353 verbose headers   age: '7817',
+353 verbose headers   age: '1367',
 353 verbose headers   connection: 'keep-alive',
-353 verbose headers   'x-served-by': 'cache-iad2141-IAD',
+353 verbose headers   'x-served-by': 'cache-iad2642-IAD',
 353 verbose headers   'x-cache': 'HIT',
-353 verbose headers   'x-cache-hits': '1',
-353 verbose headers   'x-timer': 'S1515815141.089625,VS0,VE1',
+353 verbose headers   'x-cache-hits': '4',
+353 verbose headers   'x-timer': 'S1515823156.906858,VS0,VE0',
 353 verbose headers   vary: 'Accept-Encoding, Accept' }
 354 silly get cb [ 304,
-354 silly get   { date: 'Sat, 13 Jan 2018 03:45:41 GMT',
+354 silly get   { date: 'Sat, 13 Jan 2018 05:59:15 GMT',
 354 silly get     via: '1.1 varnish',
 354 silly get     'cache-control': 'max-age=300',
 354 silly get     etag: '"59bdb911-1b21"',
-354 silly get     age: '7817',
+354 silly get     age: '1367',
 354 silly get     connection: 'keep-alive',
-354 silly get     'x-served-by': 'cache-iad2141-IAD',
+354 silly get     'x-served-by': 'cache-iad2642-IAD',
 354 silly get     'x-cache': 'HIT',
-354 silly get     'x-cache-hits': '1',
-354 silly get     'x-timer': 'S1515815141.089625,VS0,VE1',
+354 silly get     'x-cache-hits': '4',
+354 silly get     'x-timer': 'S1515823156.906858,VS0,VE0',
 354 silly get     vary: 'Accept-Encoding, Accept' } ]
 355 verbose etag https://registry.npmjs.org/get-proxy from cache
 356 verbose get saving get-proxy to C:\Users\Marek\AppData\Roaming\npm-cache\registry.npmjs.org\get-proxy\.cache.json
@@ -1116,33 +1115,33 @@
 385 silly mapToRegistry uri https://registry.npmjs.org/npm-conf
 386 verbose request uri https://registry.npmjs.org/npm-conf
 387 verbose request no auth needed
-388 info attempt registry request try #1 at 10:45:41 PM
+388 info attempt registry request try #1 at 12:59:15 AM
 389 verbose etag "59f83810-21b4"
 390 verbose lastModified Tue, 31 Oct 2017 8:45:04 GMT
 391 http request GET https://registry.npmjs.org/npm-conf
 392 http 304 https://registry.npmjs.org/npm-conf
-393 verbose headers { date: 'Sat, 13 Jan 2018 03:45:41 GMT',
+393 verbose headers { date: 'Sat, 13 Jan 2018 05:59:15 GMT',
 393 verbose headers   via: '1.1 varnish',
 393 verbose headers   'cache-control': 'max-age=300',
 393 verbose headers   etag: '"59f83810-21b4"',
-393 verbose headers   age: '11626',
+393 verbose headers   age: '5129',
 393 verbose headers   connection: 'keep-alive',
-393 verbose headers   'x-served-by': 'cache-iad2623-IAD',
+393 verbose headers   'x-served-by': 'cache-iad2145-IAD',
 393 verbose headers   'x-cache': 'HIT',
 393 verbose headers   'x-cache-hits': '3',
-393 verbose headers   'x-timer': 'S1515815141.178093,VS0,VE0',
+393 verbose headers   'x-timer': 'S1515823156.980280,VS0,VE0',
 393 verbose headers   vary: 'Accept-Encoding, Accept' }
 394 silly get cb [ 304,
-394 silly get   { date: 'Sat, 13 Jan 2018 03:45:41 GMT',
+394 silly get   { date: 'Sat, 13 Jan 2018 05:59:15 GMT',
 394 silly get     via: '1.1 varnish',
 394 silly get     'cache-control': 'max-age=300',
 394 silly get     etag: '"59f83810-21b4"',
-394 silly get     age: '11626',
+394 silly get     age: '5129',
 394 silly get     connection: 'keep-alive',
-394 silly get     'x-served-by': 'cache-iad2623-IAD',
+394 silly get     'x-served-by': 'cache-iad2145-IAD',
 394 silly get     'x-cache': 'HIT',
 394 silly get     'x-cache-hits': '3',
-394 silly get     'x-timer': 'S1515815141.178093,VS0,VE0',
+394 silly get     'x-timer': 'S1515823156.980280,VS0,VE0',
 394 silly get     vary: 'Accept-Encoding, Accept' } ]
 395 verbose etag https://registry.npmjs.org/npm-conf from cache
 396 verbose get saving npm-conf to C:\Users\Marek\AppData\Roaming\npm-cache\registry.npmjs.org\npm-conf\.cache.json
@@ -1198,33 +1197,33 @@
 425 silly mapToRegistry uri https://registry.npmjs.org/config-chain
 426 verbose request uri https://registry.npmjs.org/config-chain
 427 verbose request no auth needed
-428 info attempt registry request try #1 at 10:45:41 PM
+428 info attempt registry request try #1 at 12:59:15 AM
 429 verbose etag "596bd485-6893"
 430 verbose lastModified Sun, 16 Jul 2017 21:03:01 GMT
 431 http request GET https://registry.npmjs.org/config-chain
 432 http 304 https://registry.npmjs.org/config-chain
-433 verbose headers { date: 'Sat, 13 Jan 2018 03:45:41 GMT',
+433 verbose headers { date: 'Sat, 13 Jan 2018 05:59:16 GMT',
 433 verbose headers   via: '1.1 varnish',
 433 verbose headers   'cache-control': 'max-age=300',
 433 verbose headers   etag: '"596bd485-6893"',
-433 verbose headers   age: '2621',
+433 verbose headers   age: '10635',
 433 verbose headers   connection: 'keep-alive',
-433 verbose headers   'x-served-by': 'cache-iad2141-IAD',
+433 verbose headers   'x-served-by': 'cache-iad2642-IAD',
 433 verbose headers   'x-cache': 'HIT',
-433 verbose headers   'x-cache-hits': '1',
-433 verbose headers   'x-timer': 'S1515815141.355669,VS0,VE0',
+433 verbose headers   'x-cache-hits': '6',
+433 verbose headers   'x-timer': 'S1515823156.067162,VS0,VE0',
 433 verbose headers   vary: 'Accept-Encoding, Accept' }
 434 silly get cb [ 304,
-434 silly get   { date: 'Sat, 13 Jan 2018 03:45:41 GMT',
+434 silly get   { date: 'Sat, 13 Jan 2018 05:59:16 GMT',
 434 silly get     via: '1.1 varnish',
 434 silly get     'cache-control': 'max-age=300',
 434 silly get     etag: '"596bd485-6893"',
-434 silly get     age: '2621',
+434 silly get     age: '10635',
 434 silly get     connection: 'keep-alive',
-434 silly get     'x-served-by': 'cache-iad2141-IAD',
+434 silly get     'x-served-by': 'cache-iad2642-IAD',
 434 silly get     'x-cache': 'HIT',
-434 silly get     'x-cache-hits': '1',
-434 silly get     'x-timer': 'S1515815141.355669,VS0,VE0',
+434 silly get     'x-cache-hits': '6',
+434 silly get     'x-timer': 'S1515823156.067162,VS0,VE0',
 434 silly get     vary: 'Accept-Encoding, Accept' } ]
 435 verbose etag https://registry.npmjs.org/config-chain from cache
 436 verbose get saving config-chain to C:\Users\Marek\AppData\Roaming\npm-cache\registry.npmjs.org\config-chain\.cache.json
@@ -1304,33 +1303,33 @@
 465 silly mapToRegistry uri https://registry.npmjs.org/proto-list
 466 verbose request uri https://registry.npmjs.org/proto-list
 467 verbose request no auth needed
-468 info attempt registry request try #1 at 10:45:41 PM
+468 info attempt registry request try #1 at 12:59:16 AM
 469 verbose etag "555d2db9-1ac2"
 470 verbose lastModified Thu, 21 May 2015 0:58:33 GMT
 471 http request GET https://registry.npmjs.org/proto-list
 472 http 304 https://registry.npmjs.org/proto-list
-473 verbose headers { date: 'Sat, 13 Jan 2018 03:45:41 GMT',
+473 verbose headers { date: 'Sat, 13 Jan 2018 05:59:16 GMT',
 473 verbose headers   via: '1.1 varnish',
 473 verbose headers   'cache-control': 'max-age=300',
 473 verbose headers   etag: '"555d2db9-1ac2"',
-473 verbose headers   age: '1152',
+473 verbose headers   age: '9167',
 473 verbose headers   connection: 'keep-alive',
-473 verbose headers   'x-served-by': 'cache-iad2623-IAD',
+473 verbose headers   'x-served-by': 'cache-iad2145-IAD',
 473 verbose headers   'x-cache': 'HIT',
 473 verbose headers   'x-cache-hits': '2',
-473 verbose headers   'x-timer': 'S1515815141.449480,VS0,VE0',
+473 verbose headers   'x-timer': 'S1515823156.228891,VS0,VE0',
 473 verbose headers   vary: 'Accept-Encoding, Accept' }
 474 silly get cb [ 304,
-474 silly get   { date: 'Sat, 13 Jan 2018 03:45:41 GMT',
+474 silly get   { date: 'Sat, 13 Jan 2018 05:59:16 GMT',
 474 silly get     via: '1.1 varnish',
 474 silly get     'cache-control': 'max-age=300',
 474 silly get     etag: '"555d2db9-1ac2"',
-474 silly get     age: '1152',
+474 silly get     age: '9167',
 474 silly get     connection: 'keep-alive',
-474 silly get     'x-served-by': 'cache-iad2623-IAD',
+474 silly get     'x-served-by': 'cache-iad2145-IAD',
 474 silly get     'x-cache': 'HIT',
 474 silly get     'x-cache-hits': '2',
-474 silly get     'x-timer': 'S1515815141.449480,VS0,VE0',
+474 silly get     'x-timer': 'S1515823156.228891,VS0,VE0',
 474 silly get     vary: 'Accept-Encoding, Accept' } ]
 475 verbose etag https://registry.npmjs.org/proto-list from cache
 476 verbose get saving proto-list to C:\Users\Marek\AppData\Roaming\npm-cache\registry.npmjs.org\proto-list\.cache.json
@@ -1387,33 +1386,33 @@
 505 silly mapToRegistry uri https://registry.npmjs.org/color-string
 506 verbose request uri https://registry.npmjs.org/color-string
 507 verbose request no auth needed
-508 info attempt registry request try #1 at 10:45:41 PM
+508 info attempt registry request try #1 at 12:59:16 AM
 509 verbose etag "58c1b669-7710"
 510 verbose lastModified Thu, 9 Mar 2017 20:09:13 GMT
 511 http request GET https://registry.npmjs.org/color-string
 512 http 304 https://registry.npmjs.org/color-string
-513 verbose headers { date: 'Sat, 13 Jan 2018 03:45:42 GMT',
+513 verbose headers { date: 'Sat, 13 Jan 2018 05:59:16 GMT',
 513 verbose headers   via: '1.1 varnish',
 513 verbose headers   'cache-control': 'max-age=300',
 513 verbose headers   etag: '"58c1b669-7710"',
-513 verbose headers   age: '6384',
+513 verbose headers   age: '14398',
 513 verbose headers   connection: 'keep-alive',
-513 verbose headers   'x-served-by': 'cache-iad2141-IAD',
+513 verbose headers   'x-served-by': 'cache-iad2642-IAD',
 513 verbose headers   'x-cache': 'HIT',
-513 verbose headers   'x-cache-hits': '5',
-513 verbose headers   'x-timer': 'S1515815142.087301,VS0,VE0',
+513 verbose headers   'x-cache-hits': '22',
+513 verbose headers   'x-timer': 'S1515823156.333162,VS0,VE0',
 513 verbose headers   vary: 'Accept-Encoding, Accept' }
 514 silly get cb [ 304,
-514 silly get   { date: 'Sat, 13 Jan 2018 03:45:42 GMT',
+514 silly get   { date: 'Sat, 13 Jan 2018 05:59:16 GMT',
 514 silly get     via: '1.1 varnish',
 514 silly get     'cache-control': 'max-age=300',
 514 silly get     etag: '"58c1b669-7710"',
-514 silly get     age: '6384',
+514 silly get     age: '14398',
 514 silly get     connection: 'keep-alive',
-514 silly get     'x-served-by': 'cache-iad2141-IAD',
+514 silly get     'x-served-by': 'cache-iad2642-IAD',
 514 silly get     'x-cache': 'HIT',
-514 silly get     'x-cache-hits': '5',
-514 silly get     'x-timer': 'S1515815142.087301,VS0,VE0',
+514 silly get     'x-cache-hits': '22',
+514 silly get     'x-timer': 'S1515823156.333162,VS0,VE0',
 514 silly get     vary: 'Accept-Encoding, Accept' } ]
 515 verbose etag https://registry.npmjs.org/color-string from cache
 516 verbose get saving color-string to C:\Users\Marek\AppData\Roaming\npm-cache\registry.npmjs.org\color-string\.cache.json
@@ -1491,33 +1490,33 @@
 545 silly mapToRegistry uri https://registry.npmjs.org/simple-swizzle
 546 verbose request uri https://registry.npmjs.org/simple-swizzle
 547 verbose request no auth needed
-548 info attempt registry request try #1 at 10:45:42 PM
+548 info attempt registry request try #1 at 12:59:16 AM
 549 verbose etag "582bc535-1c5b"
 550 verbose lastModified Wed, 16 Nov 2016 2:32:21 GMT
 551 http request GET https://registry.npmjs.org/simple-swizzle
 552 http 304 https://registry.npmjs.org/simple-swizzle
-553 verbose headers { date: 'Sat, 13 Jan 2018 03:45:42 GMT',
+553 verbose headers { date: 'Sat, 13 Jan 2018 05:59:16 GMT',
 553 verbose headers   via: '1.1 varnish',
 553 verbose headers   'cache-control': 'max-age=300',
 553 verbose headers   etag: '"582bc535-1c5b"',
-553 verbose headers   age: '6409',
+553 verbose headers   age: '0',
 553 verbose headers   connection: 'keep-alive',
-553 verbose headers   'x-served-by': 'cache-iad2623-IAD',
-553 verbose headers   'x-cache': 'HIT',
-553 verbose headers   'x-cache-hits': '1',
-553 verbose headers   'x-timer': 'S1515815142.317486,VS0,VE1',
+553 verbose headers   'x-served-by': 'cache-iad2145-IAD',
+553 verbose headers   'x-cache': 'MISS',
+553 verbose headers   'x-cache-hits': '0',
+553 verbose headers   'x-timer': 'S1515823156.428342,VS0,VE101',
 553 verbose headers   vary: 'Accept-Encoding, Accept' }
 554 silly get cb [ 304,
-554 silly get   { date: 'Sat, 13 Jan 2018 03:45:42 GMT',
+554 silly get   { date: 'Sat, 13 Jan 2018 05:59:16 GMT',
 554 silly get     via: '1.1 varnish',
 554 silly get     'cache-control': 'max-age=300',
 554 silly get     etag: '"582bc535-1c5b"',
-554 silly get     age: '6409',
+554 silly get     age: '0',
 554 silly get     connection: 'keep-alive',
-554 silly get     'x-served-by': 'cache-iad2623-IAD',
-554 silly get     'x-cache': 'HIT',
-554 silly get     'x-cache-hits': '1',
-554 silly get     'x-timer': 'S1515815142.317486,VS0,VE1',
+554 silly get     'x-served-by': 'cache-iad2145-IAD',
+554 silly get     'x-cache': 'MISS',
+554 silly get     'x-cache-hits': '0',
+554 silly get     'x-timer': 'S1515823156.428342,VS0,VE101',
 554 silly get     vary: 'Accept-Encoding, Accept' } ]
 555 verbose etag https://registry.npmjs.org/simple-swizzle from cache
 556 verbose get saving simple-swizzle to C:\Users\Marek\AppData\Roaming\npm-cache\registry.npmjs.org\simple-swizzle\.cache.json
@@ -1577,33 +1576,33 @@
 585 silly mapToRegistry uri https://registry.npmjs.org/is-arrayish
 586 verbose request uri https://registry.npmjs.org/is-arrayish
 587 verbose request no auth needed
-588 info attempt registry request try #1 at 10:45:42 PM
+588 info attempt registry request try #1 at 12:59:16 AM
 589 verbose etag "59162dcc-2293"
 590 verbose lastModified Fri, 12 May 2017 21:49:00 GMT
 591 http request GET https://registry.npmjs.org/is-arrayish
 592 http 304 https://registry.npmjs.org/is-arrayish
-593 verbose headers { date: 'Sat, 13 Jan 2018 03:45:42 GMT',
+593 verbose headers { date: 'Sat, 13 Jan 2018 05:59:16 GMT',
 593 verbose headers   via: '1.1 varnish',
 593 verbose headers   'cache-control': 'max-age=300',
 593 verbose headers   etag: '"59162dcc-2293"',
-593 verbose headers   age: '1828',
+593 verbose headers   age: '9842',
 593 verbose headers   connection: 'keep-alive',
-593 verbose headers   'x-served-by': 'cache-iad2141-IAD',
+593 verbose headers   'x-served-by': 'cache-iad2642-IAD',
 593 verbose headers   'x-cache': 'HIT',
-593 verbose headers   'x-cache-hits': '7',
-593 verbose headers   'x-timer': 'S1515815142.446466,VS0,VE0',
+593 verbose headers   'x-cache-hits': '53',
+593 verbose headers   'x-timer': 'S1515823157.801150,VS0,VE0',
 593 verbose headers   vary: 'Accept-Encoding, Accept' }
 594 silly get cb [ 304,
-594 silly get   { date: 'Sat, 13 Jan 2018 03:45:42 GMT',
+594 silly get   { date: 'Sat, 13 Jan 2018 05:59:16 GMT',
 594 silly get     via: '1.1 varnish',
 594 silly get     'cache-control': 'max-age=300',
 594 silly get     etag: '"59162dcc-2293"',
-594 silly get     age: '1828',
+594 silly get     age: '9842',
 594 silly get     connection: 'keep-alive',
-594 silly get     'x-served-by': 'cache-iad2141-IAD',
+594 silly get     'x-served-by': 'cache-iad2642-IAD',
 594 silly get     'x-cache': 'HIT',
-594 silly get     'x-cache-hits': '7',
-594 silly get     'x-timer': 'S1515815142.446466,VS0,VE0',
+594 silly get     'x-cache-hits': '53',
+594 silly get     'x-timer': 'S1515823157.801150,VS0,VE0',
 594 silly get     vary: 'Accept-Encoding, Accept' } ]
 595 verbose etag https://registry.npmjs.org/is-arrayish from cache
 596 verbose get saving is-arrayish to C:\Users\Marek\AppData\Roaming\npm-cache\registry.npmjs.org\is-arrayish\.cache.json
@@ -1660,33 +1659,33 @@
 625 silly mapToRegistry uri https://registry.npmjs.org/fsevents
 626 verbose request uri https://registry.npmjs.org/fsevents
 627 verbose request no auth needed
-628 info attempt registry request try #1 at 10:45:42 PM
+628 info attempt registry request try #1 at 12:59:17 AM
 629 verbose etag "5a1e8efd-e513"
 630 verbose lastModified Wed, 29 Nov 2017 10:42:05 GMT
 631 http request GET https://registry.npmjs.org/fsevents
 632 http 304 https://registry.npmjs.org/fsevents
-633 verbose headers { date: 'Sat, 13 Jan 2018 03:45:43 GMT',
+633 verbose headers { date: 'Sat, 13 Jan 2018 05:59:17 GMT',
 633 verbose headers   via: '1.1 varnish',
 633 verbose headers   'cache-control': 'max-age=300',
 633 verbose headers   etag: '"5a1e8efd-e513"',
-633 verbose headers   age: '6448',
+633 verbose headers   age: '62',
 633 verbose headers   connection: 'keep-alive',
-633 verbose headers   'x-served-by': 'cache-iad2623-IAD',
+633 verbose headers   'x-served-by': 'cache-iad2145-IAD',
 633 verbose headers   'x-cache': 'HIT',
-633 verbose headers   'x-cache-hits': '77',
-633 verbose headers   'x-timer': 'S1515815143.221809,VS0,VE0',
+633 verbose headers   'x-cache-hits': '1',
+633 verbose headers   'x-timer': 'S1515823158.601035,VS0,VE1',
 633 verbose headers   vary: 'Accept-Encoding, Accept' }
 634 silly get cb [ 304,
-634 silly get   { date: 'Sat, 13 Jan 2018 03:45:43 GMT',
+634 silly get   { date: 'Sat, 13 Jan 2018 05:59:17 GMT',
 634 silly get     via: '1.1 varnish',
 634 silly get     'cache-control': 'max-age=300',
 634 silly get     etag: '"5a1e8efd-e513"',
-634 silly get     age: '6448',
+634 silly get     age: '62',
 634 silly get     connection: 'keep-alive',
-634 silly get     'x-served-by': 'cache-iad2623-IAD',
+634 silly get     'x-served-by': 'cache-iad2145-IAD',
 634 silly get     'x-cache': 'HIT',
-634 silly get     'x-cache-hits': '77',
-634 silly get     'x-timer': 'S1515815143.221809,VS0,VE0',
+634 silly get     'x-cache-hits': '1',
+634 silly get     'x-timer': 'S1515823158.601035,VS0,VE1',
 634 silly get     vary: 'Accept-Encoding, Accept' } ]
 635 verbose etag https://registry.npmjs.org/fsevents from cache
 636 verbose get saving fsevents to C:\Users\Marek\AppData\Roaming\npm-cache\registry.npmjs.org\fsevents\.cache.json
@@ -5476,115 +5475,115 @@
 803 silly extract gatsby-plugin-sharp@1.6.24
 804 silly extract cheerio@1.0.0-rc.2
 805 silly extract gatsby-remark-images@1.5.36
-806 verbose unbuild node_modules\.staging\domhandler-5e9efc98
-807 verbose unbuild node_modules\.staging\config-chain-7115ac09
-808 verbose unbuild node_modules\.staging\npm-conf-77da973e
-809 verbose unbuild node_modules\.staging\proto-list-1f5f26c0
-810 verbose unbuild node_modules\.staging\htmlparser2-069a9a56
-811 verbose unbuild node_modules\.staging\is-arrayish-2daf2d54
-812 verbose unbuild node_modules\.staging\get-proxy-7e8a6dd1
+806 verbose unbuild node_modules\.staging\proto-list-1f5f26c0
+807 verbose unbuild node_modules\.staging\htmlparser2-069a9a56
+808 verbose unbuild node_modules\.staging\get-proxy-7e8a6dd1
+809 verbose unbuild node_modules\.staging\domhandler-5e9efc98
+810 verbose unbuild node_modules\.staging\npm-conf-77da973e
+811 verbose unbuild node_modules\.staging\config-chain-7115ac09
+812 verbose unbuild node_modules\.staging\caw-7cf58a3c
 813 verbose unbuild node_modules\.staging\simple-swizzle-fc88e0e5
 814 verbose unbuild node_modules\.staging\color-4f4ba3df
-815 verbose unbuild node_modules\.staging\caw-7cf58a3c
-816 verbose unbuild node_modules\.staging\sharp-2fd93fb8
-817 verbose unbuild node_modules\.staging\color-string-419c743e
+815 verbose unbuild node_modules\.staging\color-string-419c743e
+816 verbose unbuild node_modules\.staging\is-arrayish-2daf2d54
+817 verbose unbuild node_modules\.staging\sharp-2fd93fb8
 818 verbose unbuild node_modules\.staging\gatsby-plugin-sharp-19590fc6
 819 verbose unbuild node_modules\.staging\cheerio-0bf1dfe6
 820 verbose unbuild node_modules\.staging\gatsby-remark-images-b9bc45e9
-821 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\domhandler-5e9efc98 is being purged from base C:\Users\Marek\Projects\Cryptopapers
-822 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\domhandler-5e9efc98
-823 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\config-chain-7115ac09 is being purged from base C:\Users\Marek\Projects\Cryptopapers
-824 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\config-chain-7115ac09
-825 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\npm-conf-77da973e is being purged from base C:\Users\Marek\Projects\Cryptopapers
-826 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\npm-conf-77da973e
-827 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\proto-list-1f5f26c0 is being purged from base C:\Users\Marek\Projects\Cryptopapers
-828 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\proto-list-1f5f26c0
-829 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\htmlparser2-069a9a56 is being purged from base C:\Users\Marek\Projects\Cryptopapers
-830 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\htmlparser2-069a9a56
-831 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\is-arrayish-2daf2d54 is being purged from base C:\Users\Marek\Projects\Cryptopapers
-832 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\is-arrayish-2daf2d54
-833 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\get-proxy-7e8a6dd1 is being purged from base C:\Users\Marek\Projects\Cryptopapers
-834 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\get-proxy-7e8a6dd1
-835 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\simple-swizzle-fc88e0e5 is being purged from base C:\Users\Marek\Projects\Cryptopapers
-836 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\simple-swizzle-fc88e0e5
-837 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\color-4f4ba3df is being purged from base C:\Users\Marek\Projects\Cryptopapers
-838 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\color-4f4ba3df
-839 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\caw-7cf58a3c is being purged from base C:\Users\Marek\Projects\Cryptopapers
-840 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\caw-7cf58a3c
-841 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\sharp-2fd93fb8 is being purged from base C:\Users\Marek\Projects\Cryptopapers
-842 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\sharp-2fd93fb8
-843 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\color-string-419c743e is being purged from base C:\Users\Marek\Projects\Cryptopapers
-844 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\color-string-419c743e
-845 verbose tar unpack C:\Users\Marek\AppData\Roaming\npm-cache\domhandler\2.4.1\package.tgz
-846 verbose tar unpacking to C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\domhandler-5e9efc98
-847 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\domhandler-5e9efc98 is being purged
-848 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\domhandler-5e9efc98
-849 verbose tar unpack C:\Users\Marek\AppData\Roaming\npm-cache\config-chain\1.1.11\package.tgz
-850 verbose tar unpacking to C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\config-chain-7115ac09
-851 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\config-chain-7115ac09 is being purged
-852 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\config-chain-7115ac09
-853 verbose tar unpack C:\Users\Marek\AppData\Roaming\npm-cache\npm-conf\1.1.3\package.tgz
-854 verbose tar unpacking to C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\npm-conf-77da973e
-855 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\npm-conf-77da973e is being purged
-856 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\npm-conf-77da973e
-857 verbose tar unpack C:\Users\Marek\AppData\Roaming\npm-cache\proto-list\1.2.4\package.tgz
-858 verbose tar unpacking to C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\proto-list-1f5f26c0
-859 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\proto-list-1f5f26c0 is being purged
-860 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\proto-list-1f5f26c0
-861 verbose tar unpack C:\Users\Marek\AppData\Roaming\npm-cache\htmlparser2\3.9.2\package.tgz
-862 verbose tar unpacking to C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\htmlparser2-069a9a56
-863 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\htmlparser2-069a9a56 is being purged
-864 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\htmlparser2-069a9a56
-865 verbose tar unpack C:\Users\Marek\AppData\Roaming\npm-cache\is-arrayish\0.3.1\package.tgz
-866 verbose tar unpacking to C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\is-arrayish-2daf2d54
-867 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\is-arrayish-2daf2d54 is being purged
-868 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\is-arrayish-2daf2d54
-869 verbose tar unpack C:\Users\Marek\AppData\Roaming\npm-cache\get-proxy\2.1.0\package.tgz
-870 verbose tar unpacking to C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\get-proxy-7e8a6dd1
-871 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\get-proxy-7e8a6dd1 is being purged
-872 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\get-proxy-7e8a6dd1
-873 verbose tar unpack C:\Users\Marek\AppData\Roaming\npm-cache\simple-swizzle\0.2.2\package.tgz
-874 verbose tar unpacking to C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\simple-swizzle-fc88e0e5
-875 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\simple-swizzle-fc88e0e5 is being purged
-876 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\simple-swizzle-fc88e0e5
-877 verbose tar unpack C:\Users\Marek\AppData\Roaming\npm-cache\color\1.0.3\package.tgz
-878 verbose tar unpacking to C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\color-4f4ba3df
-879 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\color-4f4ba3df is being purged
-880 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\color-4f4ba3df
-881 verbose tar unpack C:\Users\Marek\AppData\Roaming\npm-cache\caw\2.0.1\package.tgz
-882 verbose tar unpacking to C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\caw-7cf58a3c
-883 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\caw-7cf58a3c is being purged
-884 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\caw-7cf58a3c
-885 verbose tar unpack C:\Users\Marek\AppData\Roaming\npm-cache\sharp\0.17.3\package.tgz
-886 verbose tar unpacking to C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\sharp-2fd93fb8
-887 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\sharp-2fd93fb8 is being purged
-888 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\sharp-2fd93fb8
-889 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\gatsby-plugin-sharp-19590fc6 is being purged from base C:\Users\Marek\Projects\Cryptopapers
-890 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\gatsby-plugin-sharp-19590fc6
-891 verbose tar unpack C:\Users\Marek\AppData\Roaming\npm-cache\color-string\1.5.2\package.tgz
-892 verbose tar unpacking to C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\color-string-419c743e
-893 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\color-string-419c743e is being purged
-894 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\color-string-419c743e
-895 silly gunzTarPerm modes [ '777', '666' ]
-896 silly gunzTarPerm modes [ '777', '666' ]
+821 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\proto-list-1f5f26c0 is being purged from base C:\Users\Marek\Projects\Cryptopapers
+822 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\proto-list-1f5f26c0
+823 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\htmlparser2-069a9a56 is being purged from base C:\Users\Marek\Projects\Cryptopapers
+824 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\htmlparser2-069a9a56
+825 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\get-proxy-7e8a6dd1 is being purged from base C:\Users\Marek\Projects\Cryptopapers
+826 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\get-proxy-7e8a6dd1
+827 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\npm-conf-77da973e is being purged from base C:\Users\Marek\Projects\Cryptopapers
+828 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\npm-conf-77da973e
+829 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\domhandler-5e9efc98 is being purged from base C:\Users\Marek\Projects\Cryptopapers
+830 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\domhandler-5e9efc98
+831 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\config-chain-7115ac09 is being purged from base C:\Users\Marek\Projects\Cryptopapers
+832 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\config-chain-7115ac09
+833 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\caw-7cf58a3c is being purged from base C:\Users\Marek\Projects\Cryptopapers
+834 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\caw-7cf58a3c
+835 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\color-4f4ba3df is being purged from base C:\Users\Marek\Projects\Cryptopapers
+836 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\color-4f4ba3df
+837 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\simple-swizzle-fc88e0e5 is being purged from base C:\Users\Marek\Projects\Cryptopapers
+838 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\simple-swizzle-fc88e0e5
+839 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\color-string-419c743e is being purged from base C:\Users\Marek\Projects\Cryptopapers
+840 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\color-string-419c743e
+841 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\is-arrayish-2daf2d54 is being purged from base C:\Users\Marek\Projects\Cryptopapers
+842 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\is-arrayish-2daf2d54
+843 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\sharp-2fd93fb8 is being purged from base C:\Users\Marek\Projects\Cryptopapers
+844 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\sharp-2fd93fb8
+845 verbose tar unpack C:\Users\Marek\AppData\Roaming\npm-cache\proto-list\1.2.4\package.tgz
+846 verbose tar unpacking to C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\proto-list-1f5f26c0
+847 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\proto-list-1f5f26c0 is being purged
+848 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\proto-list-1f5f26c0
+849 verbose tar unpack C:\Users\Marek\AppData\Roaming\npm-cache\htmlparser2\3.9.2\package.tgz
+850 verbose tar unpacking to C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\htmlparser2-069a9a56
+851 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\htmlparser2-069a9a56 is being purged
+852 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\htmlparser2-069a9a56
+853 verbose tar unpack C:\Users\Marek\AppData\Roaming\npm-cache\get-proxy\2.1.0\package.tgz
+854 verbose tar unpacking to C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\get-proxy-7e8a6dd1
+855 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\get-proxy-7e8a6dd1 is being purged
+856 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\get-proxy-7e8a6dd1
+857 verbose tar unpack C:\Users\Marek\AppData\Roaming\npm-cache\npm-conf\1.1.3\package.tgz
+858 verbose tar unpacking to C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\npm-conf-77da973e
+859 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\npm-conf-77da973e is being purged
+860 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\npm-conf-77da973e
+861 verbose tar unpack C:\Users\Marek\AppData\Roaming\npm-cache\domhandler\2.4.1\package.tgz
+862 verbose tar unpacking to C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\domhandler-5e9efc98
+863 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\domhandler-5e9efc98 is being purged
+864 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\domhandler-5e9efc98
+865 verbose tar unpack C:\Users\Marek\AppData\Roaming\npm-cache\config-chain\1.1.11\package.tgz
+866 verbose tar unpacking to C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\config-chain-7115ac09
+867 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\config-chain-7115ac09 is being purged
+868 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\config-chain-7115ac09
+869 verbose tar unpack C:\Users\Marek\AppData\Roaming\npm-cache\caw\2.0.1\package.tgz
+870 verbose tar unpacking to C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\caw-7cf58a3c
+871 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\caw-7cf58a3c is being purged
+872 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\caw-7cf58a3c
+873 verbose tar unpack C:\Users\Marek\AppData\Roaming\npm-cache\color\1.0.3\package.tgz
+874 verbose tar unpacking to C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\color-4f4ba3df
+875 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\color-4f4ba3df is being purged
+876 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\color-4f4ba3df
+877 verbose tar unpack C:\Users\Marek\AppData\Roaming\npm-cache\simple-swizzle\0.2.2\package.tgz
+878 verbose tar unpacking to C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\simple-swizzle-fc88e0e5
+879 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\simple-swizzle-fc88e0e5 is being purged
+880 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\simple-swizzle-fc88e0e5
+881 verbose tar unpack C:\Users\Marek\AppData\Roaming\npm-cache\color-string\1.5.2\package.tgz
+882 verbose tar unpacking to C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\color-string-419c743e
+883 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\color-string-419c743e is being purged
+884 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\color-string-419c743e
+885 verbose tar unpack C:\Users\Marek\AppData\Roaming\npm-cache\is-arrayish\0.3.1\package.tgz
+886 verbose tar unpacking to C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\is-arrayish-2daf2d54
+887 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\is-arrayish-2daf2d54 is being purged
+888 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\is-arrayish-2daf2d54
+889 verbose tar unpack C:\Users\Marek\AppData\Roaming\npm-cache\sharp\0.17.3\package.tgz
+890 verbose tar unpacking to C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\sharp-2fd93fb8
+891 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\sharp-2fd93fb8 is being purged
+892 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\sharp-2fd93fb8
+893 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\gatsby-plugin-sharp-19590fc6 is being purged from base C:\Users\Marek\Projects\Cryptopapers
+894 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\gatsby-plugin-sharp-19590fc6
+895 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\cheerio-0bf1dfe6 is being purged from base C:\Users\Marek\Projects\Cryptopapers
+896 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\cheerio-0bf1dfe6
 897 silly gunzTarPerm modes [ '777', '666' ]
 898 silly gunzTarPerm modes [ '777', '666' ]
 899 silly gunzTarPerm modes [ '777', '666' ]
-900 silly gunzTarPerm modes [ '777', '666' ]
-901 silly gunzTarPerm modes [ '777', '666' ]
+900 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\gatsby-remark-images-b9bc45e9 is being purged from base C:\Users\Marek\Projects\Cryptopapers
+901 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\gatsby-remark-images-b9bc45e9
 902 silly gunzTarPerm modes [ '777', '666' ]
-903 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\cheerio-0bf1dfe6 is being purged from base C:\Users\Marek\Projects\Cryptopapers
-904 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\cheerio-0bf1dfe6
+903 silly gunzTarPerm modes [ '777', '666' ]
+904 silly gunzTarPerm modes [ '777', '666' ]
 905 silly gunzTarPerm modes [ '777', '666' ]
 906 silly gunzTarPerm modes [ '777', '666' ]
-907 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\gatsby-remark-images-b9bc45e9 is being purged from base C:\Users\Marek\Projects\Cryptopapers
-908 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\gatsby-remark-images-b9bc45e9
+907 silly gunzTarPerm modes [ '777', '666' ]
+908 silly gunzTarPerm modes [ '777', '666' ]
 909 silly gunzTarPerm modes [ '777', '666' ]
-910 verbose tar unpack C:\Users\Marek\AppData\Roaming\npm-cache\gatsby-plugin-sharp\1.6.24\package.tgz
-911 verbose tar unpacking to C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\gatsby-plugin-sharp-19590fc6
-912 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\gatsby-plugin-sharp-19590fc6 is being purged
-913 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\gatsby-plugin-sharp-19590fc6
-914 silly gunzTarPerm modes [ '777', '666' ]
+910 silly gunzTarPerm modes [ '777', '666' ]
+911 verbose tar unpack C:\Users\Marek\AppData\Roaming\npm-cache\gatsby-plugin-sharp\1.6.24\package.tgz
+912 verbose tar unpacking to C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\gatsby-plugin-sharp-19590fc6
+913 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\gatsby-plugin-sharp-19590fc6 is being purged
+914 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\gatsby-plugin-sharp-19590fc6
 915 verbose tar unpack C:\Users\Marek\AppData\Roaming\npm-cache\cheerio\1.0.0-rc.2\package.tgz
 916 verbose tar unpacking to C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\cheerio-0bf1dfe6
 917 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\cheerio-0bf1dfe6 is being purged
@@ -5626,26 +5625,26 @@
 953 silly gunzTarPerm modified mode [ 'package.json', 436, 438 ]
 954 silly gunzTarPerm extractEntry package.json
 955 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
-956 silly gunzTarPerm extractEntry LICENSE
-957 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
-958 silly gunzTarPerm extractEntry index.js
-959 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
-960 silly gunzTarPerm extractEntry README.md
-961 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
-962 silly gunzTarPerm extractEntry LICENSE
-963 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
+956 silly gunzTarPerm extractEntry README.md
+957 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+958 silly gunzTarPerm extractEntry LICENSE
+959 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
+960 silly gunzTarPerm extractEntry index.js
+961 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
+962 silly gunzTarPerm extractEntry license
+963 silly gunzTarPerm modified mode [ 'license', 420, 438 ]
 964 silly gunzTarPerm extractEntry README.md
 965 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
 966 silly gunzTarPerm extractEntry LICENSE
 967 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
-968 silly gunzTarPerm extractEntry .npmignore
-969 silly gunzTarPerm modified mode [ '.npmignore', 420, 438 ]
-970 silly gunzTarPerm extractEntry README.md
-971 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
-972 silly gunzTarPerm extractEntry index.js
-973 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
-974 silly gunzTarPerm extractEntry lib/conf.js
-975 silly gunzTarPerm modified mode [ 'lib/conf.js', 420, 438 ]
+968 silly gunzTarPerm extractEntry index.js
+969 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
+970 silly gunzTarPerm extractEntry lib/conf.js
+971 silly gunzTarPerm modified mode [ 'lib/conf.js', 420, 438 ]
+972 silly gunzTarPerm extractEntry LICENSE
+973 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
+974 silly gunzTarPerm extractEntry index.js
+975 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
 976 silly gunzTarPerm extractEntry .npmignore
 977 silly gunzTarPerm modified mode [ '.npmignore', 420, 438 ]
 978 silly gunzTarPerm extractEntry LICENCE
@@ -5663,17 +5662,17 @@
 990 silly gunzTarPerm extractEntry LICENSE
 991 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
 992 silly gunzTarPerm extractEntry .npmignore
-993 silly gunzTarPerm modified mode [ '.npmignore', 436, 438 ]
+993 silly gunzTarPerm modified mode [ '.npmignore', 420, 438 ]
 994 silly gunzTarPerm extractEntry README.md
 995 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
-996 silly gunzTarPerm extractEntry index.js
-997 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
-998 silly gunzTarPerm extractEntry license
-999 silly gunzTarPerm modified mode [ 'license', 420, 438 ]
-1000 silly gunzTarPerm extractEntry README.md
-1001 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
-1002 silly gunzTarPerm extractEntry LICENSE
-1003 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
+996 silly gunzTarPerm extractEntry README.md
+997 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+998 silly gunzTarPerm extractEntry LICENSE
+999 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
+1000 silly gunzTarPerm extractEntry .npmignore
+1001 silly gunzTarPerm modified mode [ '.npmignore', 436, 438 ]
+1002 silly gunzTarPerm extractEntry README.md
+1003 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
 1004 silly gunzTarPerm extractEntry duotone.js
 1005 silly gunzTarPerm modified mode [ 'duotone.js', 420, 438 ]
 1006 silly gunzTarPerm extractEntry gatsby-node.js
@@ -5690,204 +5689,204 @@
 1017 silly gunzTarPerm modified mode [ 'proto-list.js', 420, 438 ]
 1018 silly gunzTarPerm extractEntry test/basic.js
 1019 silly gunzTarPerm modified mode [ 'test/basic.js', 420, 438 ]
-1020 silly gunzTarPerm extractEntry readme.md
-1021 silly gunzTarPerm modified mode [ 'readme.md', 420, 438 ]
-1022 silly gunzTarPerm extractEntry .travis.yml
-1023 silly gunzTarPerm modified mode [ '.travis.yml', 420, 438 ]
-1024 silly gunzTarPerm extractEntry lib/element.js
-1025 silly gunzTarPerm modified mode [ 'lib/element.js', 420, 438 ]
-1026 silly gunzTarPerm extractEntry LICENSE
-1027 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
-1028 silly gunzTarPerm extractEntry index.js
-1029 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
-1030 silly gunzTarPerm extractEntry lib/CollectingHandler.js
-1031 silly gunzTarPerm modified mode [ 'lib/CollectingHandler.js', 420, 438 ]
-1032 silly gunzTarPerm extractEntry lib/FeedHandler.js
-1033 silly gunzTarPerm modified mode [ 'lib/FeedHandler.js', 420, 438 ]
-1034 silly gunzTarPerm extractEntry lib/defaults.js
-1035 silly gunzTarPerm modified mode [ 'lib/defaults.js', 420, 438 ]
-1036 silly gunzTarPerm extractEntry lib/make.js
-1037 silly gunzTarPerm modified mode [ 'lib/make.js', 420, 438 ]
-1038 silly gunzTarPerm extractEntry index.js
-1039 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
-1040 silly gunzTarPerm extractEntry index.js
-1041 silly gunzTarPerm modified mode [ 'index.js', 493, 511 ]
-1042 silly gunzTarPerm extractEntry readme.markdown
-1043 silly gunzTarPerm modified mode [ 'readme.markdown', 420, 438 ]
+1020 silly gunzTarPerm extractEntry lib/defaults.js
+1021 silly gunzTarPerm modified mode [ 'lib/defaults.js', 420, 438 ]
+1022 silly gunzTarPerm extractEntry lib/make.js
+1023 silly gunzTarPerm modified mode [ 'lib/make.js', 420, 438 ]
+1024 silly gunzTarPerm extractEntry readme.md
+1025 silly gunzTarPerm modified mode [ 'readme.md', 420, 438 ]
+1026 silly gunzTarPerm extractEntry lib/CollectingHandler.js
+1027 silly gunzTarPerm modified mode [ 'lib/CollectingHandler.js', 420, 438 ]
+1028 silly gunzTarPerm extractEntry lib/FeedHandler.js
+1029 silly gunzTarPerm modified mode [ 'lib/FeedHandler.js', 420, 438 ]
+1030 silly gunzTarPerm extractEntry .travis.yml
+1031 silly gunzTarPerm modified mode [ '.travis.yml', 420, 438 ]
+1032 silly gunzTarPerm extractEntry lib/element.js
+1033 silly gunzTarPerm modified mode [ 'lib/element.js', 420, 438 ]
+1034 silly gunzTarPerm extractEntry readme.md
+1035 silly gunzTarPerm modified mode [ 'readme.md', 420, 438 ]
+1036 silly gunzTarPerm extractEntry index.js
+1037 silly gunzTarPerm modified mode [ 'index.js', 493, 511 ]
+1038 silly gunzTarPerm extractEntry readme.markdown
+1039 silly gunzTarPerm modified mode [ 'readme.markdown', 420, 438 ]
+1040 silly gunzTarPerm extractEntry LICENSE
+1041 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
+1042 silly gunzTarPerm extractEntry index.js
+1043 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
 1044 silly gunzTarPerm extractEntry index.js
 1045 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
-1046 silly gunzTarPerm extractEntry LICENSE
-1047 silly gunzTarPerm modified mode [ 'LICENSE', 436, 438 ]
-1048 silly gunzTarPerm extractEntry readme.md
-1049 silly gunzTarPerm modified mode [ 'readme.md', 420, 438 ]
-1050 silly gunzTarPerm extractEntry index.js
-1051 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
-1052 silly gunzTarPerm extractEntry CHANGELOG.md
-1053 silly gunzTarPerm modified mode [ 'CHANGELOG.md', 420, 438 ]
-1054 silly gunzTarPerm extractEntry binding.js
-1055 silly gunzTarPerm modified mode [ 'binding.js', 436, 438 ]
-1056 silly gunzTarPerm extractEntry index.js
-1057 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
-1058 silly gunzTarPerm extractEntry README.md
-1059 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
-1060 silly gunzTarPerm extractEntry History.md
-1061 silly gunzTarPerm modified mode [ 'History.md', 384, 438 ]
-1062 silly gunzTarPerm extractEntry Readme.md
-1063 silly gunzTarPerm modified mode [ 'Readme.md', 436, 438 ]
-1064 silly gunzTarPerm extractEntry lib/cheerio.js
-1065 silly gunzTarPerm modified mode [ 'lib/cheerio.js', 436, 438 ]
-1066 silly gunzTarPerm extractEntry lib/options.js
-1067 silly gunzTarPerm modified mode [ 'lib/options.js', 436, 438 ]
-1068 silly gunzTarPerm extractEntry lib/parse.js
-1069 silly gunzTarPerm modified mode [ 'lib/parse.js', 436, 438 ]
-1070 silly gunzTarPerm extractEntry lib/static.js
-1071 silly gunzTarPerm modified mode [ 'lib/static.js', 436, 438 ]
-1072 silly gunzTarPerm extractEntry lib/utils.js
-1073 silly gunzTarPerm modified mode [ 'lib/utils.js', 436, 438 ]
-1074 silly gunzTarPerm extractEntry lib/api/attributes.js
-1075 silly gunzTarPerm modified mode [ 'lib/api/attributes.js', 436, 438 ]
-1076 silly gunzTarPerm extractEntry lib/api/css.js
-1077 silly gunzTarPerm modified mode [ 'lib/api/css.js', 436, 438 ]
-1078 silly gunzTarPerm extractEntry lib/api/forms.js
-1079 silly gunzTarPerm modified mode [ 'lib/api/forms.js', 436, 438 ]
-1080 silly gunzTarPerm extractEntry lib/api/manipulation.js
-1081 silly gunzTarPerm modified mode [ 'lib/api/manipulation.js', 436, 438 ]
-1082 silly gunzTarPerm extractEntry lib/api/traversing.js
-1083 silly gunzTarPerm modified mode [ 'lib/api/traversing.js', 436, 438 ]
-1084 silly gunzTarPerm extractEntry .istanbul.yml
-1085 silly gunzTarPerm modified mode [ '.istanbul.yml', 420, 438 ]
-1086 silly gunzTarPerm extractEntry .editorconfig
-1087 silly gunzTarPerm modified mode [ '.editorconfig', 420, 438 ]
-1088 silly gunzTarPerm extractEntry test/broken.js
-1089 silly gunzTarPerm modified mode [ 'test/broken.js', 420, 438 ]
-1090 silly gunzTarPerm extractEntry binding.gyp
-1091 silly gunzTarPerm modified mode [ 'binding.gyp', 436, 438 ]
-1092 silly gunzTarPerm extractEntry docs/api-output.md
-1093 silly gunzTarPerm modified mode [ 'docs/api-output.md', 436, 438 ]
-1094 silly gunzTarPerm extractEntry lib/types.js
-1095 silly gunzTarPerm modified mode [ 'lib/types.js', 420, 438 ]
-1096 silly gunzTarPerm extractEntry lib/node.js
-1097 silly gunzTarPerm modified mode [ 'lib/node.js', 420, 438 ]
-1098 silly gunzTarPerm extractEntry readme.md
-1099 silly gunzTarPerm modified mode [ 'readme.md', 420, 438 ]
-1100 silly gunzTarPerm extractEntry lib/Parser.js
-1101 silly gunzTarPerm modified mode [ 'lib/Parser.js', 420, 438 ]
-1102 silly gunzTarPerm extractEntry lib/ProxyHandler.js
-1103 silly gunzTarPerm modified mode [ 'lib/ProxyHandler.js', 420, 438 ]
-1104 silly gunzTarPerm extractEntry lib/Stream.js
-1105 silly gunzTarPerm modified mode [ 'lib/Stream.js', 420, 438 ]
-1106 silly gunzTarPerm extractEntry lib/Tokenizer.js
-1107 silly gunzTarPerm modified mode [ 'lib/Tokenizer.js', 420, 438 ]
-1108 silly gunzTarPerm extractEntry lib/WritableStream.js
-1109 silly gunzTarPerm modified mode [ 'lib/WritableStream.js', 420, 438 ]
-1110 silly gunzTarPerm extractEntry lib/index.js
-1111 silly gunzTarPerm modified mode [ 'lib/index.js', 420, 438 ]
+1046 silly gunzTarPerm extractEntry index.js
+1047 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
+1048 silly gunzTarPerm extractEntry index.js
+1049 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
+1050 silly gunzTarPerm extractEntry README.md
+1051 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+1052 silly gunzTarPerm extractEntry index.js
+1053 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
+1054 silly gunzTarPerm extractEntry CHANGELOG.md
+1055 silly gunzTarPerm modified mode [ 'CHANGELOG.md', 420, 438 ]
+1056 silly gunzTarPerm extractEntry LICENSE
+1057 silly gunzTarPerm modified mode [ 'LICENSE', 436, 438 ]
+1058 silly gunzTarPerm extractEntry History.md
+1059 silly gunzTarPerm modified mode [ 'History.md', 384, 438 ]
+1060 silly gunzTarPerm extractEntry Readme.md
+1061 silly gunzTarPerm modified mode [ 'Readme.md', 436, 438 ]
+1062 silly gunzTarPerm extractEntry lib/cheerio.js
+1063 silly gunzTarPerm modified mode [ 'lib/cheerio.js', 436, 438 ]
+1064 silly gunzTarPerm extractEntry lib/options.js
+1065 silly gunzTarPerm modified mode [ 'lib/options.js', 436, 438 ]
+1066 silly gunzTarPerm extractEntry lib/parse.js
+1067 silly gunzTarPerm modified mode [ 'lib/parse.js', 436, 438 ]
+1068 silly gunzTarPerm extractEntry lib/static.js
+1069 silly gunzTarPerm modified mode [ 'lib/static.js', 436, 438 ]
+1070 silly gunzTarPerm extractEntry lib/utils.js
+1071 silly gunzTarPerm modified mode [ 'lib/utils.js', 436, 438 ]
+1072 silly gunzTarPerm extractEntry lib/api/attributes.js
+1073 silly gunzTarPerm modified mode [ 'lib/api/attributes.js', 436, 438 ]
+1074 silly gunzTarPerm extractEntry lib/api/css.js
+1075 silly gunzTarPerm modified mode [ 'lib/api/css.js', 436, 438 ]
+1076 silly gunzTarPerm extractEntry lib/api/forms.js
+1077 silly gunzTarPerm modified mode [ 'lib/api/forms.js', 436, 438 ]
+1078 silly gunzTarPerm extractEntry lib/api/manipulation.js
+1079 silly gunzTarPerm modified mode [ 'lib/api/manipulation.js', 436, 438 ]
+1080 silly gunzTarPerm extractEntry lib/api/traversing.js
+1081 silly gunzTarPerm modified mode [ 'lib/api/traversing.js', 436, 438 ]
+1082 silly gunzTarPerm extractEntry binding.js
+1083 silly gunzTarPerm modified mode [ 'binding.js', 436, 438 ]
+1084 silly gunzTarPerm extractEntry lib/types.js
+1085 silly gunzTarPerm modified mode [ 'lib/types.js', 420, 438 ]
+1086 silly gunzTarPerm extractEntry test/broken.js
+1087 silly gunzTarPerm modified mode [ 'test/broken.js', 420, 438 ]
+1088 silly gunzTarPerm extractEntry .istanbul.yml
+1089 silly gunzTarPerm modified mode [ '.istanbul.yml', 420, 438 ]
+1090 silly gunzTarPerm extractEntry .editorconfig
+1091 silly gunzTarPerm modified mode [ '.editorconfig', 420, 438 ]
+1092 silly gunzTarPerm extractEntry lib/Parser.js
+1093 silly gunzTarPerm modified mode [ 'lib/Parser.js', 420, 438 ]
+1094 silly gunzTarPerm extractEntry lib/ProxyHandler.js
+1095 silly gunzTarPerm modified mode [ 'lib/ProxyHandler.js', 420, 438 ]
+1096 silly gunzTarPerm extractEntry lib/Stream.js
+1097 silly gunzTarPerm modified mode [ 'lib/Stream.js', 420, 438 ]
+1098 silly gunzTarPerm extractEntry lib/Tokenizer.js
+1099 silly gunzTarPerm modified mode [ 'lib/Tokenizer.js', 420, 438 ]
+1100 silly gunzTarPerm extractEntry lib/WritableStream.js
+1101 silly gunzTarPerm modified mode [ 'lib/WritableStream.js', 420, 438 ]
+1102 silly gunzTarPerm extractEntry lib/index.js
+1103 silly gunzTarPerm modified mode [ 'lib/index.js', 420, 438 ]
+1104 silly gunzTarPerm extractEntry lib/node.js
+1105 silly gunzTarPerm modified mode [ 'lib/node.js', 420, 438 ]
+1106 silly gunzTarPerm extractEntry readme.md
+1107 silly gunzTarPerm modified mode [ 'readme.md', 420, 438 ]
+1108 silly gunzTarPerm extractEntry binding.gyp
+1109 silly gunzTarPerm modified mode [ 'binding.gyp', 436, 438 ]
+1110 silly gunzTarPerm extractEntry docs/api-output.md
+1111 silly gunzTarPerm modified mode [ 'docs/api-output.md', 436, 438 ]
 1112 silly gunzTarPerm extractEntry test/chain-class.js
 1113 silly gunzTarPerm modified mode [ 'test/chain-class.js', 420, 438 ]
 1114 silly gunzTarPerm extractEntry test/env.js
 1115 silly gunzTarPerm modified mode [ 'test/env.js', 420, 438 ]
-1116 silly gunzTarPerm extractEntry docs/api-channel.md
-1117 silly gunzTarPerm modified mode [ 'docs/api-channel.md', 436, 438 ]
-1118 silly gunzTarPerm extractEntry docs/api-composite.md
-1119 silly gunzTarPerm modified mode [ 'docs/api-composite.md', 436, 438 ]
-1120 silly gunzTarPerm extractEntry .travis.yml
-1121 silly gunzTarPerm modified mode [ '.travis.yml', 420, 438 ]
-1122 silly gunzTarPerm extractEntry test/tests.js
-1123 silly gunzTarPerm modified mode [ 'test/tests.js', 420, 438 ]
-1124 silly gunzTarPerm extractEntry lib/util.js
-1125 silly gunzTarPerm modified mode [ 'lib/util.js', 420, 438 ]
-1126 silly gunzTarPerm extractEntry license
-1127 silly gunzTarPerm modified mode [ 'license', 420, 438 ]
-1128 silly gunzTarPerm extractEntry docs/api-constructor.md
-1129 silly gunzTarPerm modified mode [ 'docs/api-constructor.md', 436, 438 ]
-1130 silly gunzTarPerm extractEntry docs/api-input.md
-1131 silly gunzTarPerm modified mode [ 'docs/api-input.md', 436, 438 ]
+1116 silly gunzTarPerm extractEntry .travis.yml
+1117 silly gunzTarPerm modified mode [ '.travis.yml', 420, 438 ]
+1118 silly gunzTarPerm extractEntry test/tests.js
+1119 silly gunzTarPerm modified mode [ 'test/tests.js', 420, 438 ]
+1120 silly gunzTarPerm extractEntry lib/util.js
+1121 silly gunzTarPerm modified mode [ 'lib/util.js', 420, 438 ]
+1122 silly gunzTarPerm extractEntry license
+1123 silly gunzTarPerm modified mode [ 'license', 420, 438 ]
+1124 silly gunzTarPerm extractEntry docs/api-channel.md
+1125 silly gunzTarPerm modified mode [ 'docs/api-channel.md', 436, 438 ]
+1126 silly gunzTarPerm extractEntry docs/api-composite.md
+1127 silly gunzTarPerm modified mode [ 'docs/api-composite.md', 436, 438 ]
+1128 silly gunzTarPerm extractEntry test/cases/13-comment_in_text.json
+1129 silly gunzTarPerm modified mode [ 'test/cases/13-comment_in_text.json', 420, 438 ]
+1130 silly gunzTarPerm extractEntry test/cases/01-basic.json
+1131 silly gunzTarPerm modified mode [ 'test/cases/01-basic.json', 420, 438 ]
 1132 silly gunzTarPerm extractEntry test/find-file.js
 1133 silly gunzTarPerm modified mode [ 'test/find-file.js', 420, 438 ]
 1134 silly gunzTarPerm extractEntry test/get.js
 1135 silly gunzTarPerm modified mode [ 'test/get.js', 420, 438 ]
-1136 silly gunzTarPerm extractEntry test/cases/13-comment_in_text.json
-1137 silly gunzTarPerm modified mode [ 'test/cases/13-comment_in_text.json', 420, 438 ]
-1138 silly gunzTarPerm extractEntry test/cases/01-basic.json
-1139 silly gunzTarPerm modified mode [ 'test/cases/01-basic.json', 420, 438 ]
-1140 silly gunzTarPerm extractEntry readme.md
-1141 silly gunzTarPerm modified mode [ 'readme.md', 420, 438 ]
-1142 silly gunzTarPerm extractEntry docs/api-operation.md
-1143 silly gunzTarPerm modified mode [ 'docs/api-operation.md', 436, 438 ]
-1144 silly gunzTarPerm extractEntry docs/api-colour.md
-1145 silly gunzTarPerm modified mode [ 'docs/api-colour.md', 436, 438 ]
-1146 silly gunzTarPerm extractEntry test/ignore-unfound-file.js
-1147 silly gunzTarPerm modified mode [ 'test/ignore-unfound-file.js', 420, 438 ]
-1148 silly gunzTarPerm extractEntry test/ini.js
-1149 silly gunzTarPerm modified mode [ 'test/ini.js', 420, 438 ]
-1150 silly gunzTarPerm extractEntry test/cases/03-single_tag_2.json
-1151 silly gunzTarPerm modified mode [ 'test/cases/03-single_tag_2.json', 420, 438 ]
-1152 silly gunzTarPerm extractEntry test/cases/04-unescaped_in_script.json
-1153 silly gunzTarPerm modified mode [ 'test/cases/04-unescaped_in_script.json', 420, 438 ]
-1154 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\gatsby-remark-images-b9bc45e9\node_modules is being purged
-1155 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\gatsby-remark-images-b9bc45e9\node_modules
+1136 silly gunzTarPerm extractEntry readme.md
+1137 silly gunzTarPerm modified mode [ 'readme.md', 420, 438 ]
+1138 silly gunzTarPerm extractEntry docs/api-constructor.md
+1139 silly gunzTarPerm modified mode [ 'docs/api-constructor.md', 436, 438 ]
+1140 silly gunzTarPerm extractEntry docs/api-input.md
+1141 silly gunzTarPerm modified mode [ 'docs/api-input.md', 436, 438 ]
+1142 silly gunzTarPerm extractEntry test/ignore-unfound-file.js
+1143 silly gunzTarPerm modified mode [ 'test/ignore-unfound-file.js', 420, 438 ]
+1144 silly gunzTarPerm extractEntry test/ini.js
+1145 silly gunzTarPerm modified mode [ 'test/ini.js', 420, 438 ]
+1146 silly gunzTarPerm extractEntry test/cases/03-single_tag_2.json
+1147 silly gunzTarPerm modified mode [ 'test/cases/03-single_tag_2.json', 420, 438 ]
+1148 silly gunzTarPerm extractEntry test/cases/04-unescaped_in_script.json
+1149 silly gunzTarPerm modified mode [ 'test/cases/04-unescaped_in_script.json', 420, 438 ]
+1150 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\gatsby-remark-images-b9bc45e9\node_modules is being purged
+1151 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\gatsby-remark-images-b9bc45e9\node_modules
+1152 silly gunzTarPerm extractEntry docs/api-operation.md
+1153 silly gunzTarPerm modified mode [ 'docs/api-operation.md', 436, 438 ]
+1154 silly gunzTarPerm extractEntry docs/api-colour.md
+1155 silly gunzTarPerm modified mode [ 'docs/api-colour.md', 436, 438 ]
 1156 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\get-proxy-7e8a6dd1\node_modules is being purged
 1157 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\get-proxy-7e8a6dd1\node_modules
-1158 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\color-4f4ba3df\node_modules is being purged
-1159 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\color-4f4ba3df\node_modules
-1160 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\caw-7cf58a3c\node_modules is being purged
-1161 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\caw-7cf58a3c\node_modules
-1162 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\simple-swizzle-fc88e0e5\node_modules is being purged
-1163 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\simple-swizzle-fc88e0e5\node_modules
-1164 silly gunzTarPerm extractEntry docs/api-resize.md
-1165 silly gunzTarPerm modified mode [ 'docs/api-resize.md', 436, 438 ]
-1166 silly gunzTarPerm extractEntry docs/api-utility.md
-1167 silly gunzTarPerm modified mode [ 'docs/api-utility.md', 436, 438 ]
-1168 silly gunzTarPerm extractEntry test/cases/05-tags_in_comment.json
-1169 silly gunzTarPerm modified mode [ 'test/cases/05-tags_in_comment.json', 420, 438 ]
-1170 silly gunzTarPerm extractEntry test/cases/06-comment_in_script.json
-1171 silly gunzTarPerm modified mode [ 'test/cases/06-comment_in_script.json', 420, 438 ]
-1172 silly gunzTarPerm extractEntry test/save.js
-1173 silly gunzTarPerm modified mode [ 'test/save.js', 420, 438 ]
-1174 silly gunzTarPerm extractEntry test/broken.json
-1175 silly gunzTarPerm modified mode [ 'test/broken.json', 420, 438 ]
+1158 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\caw-7cf58a3c\node_modules is being purged
+1159 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\caw-7cf58a3c\node_modules
+1160 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\color-4f4ba3df\node_modules is being purged
+1161 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\color-4f4ba3df\node_modules
+1162 silly gunzTarPerm extractEntry test/cases/05-tags_in_comment.json
+1163 silly gunzTarPerm modified mode [ 'test/cases/05-tags_in_comment.json', 420, 438 ]
+1164 silly gunzTarPerm extractEntry test/cases/06-comment_in_script.json
+1165 silly gunzTarPerm modified mode [ 'test/cases/06-comment_in_script.json', 420, 438 ]
+1166 silly gunzTarPerm extractEntry test/save.js
+1167 silly gunzTarPerm modified mode [ 'test/save.js', 420, 438 ]
+1168 silly gunzTarPerm extractEntry test/broken.json
+1169 silly gunzTarPerm modified mode [ 'test/broken.json', 420, 438 ]
+1170 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\simple-swizzle-fc88e0e5\node_modules is being purged
+1171 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\simple-swizzle-fc88e0e5\node_modules
+1172 silly gunzTarPerm extractEntry docs/api-resize.md
+1173 silly gunzTarPerm modified mode [ 'docs/api-resize.md', 436, 438 ]
+1174 silly gunzTarPerm extractEntry docs/api-utility.md
+1175 silly gunzTarPerm modified mode [ 'docs/api-utility.md', 436, 438 ]
 1176 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\proto-list-1f5f26c0\node_modules is being purged
 1177 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\proto-list-1f5f26c0\node_modules
-1178 silly gunzTarPerm extractEntry test/cases/07-unescaped_in_style.json
-1179 silly gunzTarPerm modified mode [ 'test/cases/07-unescaped_in_style.json', 420, 438 ]
-1180 silly gunzTarPerm extractEntry test/cases/08-extra_spaces_in_tag.json
-1181 silly gunzTarPerm modified mode [ 'test/cases/08-extra_spaces_in_tag.json', 420, 438 ]
-1182 silly gunzTarPerm extractEntry docs/changelog.md
-1183 silly gunzTarPerm modified mode [ 'docs/changelog.md', 420, 438 ]
-1184 silly gunzTarPerm extractEntry docs/index.md
-1185 silly gunzTarPerm modified mode [ 'docs/index.md', 420, 438 ]
-1186 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\color-string-419c743e\node_modules is being purged
-1187 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\color-string-419c743e\node_modules
-1188 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\gatsby-plugin-sharp-19590fc6\node_modules is being purged
-1189 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\gatsby-plugin-sharp-19590fc6\node_modules
-1190 silly gunzTarPerm extractEntry docs/install.md
-1191 silly gunzTarPerm modified mode [ 'docs/install.md', 436, 438 ]
-1192 silly gunzTarPerm extractEntry docs/performance.md
-1193 silly gunzTarPerm modified mode [ 'docs/performance.md', 436, 438 ]
-1194 silly gunzTarPerm extractEntry test/cases/09-unquoted_attrib.json
-1195 silly gunzTarPerm modified mode [ 'test/cases/09-unquoted_attrib.json', 420, 438 ]
-1196 silly gunzTarPerm extractEntry test/cases/10-singular_attribute.json
-1197 silly gunzTarPerm modified mode [ 'test/cases/10-singular_attribute.json', 420, 438 ]
-1198 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\is-arrayish-2daf2d54\node_modules is being purged
-1199 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\is-arrayish-2daf2d54\node_modules
-1200 silly gunzTarPerm extractEntry test/cases/11-text_outside_tags.json
-1201 silly gunzTarPerm modified mode [ 'test/cases/11-text_outside_tags.json', 420, 438 ]
-1202 silly gunzTarPerm extractEntry test/cases/12-text_only.json
-1203 silly gunzTarPerm modified mode [ 'test/cases/12-text_only.json', 420, 438 ]
-1204 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\npm-conf-77da973e\node_modules is being purged
-1205 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\npm-conf-77da973e\node_modules
-1206 silly gunzTarPerm extractEntry lib/channel.js
-1207 silly gunzTarPerm modified mode [ 'lib/channel.js', 420, 438 ]
-1208 silly gunzTarPerm extractEntry lib/composite.js
-1209 silly gunzTarPerm modified mode [ 'lib/composite.js', 420, 438 ]
-1210 silly gunzTarPerm extractEntry test/cases/02-single_tag_1.json
-1211 silly gunzTarPerm modified mode [ 'test/cases/02-single_tag_1.json', 420, 438 ]
-1212 silly gunzTarPerm extractEntry test/cases/14-comment_in_text_in_script.json
-1213 silly gunzTarPerm modified mode [ 'test/cases/14-comment_in_text_in_script.json', 420, 438 ]
-1214 silly gunzTarPerm extractEntry lib/constructor.js
-1215 silly gunzTarPerm modified mode [ 'lib/constructor.js', 436, 438 ]
-1216 silly gunzTarPerm extractEntry lib/resize.js
-1217 silly gunzTarPerm modified mode [ 'lib/resize.js', 420, 438 ]
+1178 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\color-string-419c743e\node_modules is being purged
+1179 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\color-string-419c743e\node_modules
+1180 silly gunzTarPerm extractEntry test/cases/07-unescaped_in_style.json
+1181 silly gunzTarPerm modified mode [ 'test/cases/07-unescaped_in_style.json', 420, 438 ]
+1182 silly gunzTarPerm extractEntry test/cases/08-extra_spaces_in_tag.json
+1183 silly gunzTarPerm modified mode [ 'test/cases/08-extra_spaces_in_tag.json', 420, 438 ]
+1184 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\gatsby-plugin-sharp-19590fc6\node_modules is being purged
+1185 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\gatsby-plugin-sharp-19590fc6\node_modules
+1186 silly gunzTarPerm extractEntry docs/changelog.md
+1187 silly gunzTarPerm modified mode [ 'docs/changelog.md', 420, 438 ]
+1188 silly gunzTarPerm extractEntry docs/index.md
+1189 silly gunzTarPerm modified mode [ 'docs/index.md', 420, 438 ]
+1190 silly gunzTarPerm extractEntry test/cases/09-unquoted_attrib.json
+1191 silly gunzTarPerm modified mode [ 'test/cases/09-unquoted_attrib.json', 420, 438 ]
+1192 silly gunzTarPerm extractEntry test/cases/10-singular_attribute.json
+1193 silly gunzTarPerm modified mode [ 'test/cases/10-singular_attribute.json', 420, 438 ]
+1194 silly gunzTarPerm extractEntry docs/install.md
+1195 silly gunzTarPerm modified mode [ 'docs/install.md', 436, 438 ]
+1196 silly gunzTarPerm extractEntry docs/performance.md
+1197 silly gunzTarPerm modified mode [ 'docs/performance.md', 436, 438 ]
+1198 silly gunzTarPerm extractEntry test/cases/11-text_outside_tags.json
+1199 silly gunzTarPerm modified mode [ 'test/cases/11-text_outside_tags.json', 420, 438 ]
+1200 silly gunzTarPerm extractEntry test/cases/12-text_only.json
+1201 silly gunzTarPerm modified mode [ 'test/cases/12-text_only.json', 420, 438 ]
+1202 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\is-arrayish-2daf2d54\node_modules is being purged
+1203 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\is-arrayish-2daf2d54\node_modules
+1204 silly gunzTarPerm extractEntry lib/channel.js
+1205 silly gunzTarPerm modified mode [ 'lib/channel.js', 420, 438 ]
+1206 silly gunzTarPerm extractEntry lib/composite.js
+1207 silly gunzTarPerm modified mode [ 'lib/composite.js', 420, 438 ]
+1208 silly gunzTarPerm extractEntry test/cases/02-single_tag_1.json
+1209 silly gunzTarPerm modified mode [ 'test/cases/02-single_tag_1.json', 420, 438 ]
+1210 silly gunzTarPerm extractEntry test/cases/14-comment_in_text_in_script.json
+1211 silly gunzTarPerm modified mode [ 'test/cases/14-comment_in_text_in_script.json', 420, 438 ]
+1212 silly gunzTarPerm extractEntry lib/constructor.js
+1213 silly gunzTarPerm modified mode [ 'lib/constructor.js', 436, 438 ]
+1214 silly gunzTarPerm extractEntry lib/resize.js
+1215 silly gunzTarPerm modified mode [ 'lib/resize.js', 420, 438 ]
+1216 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\npm-conf-77da973e\node_modules is being purged
+1217 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\npm-conf-77da973e\node_modules
 1218 silly gunzTarPerm extractEntry test/cases/15-non-verbose.json
 1219 silly gunzTarPerm modified mode [ 'test/cases/15-non-verbose.json', 420, 438 ]
 1220 silly gunzTarPerm extractEntry test/cases/16-normalize_whitespace.json
@@ -5896,42 +5895,42 @@
 1223 silly gunzTarPerm modified mode [ 'lib/index.js', 420, 438 ]
 1224 silly gunzTarPerm extractEntry lib/colour.js
 1225 silly gunzTarPerm modified mode [ 'lib/colour.js', 420, 438 ]
-1226 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\htmlparser2-069a9a56\node_modules is being purged
-1227 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\htmlparser2-069a9a56\node_modules
-1228 silly gunzTarPerm extractEntry test/cases/17-xml_namespace.json
-1229 silly gunzTarPerm modified mode [ 'test/cases/17-xml_namespace.json', 420, 438 ]
-1230 silly gunzTarPerm extractEntry test/cases/18-enforce_empty_tags.json
-1231 silly gunzTarPerm modified mode [ 'test/cases/18-enforce_empty_tags.json', 420, 438 ]
-1232 silly gunzTarPerm extractEntry lib/is.js
-1233 silly gunzTarPerm modified mode [ 'lib/is.js', 436, 438 ]
-1234 silly gunzTarPerm extractEntry lib/operation.js
-1235 silly gunzTarPerm modified mode [ 'lib/operation.js', 420, 438 ]
-1236 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\config-chain-7115ac09\node_modules is being purged
-1237 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\config-chain-7115ac09\node_modules
-1238 silly gunzTarPerm extractEntry test/cases/19-ignore_empty_tags.json
-1239 silly gunzTarPerm modified mode [ 'test/cases/19-ignore_empty_tags.json', 420, 438 ]
-1240 silly gunzTarPerm extractEntry test/cases/20-template_script_tags.json
-1241 silly gunzTarPerm modified mode [ 'test/cases/20-template_script_tags.json', 420, 438 ]
-1242 silly gunzTarPerm extractEntry lib/output.js
-1243 silly gunzTarPerm modified mode [ 'lib/output.js', 420, 438 ]
-1244 silly gunzTarPerm extractEntry lib/utility.js
-1245 silly gunzTarPerm modified mode [ 'lib/utility.js', 420, 438 ]
-1246 silly gunzTarPerm extractEntry test/cases/21-conditional_comments.json
-1247 silly gunzTarPerm modified mode [ 'test/cases/21-conditional_comments.json', 420, 438 ]
-1248 silly gunzTarPerm extractEntry test/cases/22-lowercase_tags.json
-1249 silly gunzTarPerm modified mode [ 'test/cases/22-lowercase_tags.json', 420, 438 ]
-1250 silly gunzTarPerm extractEntry lib/input.js
-1251 silly gunzTarPerm modified mode [ 'lib/input.js', 420, 438 ]
-1252 silly gunzTarPerm extractEntry lib/icc/cmyk.icm
-1253 silly gunzTarPerm modified mode [ 'lib/icc/cmyk.icm', 436, 438 ]
-1254 silly gunzTarPerm extractEntry test/cases/23-dom-lvl1.json
-1255 silly gunzTarPerm modified mode [ 'test/cases/23-dom-lvl1.json', 420, 438 ]
-1256 silly gunzTarPerm extractEntry test/cases/24-with-start-indices.json
-1257 silly gunzTarPerm modified mode [ 'test/cases/24-with-start-indices.json', 420, 438 ]
-1258 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\cheerio-0bf1dfe6\node_modules is being purged
-1259 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\cheerio-0bf1dfe6\node_modules
-1260 silly gunzTarPerm extractEntry test/cases/25-with-end-indices.json
-1261 silly gunzTarPerm modified mode [ 'test/cases/25-with-end-indices.json', 420, 438 ]
+1226 silly gunzTarPerm extractEntry test/cases/17-xml_namespace.json
+1227 silly gunzTarPerm modified mode [ 'test/cases/17-xml_namespace.json', 420, 438 ]
+1228 silly gunzTarPerm extractEntry test/cases/18-enforce_empty_tags.json
+1229 silly gunzTarPerm modified mode [ 'test/cases/18-enforce_empty_tags.json', 420, 438 ]
+1230 silly gunzTarPerm extractEntry test/cases/19-ignore_empty_tags.json
+1231 silly gunzTarPerm modified mode [ 'test/cases/19-ignore_empty_tags.json', 420, 438 ]
+1232 silly gunzTarPerm extractEntry test/cases/20-template_script_tags.json
+1233 silly gunzTarPerm modified mode [ 'test/cases/20-template_script_tags.json', 420, 438 ]
+1234 silly gunzTarPerm extractEntry lib/is.js
+1235 silly gunzTarPerm modified mode [ 'lib/is.js', 436, 438 ]
+1236 silly gunzTarPerm extractEntry lib/operation.js
+1237 silly gunzTarPerm modified mode [ 'lib/operation.js', 420, 438 ]
+1238 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\htmlparser2-069a9a56\node_modules is being purged
+1239 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\htmlparser2-069a9a56\node_modules
+1240 silly gunzTarPerm extractEntry test/cases/21-conditional_comments.json
+1241 silly gunzTarPerm modified mode [ 'test/cases/21-conditional_comments.json', 420, 438 ]
+1242 silly gunzTarPerm extractEntry test/cases/22-lowercase_tags.json
+1243 silly gunzTarPerm modified mode [ 'test/cases/22-lowercase_tags.json', 420, 438 ]
+1244 silly gunzTarPerm extractEntry lib/output.js
+1245 silly gunzTarPerm modified mode [ 'lib/output.js', 420, 438 ]
+1246 silly gunzTarPerm extractEntry lib/utility.js
+1247 silly gunzTarPerm modified mode [ 'lib/utility.js', 420, 438 ]
+1248 silly gunzTarPerm extractEntry test/cases/23-dom-lvl1.json
+1249 silly gunzTarPerm modified mode [ 'test/cases/23-dom-lvl1.json', 420, 438 ]
+1250 silly gunzTarPerm extractEntry test/cases/24-with-start-indices.json
+1251 silly gunzTarPerm modified mode [ 'test/cases/24-with-start-indices.json', 420, 438 ]
+1252 silly gunzTarPerm extractEntry lib/input.js
+1253 silly gunzTarPerm modified mode [ 'lib/input.js', 420, 438 ]
+1254 silly gunzTarPerm extractEntry lib/icc/cmyk.icm
+1255 silly gunzTarPerm modified mode [ 'lib/icc/cmyk.icm', 436, 438 ]
+1256 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\config-chain-7115ac09\node_modules is being purged
+1257 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\config-chain-7115ac09\node_modules
+1258 silly gunzTarPerm extractEntry test/cases/25-with-end-indices.json
+1259 silly gunzTarPerm modified mode [ 'test/cases/25-with-end-indices.json', 420, 438 ]
+1260 silly gentlyRm C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\cheerio-0bf1dfe6\node_modules is being purged
+1261 verbose gentlyRm don't care about contents; nuking C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\cheerio-0bf1dfe6\node_modules
 1262 silly gunzTarPerm extractEntry lib/icc/sRGB.icc
 1263 silly gunzTarPerm modified mode [ 'lib/icc/sRGB.icc', 436, 438 ]
 1264 silly gunzTarPerm extractEntry CONTRIBUTING.md
@@ -6002,8 +6001,8 @@
 1329 silly preinstall gatsby-remark-images@1.5.36 C:\Users\Marek\Projects\Cryptopapers\node_modules\.staging\gatsby-remark-images-b9bc45e9
 1330 info lifecycle gatsby-remark-images@1.5.36~preinstall: gatsby-remark-images@1.5.36
 1331 silly lifecycle domhandler@2.4.1~preinstall: no script for preinstall, continuing
-1332 silly lifecycle proto-list@1.2.4~preinstall: no script for preinstall, continuing
-1333 silly lifecycle htmlparser2@3.9.2~preinstall: no script for preinstall, continuing
+1332 silly lifecycle htmlparser2@3.9.2~preinstall: no script for preinstall, continuing
+1333 silly lifecycle proto-list@1.2.4~preinstall: no script for preinstall, continuing
 1334 silly lifecycle config-chain@1.1.11~preinstall: no script for preinstall, continuing
 1335 silly lifecycle npm-conf@1.1.3~preinstall: no script for preinstall, continuing
 1336 silly lifecycle get-proxy@2.1.0~preinstall: no script for preinstall, continuing
@@ -6014,8 +6013,8 @@
 1341 silly lifecycle color@1.0.3~preinstall: no script for preinstall, continuing
 1342 silly lifecycle sharp@0.17.3~preinstall: no script for preinstall, continuing
 1343 silly lifecycle gatsby-plugin-sharp@1.6.24~preinstall: no script for preinstall, continuing
-1344 silly lifecycle gatsby-remark-images@1.5.36~preinstall: no script for preinstall, continuing
-1345 silly lifecycle cheerio@1.0.0-rc.2~preinstall: no script for preinstall, continuing
+1344 silly lifecycle cheerio@1.0.0-rc.2~preinstall: no script for preinstall, continuing
+1345 silly lifecycle gatsby-remark-images@1.5.36~preinstall: no script for preinstall, continuing
 1346 silly doReverseSerial remove 0
 1347 silly doSerial move 0
 1348 silly doSerial finalize 15
@@ -6181,7 +6180,7 @@
 1495 verbose pkgid sharp@0.17.3
 1496 verbose cwd C:\Users\Marek\Projects\Cryptopapers
 1497 error Windows_NT 10.0.16299
-1498 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "--save" "gatsby-remark-images"
+1498 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "gatsby-remark-images"
 1499 error node v6.10.2
 1500 error npm  v3.10.10
 1501 error code ELIFECYCLE

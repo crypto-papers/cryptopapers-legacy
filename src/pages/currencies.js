@@ -1,18 +1,18 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
-const IndexPage = ({data}) => (
+const CurrencyPage = ({data}) => (
   <div>
     <p>CryptoPapers is a simple archive of papers related to cryptocurrency. This site does not provide investment advice nor does a paper's inclusion in the archive imply an endorsement of it's contents.</p>
     <div className='paper_grid'>
-      <h3 className='grid_header'>Latest Additions:</h3>
+      <h3 className='grid_header'>Crytpocurrency Whitepapers:</h3>
       <div className='grid_wrapper'>
         {data.allMarkdownRemark.edges.map(post => (
           <div className='grid_item' id={post.node.frontmatter.path} key={post.node.id}>
             <img src={'/assets/images/' + post.node.frontmatter.cover} />
-            <a href={post.node.frontmatter.path}>
+            <Link to={'/' + post.node.frontmatter.path}>
               {post.node.frontmatter.title}
-            </a>
+            </Link>
           </div>
         ))}
       </div>
@@ -21,8 +21,10 @@ const IndexPage = ({data}) => (
 )
 
 export const pageQuery = graphql`
-  query IndexQuery {
-    allMarkdownRemark(limit: 10) {
+  query CoinQuery {
+    allMarkdownRemark(
+      filter: { frontmatter: { is_currency: { eq: true } } }
+    ) {
       edges {
         node {
           id
@@ -30,6 +32,8 @@ export const pageQuery = graphql`
             title
             path
             cover
+            category
+            is_currency
           }
         }
       }
@@ -37,4 +41,4 @@ export const pageQuery = graphql`
   }
 `
 
-export default IndexPage
+export default CurrencyPage
