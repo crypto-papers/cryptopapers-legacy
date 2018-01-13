@@ -9,10 +9,10 @@ const IndexPage = ({data}) => (
       <div className='grid_wrapper'>
         {data.allMarkdownRemark.edges.map(post => (
           <div className='grid_item' id={post.node.frontmatter.path} key={post.node.id}>
-            <img src={'/assets/images/' + post.node.frontmatter.cover} />
-            <a href={post.node.frontmatter.path}>
+            <img className='grid_thumbnail' src={'/assets/images/' + post.node.frontmatter.cover} /><br />
+            <Link className='grid_link' to={post.node.frontmatter.path}>
               {post.node.frontmatter.title}
-            </a>
+            </Link>
           </div>
         ))}
       </div>
