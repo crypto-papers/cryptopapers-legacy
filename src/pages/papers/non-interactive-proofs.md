@@ -5,6 +5,7 @@ cover: 'non-interactive-proofs.png'
 pdf: ''
 category: 'research'
 is_currency: false
+date_added: '2018-01-12'
 ---
 
 ![Gnosis](../assets/images/non-interactive-proofs.png)

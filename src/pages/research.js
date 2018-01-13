@@ -23,6 +23,7 @@ const ResearchPage = ({data}) => (
 export const pageQuery = graphql`
   query ResearchQuery {
     allMarkdownRemark(
+      sort: { fields: [ frontmatter___date_added ], order: DESC }
       filter: { frontmatter: { category: { eq: "research" } } }
     ) {
       edges {

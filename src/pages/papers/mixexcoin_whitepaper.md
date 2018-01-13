@@ -6,6 +6,7 @@ pdf: ''
 category: 'whitepaper'
 is_currency: true
 currency: 'Minex'
+date_added: '2018-01-12'
 ---
 
 ![Gnosis](../assets/images/gnosis.png)

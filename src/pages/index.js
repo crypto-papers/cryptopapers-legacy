@@ -12,7 +12,9 @@ const IndexPage = ({data}) => (
             <img className='grid_thumbnail' src={'/assets/images/' + post.node.frontmatter.cover} /><br />
             <Link className='grid_link' to={post.node.frontmatter.path}>
               {post.node.frontmatter.title}
-            </Link>
+            </Link><br />
+            <Link to={'/pdf/' + post.node.frontmatter.pdf}>Download</Link>
+
           </div>
         ))}
       </div>
@@ -22,7 +24,10 @@ const IndexPage = ({data}) => (
 
 export const pageQuery = graphql`
   query IndexQuery {
-    allMarkdownRemark(limit: 10) {
+    allMarkdownRemark(
+      limit: 20
+      sort: { fields: [ frontmatter___date_added ], order: DESC }
+    ) {
       edges {
         node {
           id
@@ -30,6 +35,8 @@ export const pageQuery = graphql`
             title
             path
             cover
+            pdf
+            date_added
           }
         }
       }

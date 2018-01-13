@@ -23,6 +23,7 @@ const CurrencyPage = ({data}) => (
 export const pageQuery = graphql`
   query CoinQuery {
     allMarkdownRemark(
+      sort: { fields: [ frontmatter___date_added ], order: DESC }
       filter: { frontmatter: { is_currency: { eq: true } } }
     ) {
       edges {

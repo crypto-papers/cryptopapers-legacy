@@ -6,6 +6,7 @@ pdf: ''
 category: 'whitepaper'
 is_currency: true
 currency: 'Ethereum Classic'
+date_added: '2018-01-13'
 ---
 
 ![Gnosis](../assets/images/gnosis.png)
