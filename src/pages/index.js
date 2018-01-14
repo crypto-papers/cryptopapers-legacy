@@ -9,7 +9,7 @@ const IndexPage = ({data}) => (
     <div className='paper_grid'>
       <h3 className='grid_header'>Latest Additions:</h3>
       <div className='grid_wrapper'>
-        {data.allMarkdownRemark.edges.map(post => (
+        {data.allMarkdownRemark.edges.map( post => (
           <div className='grid_item' id={post.node.frontmatter.path} key={post.node.id}>
             <Link className='thumbnail_link' to={post.node.frontmatter.path}>
               <img className='grid_thumbnail' src={'/covers/' + post.node.frontmatter.cover} /><br />
