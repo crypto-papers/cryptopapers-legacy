@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Bitter:400,700');
 
-@import './styles/base';
-@import './styles/variables';
-@import './styles/typography';
+@import './stylesheets/base';
+@import './stylesheets/variables';
+@import './stylesheets/typography';
 
 // Components
-@import './styles/components/header';
-@import './styles/components/navigation';
-@import './styles/components/pages';
-@import './styles/components/grid';
-@import './styles/components/assets';
-@import './styles/components/footer';
+@import './stylesheets/components/header';
+@import './stylesheets/components/navigation';
+@import './stylesheets/components/pages';
+@import './stylesheets/components/grid';
+@import './stylesheets/components/assets';
+@import './stylesheets/components/footer';

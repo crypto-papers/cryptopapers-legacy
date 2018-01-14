@@ -12,7 +12,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
  const { createPage } = boundActionCreators;
 
  return new Promise((resolve, reject) => {
-   const blogPostTemplate = path.resolve(`src/components/post.js`);
+   const blogPostTemplate = path.resolve(`src/templates/post.js`);
    // Query for markdown nodes to use in creating pages.
    resolve(
      graphql(
