@@ -3,13 +3,56 @@
   grid-template-columns: 25% 25% 25% 25%;
   grid-template-rows: auto;
   grid-gap: 1rem;
+  align-items: center;
+  align-content: center;
 }
 
 .grid_item {
   padding: 1rem;
+  background: $blue;
+  border: 1px solid $grey;
 }
 
-.grid_thumbnail,
-.grid_link {
+.grid_thumbnail {
   text-align: center;
+}
+
+.meta_container {
+  background: $light-grey;
+  border: 1px solid $grey;
+  border-radius: .5rem;
+}
+
+.grid_link_container {
+  height: 100px;
+  overflow: hidden;
+}
+
+.grid_link_text {
+  text-align: center;
+  align-self: center;
+  font-family: 'Bitter', sans-serif;
+  font-size: .8rem;
+  font-weight: 600;
+  padding: .6rem;
+}
+
+.date_and_download_container {
+  text-align: right;
+  height: 31px;
+  background-color: $light-grey;
+  border-radius: .5rem;
+}
+
+.publication_date {
+  font-size: .65rem;
+  float: left;
+  text-align: left;
+  margin-bottom: 0;
+  padding-left: .6rem;
+  width: 75%;
+}
+
+.grid_download {
+  float: right;
 }

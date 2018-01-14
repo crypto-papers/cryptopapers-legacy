@@ -6,6 +6,7 @@ pdf: 'gnosis_12_22_2017'
 category: 'whitepaper'
 is_currency: true
 currency: 'Gnosis'
+date_published: '2017-12-22'
 date_added: '2018-01-12'
 ---
 
