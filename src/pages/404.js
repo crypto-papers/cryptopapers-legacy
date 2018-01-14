@@ -1,9 +1,11 @@
 import React from 'react'
 
+import hodl from '../assets/hodl.gif'
 const NotFoundPage = () => (
   <div>
-    <h1>NOT FOUND</h1>
-    <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+    <h3>OOPS...PAGE NOT FOUND</h3>
+    <p>You just hit a route that doesn&#39;t exist, please hodl with us.</p>
+    <img className='hodl_gif' src={hodl} />
   </div>
 )
 
