@@ -2,4 +2,8 @@
   margin-bottom: 0;
   padding-right: .6rem;
   padding-top: .25rem;
+
+  &:hover {
+    transform: translate(-1.5px, -1.5px);
+  }
 }

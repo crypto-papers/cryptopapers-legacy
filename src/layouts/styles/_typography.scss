@@ -14,9 +14,13 @@ a {
   color: $dark-blue;
   background-color: transparent;
   text-decoration: none;
-}
 
-a:active,
-a:hover {
-  outline-width: 0;
+  &:hover {
+    text-decoration: underline;
+    outline-width: 0;
+  }
+
+  &:active {
+    outline-width: 0;
+  }
 }

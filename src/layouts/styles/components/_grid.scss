@@ -11,15 +11,23 @@
   padding: 1rem;
   background: $blue;
   border: 1px solid $grey;
+  box-shadow: 5px 5px 1px $light-grey;
 }
 
 .grid_thumbnail {
   text-align: center;
+  box-shadow: 5px 5px 1px $grey;
+
+  &:hover {
+    transform: translate(-3px, -3px);
+    box-shadow: 8px 8px 1px $grey;
+  }
 }
 
 .meta_container {
   background: $light-grey;
   border: 1px solid $grey;
+  box-shadow: 5px 5px 1px $grey;
   border-radius: .5rem;
 }
 

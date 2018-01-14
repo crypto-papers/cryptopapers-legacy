@@ -11,7 +11,9 @@ const IndexPage = ({data}) => (
       <div className='grid_wrapper'>
         {data.allMarkdownRemark.edges.map(post => (
           <div className='grid_item' id={post.node.frontmatter.path} key={post.node.id}>
-            <img className='grid_thumbnail' src={'/assets/cover/' + post.node.frontmatter.cover} /><br />
+            <Link className='thumbnail_link' to={post.node.frontmatter.path}>
+              <img className='grid_thumbnail' src={'/covers/' + post.node.frontmatter.cover} /><br />
+            </Link>
             <div className='meta_container'>
               <div className='grid_link_container' >
                 <Link className='grid_link' to={post.node.frontmatter.path}>
@@ -46,6 +48,9 @@ export const pageQuery = graphql`
             path
             cover
             pdf
+            category
+            is_currency
+            currency
             date_published
             date_added
           }

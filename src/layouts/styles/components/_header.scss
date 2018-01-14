@@ -11,5 +11,9 @@
 .site_title {
   color: #fff;
   text-decoration: none;
-  margin: 0
+  margin: 0;
+
+  &:hover {
+    text-decoration: none;
+  }
 }

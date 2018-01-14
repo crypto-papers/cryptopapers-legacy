@@ -11,15 +11,17 @@ const ResearchPage = ({data}) => (
       <div className='grid_wrapper'>
         {data.allMarkdownRemark.edges.map(post => (
           <div className='grid_item' id={post.node.frontmatter.path} key={post.node.id}>
-            <img className='grid_thumbnail' src={'/assets/cover/' + post.node.frontmatter.cover} /><br />
+            <Link className='thumbnail_link' to={'/' + post.node.frontmatter.path}>
+              <img className='grid_thumbnail' src={'/covers/' + post.node.frontmatter.cover} /><br />
+            </Link>
             <div className='meta_container'>
-              <div className='grid_link_container' >
-                <Link className='grid_link' to={post.node.frontmatter.path}>
+              <div className='grid_link_container'>
+                <Link className='grid_link' to={'/' + post.node.frontmatter.path}>
                   <p className='grid_link_text'>{post.node.frontmatter.title}</p>
                 </Link>
               </div>
               <div className='date_and_download_container'>
-                <p className='publication_date' >Published: {post.node.frontmatter.date_published}</p>
+                <p className='publication_date'>Published: {post.node.frontmatter.date_published}</p>
                 <Link className='grid_download' to={'/pdf/' + post.node.frontmatter.pdf}>
                   <img className='download_icon' src={download_cloud} />
                 </Link>
@@ -45,7 +47,12 @@ export const pageQuery = graphql`
             title
             path
             cover
+            pdf
             category
+            is_currency
+            currency
+            date_published
+            date_added
           }
         }
       }
