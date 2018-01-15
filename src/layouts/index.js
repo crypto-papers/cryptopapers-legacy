@@ -7,7 +7,6 @@ import Navigation from '../components/Navigation'
 import Footer from '../components/Footer'
 
 import './style.scss'
-import favicon from '../assets/favicon.ico'
 
 const TemplateWrapper = ({ children, data }) => (
   <div>
@@ -21,7 +20,7 @@ const TemplateWrapper = ({ children, data }) => (
           { property: 'og:description', content: `${data.site.siteMetadata.og_description}` }
         ]}
         link={[
-          { rel: 'shortcut icon', href: `${favicon}`, type: 'image/x-icon'}
+          { rel: 'shortcut icon', href: '/assets/favicon.ico', type: 'image/x-icon'}
         ]}
       >
         <html lang='en-US'/>
