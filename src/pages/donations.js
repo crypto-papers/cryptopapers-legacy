@@ -1,12 +1,14 @@
 import React from 'react'
-import Link from 'gatsby-link'
 
-const SecondPage = () => (
+import hodl from '../assets/hodl.gif'
+const DonationsPage = () => (
   <div>
-    <h1>Hi from the second page</h1>
-    <p>Welcome to page 2</p>
-    <Link to="/">Go back to the homepage</Link>
+    <h3>OOPS...PAGE NOT FOUND</h3>
+    <p>It seems that the page you're looking for does not exist. Please hodl on while we resolve the problem.</p>
+    <div className='gif_container'>
+      <img className='hodl_gif' src={hodl} alt='404 Error' />
+    </div>
   </div>
 )
 
-export default SecondPage
+export default DonationsPage

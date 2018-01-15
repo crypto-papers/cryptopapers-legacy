@@ -1,25 +1,24 @@
 ---
 path: 'minex-whitepaper'
-title: 'Minex'
-cover: ''
-pdf: ''
+title: 'Minex: Low Volatility Asset'
+cover: 'minex.png'
+pdf: 'minex.pdf'
 category: 'whitepaper'
 is_currency: true
 currency: 'Minex'
+date_published: '2017-05'
 date_added: '2018-01-12'
 ---
 
-![Gnosis](../assets/images/gnosis.png)
+[![Cover of the Minex whitepaper](/covers/minex.png)](/pdfs/minex.pdf)
 
-[Download](..assets/pdfs/gnosis_12_22_2017.pdf)
+#### Description
+The Minex whitepaper povides an overview of the MinexCoin project, including an explanation of the need for a stable, low volatility digital currency and the team's vision for delivering such a currency. This paper also outlines the terms of the MinexCoin crowdsale.
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-Why do we use it?
+#### Excerpt
+> MinexCoin is a global payment system built on the eponymous low-volatility crypto-asset regulated by an autonomous algorithm with methods proven on traditional financial markets.
+MinexCoin asset is a low-volatility cryptocurrency with predictable and dirigible price development. It may be employed both as a means of settlement and a means of saving. Long-term value of the coin is based on its annual growth of 33.6%. In order to reduce its volatility, such supply/demand regulation tools as market interventions and coin parking are used.
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
-
-Where does it come from?
-
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
-
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+Date Published | Title                                                                                | Page Count
+---------------|--------------------------------------------------------------------------------------|------------
+2017-05        | Minex: Low Volatility Asset v1.1 [![Download](/assets/download_cloud.svg)](/pdfs/minex.pdf) | 32

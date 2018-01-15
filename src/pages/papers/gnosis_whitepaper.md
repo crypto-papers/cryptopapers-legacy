@@ -10,14 +10,14 @@ date_published: '2017-12-22'
 date_added: '2018-01-12'
 ---
 
-[![Paper Cover](/covers/gnosis.png)](/pdfs/gnosis_12_22_2017.pdf)
+[![Cover of the Gnosis whitepaper](/covers/gnosis.png)](/pdfs/gnosis_12_22_2017.pdf)
 
 #### Description
-Brief description of or excerpt from the paper.
+A revised whitepaper describing the Gnosis predictive market platform. Published following the release of the Gnosis beta platform, it details the team's mission statement, roadmap, platform model, products, ongoing research, use cases for developers, and leadership.
 
 #### Excerpt
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+> Prediction markets have been poised to become one of the most disruptive innovations in capital markets and data science since the beginning of the information revolution. First proposed in the early 90s, prediction markets have yet to attract mass attention in the realm of forecasting and decision-making despite their documented efficacy for information aggregation. With the invention of powerful, peer-to-peer computing technologies such as Ethereum and Bitcoin, the scientific exploration of market-based forecasting can proceed at a rate and scale previously unimaginable. Our team believes undoubtedly that prediction markets will disrupt some of the largest existing industries in the near term.
 
-Date Published | Title
----------------|---------------------------------------------------------------------------------------
-2017-12-22     | Paper's Title [![Download](../../assets/download_cloud.svg)](/pdfs/gnosis_12_22_2017)
+Date Published | Title                                                                                 | Page Count
+---------------|---------------------------------------------------------------------------------------|------------
+2017-12-22     | Gnosis Whitepaper [![Download](/assets/download_cloud.svg)](/pdfs/gnosis_12_22_2017) | 30

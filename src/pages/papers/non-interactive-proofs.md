@@ -1,24 +1,25 @@
 ---
 path: 'non-interactive-proofs'
 title: 'Non-Interactive Proofs of Proof of Work'
+author: 'Aggelos Kiayias, Andrew Miller, Dionysis Zindros'
 cover: 'non-interactive-proofs.png'
-pdf: ''
+pdf: 'non-interactive-proofs.pdf'
 category: 'research'
 is_currency: false
+date_published: '2017-12-04'
 date_added: '2018-01-12'
 ---
 
-![Gnosis](../assets/images/non-interactive-proofs.png)
+[![Cover of Non-Interactive Proofs of Proof of Work](/covers/non-interactive-proofs.png)](/pdfs/non-interactive-proofs.pdf)
 
-What is Lorem Ipsum?
+by Aggelos Kiayias, Andrew Miller, and Dionysis Zindros
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-Why do we use it?
+#### Description
+In this paper the authors propose a new primitive for blockchain protocols called Noninteractive-Proofs-of-Proof-of-Work (NIPoPoWs), which require resources only logarithmic in the length of the blockchain rather than verifying the entire linearly-growing chain.
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+#### Excerpt
+> Blockchain  protocols  such  as  Bitcoin  provide  decentralized  consensus  mechanisms based on proof-of-work (PoW). In this work we introduce and instantiate a new primitive  for  blockchain  protocols  called  Non-Interactive-Proofs-of-Proof-of-Work  (NIPoPoWs) which can be adapted into existing PoW-based cryptocurrencies. Unlike a traditional blockchain client which must verify the entire linearly-growing chain of PoWs, clients based on NIPoPoWs can verify a certain blockchain property requiring resources only logarithmic in the length of the blockchain. NIPoPoWs solve two important open questions for PoW based consensus  protocols:  The  problem  of  constructing  efficient  transaction  verification (SPV) clients and the problem of constructing efficient sidechain proofs. We provide a formal model for NIPoPoWs and two constructions for blockchain properties that we prove secure and are of interest with respect to the above applications. We also provide simulations and experimental data to measure the concrete communication efficiency and security of our construction. We also present an attack against the only previously known (interactive) PoPoW protocol that showcases the difficulty of designing such protocols. Finally, we provide two ways that our NIPoPoWs can be adopted by existing blockchain protocols, first via a soft fork, and second via a new update mechanism that we term a “velvet fork” that enables harnessing some of the performance benefits of NIPoPoWs even with a minority upgrade.
 
-Where does it come from?
-
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
-
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+Date Published | Title                                                                                | Page Count
+---------------|--------------------------------------------------------------------------------------|------------
+2017-12-04     | Non-Interactive Proofs of Proof of Work [![Download](/assets/download_cloud.svg)](/pdfs/non-interactive-proofs.pdf)   | 35

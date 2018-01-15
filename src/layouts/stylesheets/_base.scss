@@ -1,3 +1,5 @@
+@import './stylesheets/variables';
+
 html,
 body {
   height: 100%;
@@ -422,6 +424,11 @@ blockquote {
   padding-right: 0;
   padding-top: 0;
   margin-bottom: 1.45rem;
+
+  > p {
+    border-left: 5px solid $blue;
+    padding-left: 10px;
+  }
 }
 form {
   margin-left: 0;
