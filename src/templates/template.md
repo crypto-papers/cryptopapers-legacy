@@ -13,7 +13,7 @@ date_added: 'YYYY-MM-DD' # Date paper was added to the site
 
 [![Cover of the Paper](/covers/paper_cover.png)](/pdf/paper_file.pdf)
 
-by Auhtor Name
+by Author Name
 
 #### Description
 One-line description of the paper (who, what, why).
