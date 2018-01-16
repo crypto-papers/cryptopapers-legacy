@@ -11,10 +11,31 @@
 
 .nav_item {
   background: $medium-blue;
+  text-align: center;
 
   > a {
     text-decoration: none;
     color: #ffffff;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 0.5rem;
+  }
+
+  &:hover {
+    background: $dark-blue;
+    padding: .7rem  1.0875rem;
+    margin: -.7rem 0;
+  }
+}
+
+.bottom_nav_item {
+  background: $medium-blue;
+  text-align: center;
+
+  > a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 18px;
     font-weight: 500;
     padding: 0.5rem;
   }

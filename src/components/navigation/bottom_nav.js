@@ -1,23 +1,23 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
-const Navigation = () => (
+const BottomNavigation = () => (
   <div className='site_navigation'>
     <div className='nav_container grid_wrapper'>
-      <div className='nav_item'>
+      <div className='bottom_nav_item'>
         <Link to="/currencies/">Currencies</Link>
       </div>
-      <div className='nav_item'>
+      <div className='bottom_nav_item'>
         <Link to="/research/">Research</Link>
       </div>
-      <div className='nav_item'>
+      <div className='bottom_nav_item'>
         <Link to="/docs/">Documentation</Link>
       </div>
-      <div className='nav_item'>
+      <div className='bottom_nav_item'>
         <Link to="/donations/">Donate</Link>
       </div>
     </div>
   </div>
 )
 
-export default Navigation
+export default BottomNavigation

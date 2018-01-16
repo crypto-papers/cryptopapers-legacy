@@ -2,9 +2,9 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 
-import Header from '../components/Header'
-import Navigation from '../components/Navigation'
-import Footer from '../components/Footer'
+import Header from '../components/header'
+import Navigation from '../components/navigation'
+import Footer from '../components/footer'
 
 import './style.scss'
 

@@ -8,3 +8,6 @@ npm-debug.log
 public/
 .DS_Store
 yarn-error.log
+
+# External Assets
+social/

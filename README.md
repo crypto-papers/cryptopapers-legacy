@@ -1,6 +1,6 @@
 # CryptoPapers
 
-[CryptoPapers.info](http://cryptopapers.info.s3-website-us-east-1.amazonaws.com/) is a simple online archive that lists papers related to cryptocurrency. The archive includes cryptocurrency whitepapers, research papers, and technical documentation and is intended for educational purposes. This site does not provide investment advice nor does a paper's inclusion in the archive imply an endorsement of it's contents.
+[CryptoPapers.info](http://cryptopapers.info/) is a simple online archive that lists papers related to cryptocurrency. The archive includes cryptocurrency whitepapers, research papers, and technical documentation and is intended for educational purposes. This site does not provide investment advice nor does a paper's inclusion in the archive imply an endorsement of it's contents.
 
 The site's codebase, as well as the project itself are open-sourced and contributions are encouraged (see below).
 
@@ -11,7 +11,7 @@ Before you begin working on the project you must have NodeJS (v4 or higher), NPM
 
 If you're starting a new project run `gatsby new your-site-name` (replacing your-new-site with whatever you want to call your site) to create a new site and `cd` into the newly created directory `your-new-site`. If you are modifying this project simply `cd` into the root directory `Cryptopapers`. In your CLI enter the command: `gatsby deploy`.
 
-This will run a deployment build and open a test server where you can view your site. In your browser navigate to `localhost:8000` and you will see your site, which will live update any time you make a change. Note that the pages based off of markdown files (saved in src/pages/papers) will not live update and you will need to restart your development survey to see the changes. Also keep in mind that given the way this project is set up (i.e. with static files served from site root), PDF files and most images will not load on the development site. If this is a deal breaker, there are other options (such as the gatsby-remark-images plugin) that may better serve your needs.
+This will run a deployment build and open a test server where you can view your site. In your browser navigate to `localhost:8000` and you will see your site, which will live update any time you make a change. Note that the pages based off of markdown files (saved in src/pages/papers) will not live update and you will need to restart your development survey to see the changes. Also keep in mind that given the way this project is set up (i.e. with static files served from site root), PDF files and most images will not load on the development site. If this is a deal breaker, there are other options (such as the [gatsby-remark-images plugin](https://www.gatsbyjs.org/packages/gatsby-remark-images/)) that may better serve your needs.
 
 When you have finished your work are and are content with the site, make a production build by running `gatsby build`. This will generate the requisite static files in a directory called 'public' at the project root. Once you upload these files to your chosen hosting solution your site will be live and online.
 
@@ -24,9 +24,11 @@ The CryptoPapers team is currently one person working in their free time, so the
 
 New paper pull requests will only be considered for inclusion if they:
   1. Are properly titled using the convention `New Paper - Paper Title`.
-  1. Have a properly formatted markdown file describing the paper and providing all of the required metadata. (Please duplicate the [`src/templates/template.md`](src/templates/template.md) file in the directory [`src/templates/`](src/templates), replace the dummy text therein with information on the paper, and move the new file into the directory [`src/pages/papers`](src/pages/papers))
+  1. Have a properly formatted markdown file describing the paper and providing all of the required metadata. (Please duplicate the [`/src/templates/template.md`](src/templates/template.md) file in the directory [`/src/templates/`](src/templates), replace the dummy text therein with information on the paper, and move the new file into the directory [`/src/pages/papers`](src/pages/papers))
   1. Include a PDF copy of the paper in the directory [`/pdf`](/pdf).
   1. Include an image of the cover or first page of the paper in the directory [`/covers`](/covers). (Hint: Firefox makes it extremely easy to screenshot the whole first page of an online PDF using the built-in screenshot tool)
+
+If you would like to submit a paper for inclusion but are unable to complete a pull request, please tweet \@crypto_papers with your recommendation and a link to the paper.
 
 ### Site Enhancements
 We would also like to hear from you if you see any bugs, errors, or areas for improvement. Please submit a detailed issue report or a well documented pull request explaining the problem and how to address it.

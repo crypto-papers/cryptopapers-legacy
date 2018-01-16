@@ -3,7 +3,7 @@ module.exports = {
     title: 'CryptoPapers.info',
     description: 'Your source for cryptocurrency research.',
     keywords: 'cryptocurrency, ico, bitcoin, ethereum',
-    og_image: 'https://cryptopapers.info/src/assets/og_imgage.jpg',
+    og_image: 'http://cryptopapers.info/assets/og_imgage.jpg',
     og_title: 'CryptoPapers.info',
     og_description: 'Your source for cryptocurrency research.'
   },

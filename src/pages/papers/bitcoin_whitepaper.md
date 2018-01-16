@@ -11,7 +11,7 @@ date_published: '2008-10-31'
 date_added: '2018-01-12'
 ---
 
-[![Cover of the Bitcoin whitepaper](/covers/bitcoin.png)](/pdfs/bitcoin.pdf)
+[![Cover of the Bitcoin whitepaper](/covers/bitcoin.png)](/pdf/bitcoin.pdf)
 
 by Satoshi Nakamoto
 
@@ -23,4 +23,4 @@ The O.G. of cryptocurrency whitepapers. Written under the pseudonym Satoshi Naka
 
 Date Published | Title                                                                                | Page Count
 ---------------|--------------------------------------------------------------------------------------|------------
-2008-10-31     | Bitcoin: A Peer-to-Peer Electronic Cash System [![Download](/assets/download_cloud.svg)](/pdfs/bitcoin.pdf) | 09
+2008-10-31     | Bitcoin: A Peer-to-Peer Electronic Cash System [![Download](/assets/download_cloud.svg)](/pdf/bitcoin.pdf) | 09

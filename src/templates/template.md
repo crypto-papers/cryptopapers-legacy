@@ -11,7 +11,7 @@ date_published: 'YYYY-MM-DD' # Date of paper's original publication, be precise 
 date_added: 'YYYY-MM-DD' # Date paper was added to the site
 ---
 
-[![Cover of the Paper](/covers/paper_cover.png)](/pdfs/paper_file.pdf)
+[![Cover of the Paper](/covers/paper_cover.png)](/pdf/paper_file.pdf)
 
 by Auhtor Name
 
@@ -21,7 +21,7 @@ One-line description of the paper (who, what, why).
 #### Excerpt
 > Brief (~one paragraph) excerpt taken from the paper. Ideally, something from the abstract, introduction, or conclusion of the paper which summarizes it's findings or purpose.
 
-Date Published | Title                                                                           | Page Count
----------------|---------------------------------------------------------------------------------|------------
-YYYY-MM-DD     | Paper's Title [![Download](/assets/download_cloud.svg)](/pdfs/paper_file.pdf)   | xx
-YYYY-MM-DD     | Older Version [![Download](/assets/download_cloud.svg)](/pdfs/paper_file_2.pdf) | xx
+Date Published | Title                                                                          | Page Count
+---------------|--------------------------------------------------------------------------------|------------
+YYYY-MM-DD     | Paper's Title [![Download](/assets/download_cloud.svg)](/pdf/paper_file.pdf)   | xx
+YYYY-MM-DD     | Older Version [![Download](/assets/download_cloud.svg)](/pdf/paper_file_2.pdf) | xx

@@ -1,6 +1,6 @@
 .site_footer {
   background: $medium-blue;
-  height: 100px;
+  height: 120px;
   position: relative;
   right: 0;
   bottom:0;
@@ -10,5 +10,12 @@
 .footer_nav_container {
   margin: 0 auto;
   max-width: 960px;
-  padding: 1.45rem 1.0875rem ;
+  padding: 1.2rem 1.0875rem 0 1.0875rem;
+}
+
+.footer_nav {
+
+  > .nav_item:hover {
+    background: $medium-blue;
+  }
 }

@@ -10,7 +10,7 @@ date_published: '2016-07-20'
 date_added: '2018-01-13'
 ---
 
-[![Cover of the Ethereum Classic Declaration of Independence](/covers/ethereum_classic.png)](/pdfs/ethereum_classic.pdf)
+[![Cover of the Ethereum Classic Declaration of Independence](/covers/ethereum_classic.png)](/pdf/ethereum_classic.pdf)
 
 #### Description
 The Ethereum Classic Declaration of Independence provides a list of grievances against the Ethereum Foundation and explains the decision to implement a hard fork of the blockchain thereby creating Ethereum Classic.
@@ -24,4 +24,4 @@ the consequences of our actions.
 
 Date Published | Title                                                                                | Page Count
 ---------------|--------------------------------------------------------------------------------------|------------
-2016-07-20     | Ethereum Classic Declaration of Independence [![Download](/assets/download_cloud.svg)](/pdfs/ethereum_classic.pdf) | 3
+2016-07-20     | Ethereum Classic Declaration of Independence [![Download](/assets/download_cloud.svg)](/pdf/ethereum_classic.pdf) | 3

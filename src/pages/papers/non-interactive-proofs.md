@@ -10,7 +10,7 @@ date_published: '2017-12-04'
 date_added: '2018-01-12'
 ---
 
-[![Cover of Non-Interactive Proofs of Proof of Work](/covers/non-interactive-proofs.png)](/pdfs/non-interactive-proofs.pdf)
+[![Cover of Non-Interactive Proofs of Proof of Work](/covers/non-interactive-proofs.png)](/pdf/non-interactive-proofs.pdf)
 
 by Aggelos Kiayias, Andrew Miller, and Dionysis Zindros
 
@@ -22,4 +22,4 @@ In this paper the authors propose a new primitive for blockchain protocols calle
 
 Date Published | Title                                                                                | Page Count
 ---------------|--------------------------------------------------------------------------------------|------------
-2017-12-04     | Non-Interactive Proofs of Proof of Work [![Download](/assets/download_cloud.svg)](/pdfs/non-interactive-proofs.pdf)   | 35
+2017-12-04     | Non-Interactive Proofs of Proof of Work [![Download](/assets/download_cloud.svg)](/pdf/non-interactive-proofs.pdf) | 35

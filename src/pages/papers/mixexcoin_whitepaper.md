@@ -10,7 +10,7 @@ date_published: '2017-05'
 date_added: '2018-01-12'
 ---
 
-[![Cover of the Minex whitepaper](/covers/minex.png)](/pdfs/minex.pdf)
+[![Cover of the Minex whitepaper](/covers/minex.png)](/pdf/minex.pdf)
 
 #### Description
 The Minex whitepaper povides an overview of the MinexCoin project, including an explanation of the need for a stable, low volatility digital currency and the team's vision for delivering such a currency. This paper also outlines the terms of the MinexCoin crowdsale.
@@ -21,4 +21,4 @@ MinexCoin asset is a low-volatility cryptocurrency with predictable and dirigibl
 
 Date Published | Title                                                                                | Page Count
 ---------------|--------------------------------------------------------------------------------------|------------
-2017-05        | Minex: Low Volatility Asset v1.1 [![Download](/assets/download_cloud.svg)](/pdfs/minex.pdf) | 32
+2017-05        | Minex: Low Volatility Asset v1.1 [![Download](/assets/download_cloud.svg)](/pdf/minex.pdf) | 32

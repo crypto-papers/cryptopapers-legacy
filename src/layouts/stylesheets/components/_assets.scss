@@ -8,6 +8,23 @@
   }
 }
 
+.contact_icons {
+  text-align: center;
+}
+
+.twitter_icon {
+  background-color: $light-grey;
+  padding: 5px;
+  border-radius: 20%;
+}
+
+.github_icon {
+  background-color: $light-grey;
+  padding: 5px;
+  border-radius: 20%;
+  margin-left: 10px;
+}
+
 .gif_container {
   text-align: center;
 }
