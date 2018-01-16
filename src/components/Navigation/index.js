@@ -14,7 +14,7 @@ const Navigation = () => (
         <Link to="/docs/">Documentation</Link>
       </div>
       <div className='nav_item'>
-        <Link to="/donations/">Donate</Link>
+        <Link to="/contribute/">Contribute</Link>
       </div>
     </div>
   </div>

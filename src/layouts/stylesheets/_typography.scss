@@ -17,6 +17,13 @@ h5 {
   font-family: 'Bitter', serif;
 }
 
+p {
+
+  > a {
+    color: $medium-blue;
+  }
+}
+
 a {
   color: $dark-blue;
   background-color: transparent;

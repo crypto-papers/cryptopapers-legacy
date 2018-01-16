@@ -22,4 +22,4 @@ This paper presents an ontology (collection of concepts) that attempts to outlin
 
 Date Published | Title                                                                          | Page Count
 ---------------|--------------------------------------------------------------------------------|------------
-2017-07-03     | Paper's Title [![Download](/assets/download_cloud.svg)](/pdf/ontology_for_smart_contracts.pdf) | 3
+2017-07-03     | An Ontology for Smart Contractsc [![Download](/assets/download_cloud.svg)](/pdf/ontology_for_smart_contracts.pdf) | 3

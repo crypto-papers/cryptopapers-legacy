@@ -14,7 +14,7 @@ const BottomNavigation = () => (
         <Link to="/docs/">Documentation</Link>
       </div>
       <div className='bottom_nav_item'>
-        <Link to="/donations/">Donate</Link>
+        <Link to="/contribute/">Contribute</Link>
       </div>
     </div>
   </div>
