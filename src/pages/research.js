@@ -37,8 +37,8 @@ const ResearchPage = ({data}) => (
 export const pageQuery = graphql`
   query ResearchQuery {
     allMarkdownRemark(
-      sort: { fields: [ frontmatter___date_added ], order: DESC }
       filter: { frontmatter: { category: { eq: "research" } } }
+      sort: { fields: [ frontmatter___title ], order: ASC }
     ) {
       edges {
         node {
@@ -53,6 +53,7 @@ export const pageQuery = graphql`
             currency
             date_published
             date_added
+            source
           }
         }
       }

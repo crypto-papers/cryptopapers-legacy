@@ -11,6 +11,7 @@ const CurrencyPage = ({data}) => (
       <div className='grid_wrapper'>
         {data.allMarkdownRemark.edges.map(post => (
           <div className='grid_item' id={post.node.frontmatter.path} key={post.node.id}>
+            <h4 className='currency_header'>{post.node.frontmatter.currency}</h4>
             <Link className='thumbnail_link' to={'/' + post.node.frontmatter.path}>
               <img className='grid_thumbnail' src={'/covers/' + post.node.frontmatter.cover} /><br />
             </Link>
@@ -37,8 +38,8 @@ const CurrencyPage = ({data}) => (
 export const pageQuery = graphql`
   query CoinQuery {
     allMarkdownRemark(
-      sort: { fields: [ frontmatter___date_added ], order: DESC }
       filter: { frontmatter: { is_currency: { eq: true } } }
+      sort: { fields: [ frontmatter___currency ], order: ASC }
     ) {
       edges {
         node {
@@ -53,6 +54,7 @@ export const pageQuery = graphql`
             currency
             date_published
             date_added
+            source
           }
         }
       }

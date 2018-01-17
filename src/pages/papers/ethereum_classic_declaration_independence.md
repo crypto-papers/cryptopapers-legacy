@@ -8,12 +8,15 @@ is_currency: true
 currency: 'Ethereum Classic'
 date_published: '2016-07-20'
 date_added: '2018-01-13'
+source: 'https://ethereumclassic.github.io/'
 ---
 
 [![Cover of the Ethereum Classic Declaration of Independence](/covers/ethereum_classic.png)](/pdf/ethereum_classic.pdf)
 
 #### Description
 The Ethereum Classic Declaration of Independence provides a list of grievances against the Ethereum Foundation and explains the decision to implement a hard fork of the blockchain thereby creating Ethereum Classic.
+
+**Source:** https://ethereumclassic.github.io/
 
 #### Excerpt
 > Let it be known to the entire world that on July 20th, 2016, at block 1,920,000, we as a community of sovereign

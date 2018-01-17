@@ -53,6 +53,7 @@ export const pageQuery = graphql`
             currency
             date_published
             date_added
+            source
           }
         }
       }

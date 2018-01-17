@@ -9,6 +9,7 @@ is_currency: true # Boolean, if paper is about a currency true, otherwise false
 currency: 'Name of Coin' # If paper is about a cryptocurrency list it here, otherwise omit
 date_published: 'YYYY-MM-DD' # Date of paper's original publication, be precise as possible, if no date know put unknown
 date_added: 'YYYY-MM-DD' # Date paper was added to the site
+socurce: 'https://source_site.com' # Website from where the paper was taken
 ---
 
 [![Cover of the Paper](/covers/paper_cover.png)](/pdf/paper_file.pdf)
@@ -17,6 +18,8 @@ by Author Name
 
 #### Description
 One-line description of the paper (who, what, why).
+
+**Source:** https://source_site.com
 
 #### Excerpt
 > Brief (~one paragraph) excerpt taken from the paper. Ideally, something from the abstract, introduction, or conclusion of the paper which summarizes it's findings or purpose.
