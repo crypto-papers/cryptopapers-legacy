@@ -21,6 +21,7 @@ This paper presents an overview of the Golem team's overarching vision for the p
 #### Excerpt
 > Golem is the first truly decentralized supercomputer, creating a global market for computing power. Combined with flexible tools to aid developers in securely distributing and monetizing their software, Golem altogether changes the way compute tasks are organized and executed. By powering decentralized microservices and asynchronous task execution, Golem is set to become a key building block for future Internet service providers and software development. And, by substantially lowering the price of computations, complex applications such as CGI rendering, scientific calculation, and machine learning become more accessible to everyone.
 
+#### Download & Related
 Date Published | Title                                                                          | Page Count
 ---------------|--------------------------------------------------------------------------------|------------
 2016-11        | The Golem Project: Crowdfunding Whitepaper - final version [![Download](/assets/download_cloud.svg)](/pdf/golem.pdf) | 28

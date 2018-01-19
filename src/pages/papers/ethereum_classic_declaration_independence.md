@@ -1,5 +1,5 @@
 ---
-path: 'ethereum_classic_declaration'
+path: 'ethereum-classic-declaration'
 title: 'Ethereum Classic Declaration of Independence'
 cover: 'ethereum_classic.png'
 pdf: 'ethereum_classic.pdf'
@@ -25,6 +25,7 @@ censorship, fraud or third party interference. In realizing that the blockchain 
 by it, supporting its immutability and its future. We do not make this declaration lightly, nor without forethought to
 the consequences of our actions.
 
+#### Download & Related
 Date Published | Title                                                                                | Page Count
 ---------------|--------------------------------------------------------------------------------------|------------
 2016-07-20     | Ethereum Classic Declaration of Independence [![Download](/assets/download_cloud.svg)](/pdf/ethereum_classic.pdf) | 3

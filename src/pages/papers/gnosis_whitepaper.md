@@ -21,6 +21,7 @@ A revised whitepaper describing the Gnosis predictive market platform. Published
 #### Excerpt
 > Prediction markets have been poised to become one of the most disruptive innovations in capital markets and data science since the beginning of the information revolution. First proposed in the early 90s, prediction markets have yet to attract mass attention in the realm of forecasting and decision-making despite their documented efficacy for information aggregation. With the invention of powerful, peer-to-peer computing technologies such as Ethereum and Bitcoin, the scientific exploration of market-based forecasting can proceed at a rate and scale previously unimaginable. Our team believes undoubtedly that prediction markets will disrupt some of the largest existing industries in the near term.
 
+#### Download & Related
 Date Published | Title                                                                               | Page Count
 ---------------|-------------------------------------------------------------------------------------|------------
 2017-12-22     | Gnosis Whitepaper [![Download](/assets/download_cloud.svg)](/pdf/gnosis_12_22_2017) | 30

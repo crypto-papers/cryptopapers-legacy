@@ -37,8 +37,8 @@ const DocsPage = ({data}) => (
 export const pageQuery = graphql`
   query DocsQuery {
     allMarkdownRemark(
-      sort: { fields: [ frontmatter___date_added ], order: DESC }
       filter: { frontmatter: { category: { eq: "documentation" } } }
+      sort: { fields: [ frontmatter___date_added ], order: DESC }
     ) {
       edges {
         node {

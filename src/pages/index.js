@@ -44,8 +44,9 @@ export const pageQuery = graphql`
         node {
           id
           frontmatter {
-            title
             path
+            title
+            author
             cover
             pdf
             category

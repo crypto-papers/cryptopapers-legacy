@@ -24,6 +24,7 @@ One-line description of the paper (who, what, why).
 #### Excerpt
 > Brief (~one paragraph) excerpt taken from the paper. Ideally, something from the abstract, introduction, or conclusion of the paper which summarizes it's findings or purpose.
 
+#### Download & Related
 Date Published | Title                                                                          | Page Count
 ---------------|--------------------------------------------------------------------------------|------------
 YYYY-MM-DD     | Paper's Title [![Download](/assets/download_cloud.svg)](/pdf/paper_file.pdf)   | xx

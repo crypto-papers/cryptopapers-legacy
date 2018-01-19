@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 
 import Header from '../components/header'
-import Navigation from '../components/navigation'
+import TopNavigation from '../components/navigation/top_nav.js'
 import Footer from '../components/footer'
 
 import './style.scss'
@@ -27,7 +27,7 @@ const TemplateWrapper = ({ children, data }) => (
       </Helmet>
     <div className='page_wrap'>
       <Header />
-      <Navigation />
+      <TopNavigation />
       <div className='site_body'>
         {children()}
       </div>
