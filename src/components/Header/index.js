@@ -6,7 +6,10 @@ const Header = () => (
     <div className='site_title_container'>
       <h1>
         <Link className='site_title' to="/">
-          CryptoPapers.info
+          CryptoPapers
+        </Link>
+        <Link className='info_suffix' to="/">
+          .info
         </Link>
       </h1>
     </div>

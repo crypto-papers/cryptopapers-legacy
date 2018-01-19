@@ -10,11 +10,11 @@
     grid-template-columns: 31.5% 31.5% 31.5%;
   }
 
-  @media screen and (min-width: 375px) and (max-width: 715px) {
+  @media screen and (min-width: 400px) and (max-width: 715px) {
     grid-template-columns: 48% 48%;
   }
 
-  @media screen and (max-width: 375px) {
+  @media screen and (max-width: 400px) {
     grid-template-columns: 100%;
   }
 }
@@ -35,7 +35,7 @@
   text-align: center;
   margin-bottom: 1rem;
   box-shadow: 5px 5px 1px $grey;
-  max-height: 245px;
+  max-height: 230px;
 
   &:hover {
     transform: translate(-3px, -3px);
@@ -78,6 +78,10 @@
   margin-bottom: 0;
   padding-left: .6rem;
   width: 75%;
+
+  @media screen and (min-width: 400px) and (max-width: 520px) {
+    visibility: hidden;
+  }
 }
 
 .grid_download {

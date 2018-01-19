@@ -8,12 +8,20 @@
   padding: 1.45rem 1.0875rem;
 }
 
-.site_title {
+.site_title,
+.info_suffix {
   color: #fff;
   text-decoration: none;
   margin: 0;
 
   &:hover {
     text-decoration: none;
+  }
+}
+
+.info_suffix {
+
+  @media screen and (max-width: 375px) {
+    display: none;
   }
 }

@@ -3,19 +3,21 @@ import Link from 'gatsby-link'
 
 const BottomNavigation = () => (
   <div className='site_navigation'>
-    <div className='nav_container grid_wrapper'>
-      <div className='bottom_nav_item'>
-        <Link to="/currencies/">Currencies</Link>
-      </div>
-      <div className='bottom_nav_item'>
-        <Link to="/research/">Research</Link>
-      </div>
-      <div className='bottom_nav_item'>
-        <Link to="/docs/">Documentation</Link>
-      </div>
-      <div className='bottom_nav_item'>
-        <Link to="/contribute/">Contribute</Link>
-      </div>
+    <div className='bottom_nav_container'>
+      <ul className="bottom_nav_list">
+        <li className='bottom_nav_item'>
+          <Link to="/currencies/">Currencies</Link>
+        </li>
+        <li className='bottom_nav_item'>
+          <Link to="/research/">Research</Link>
+        </li>
+        <li className='bottom_nav_item'>
+          <Link to="/docs/">Documentation</Link>
+        </li>
+        <li className='bottom_nav_item'>
+          <Link to="/contribute/">Contribute</Link>
+        </li>
+      </ul>
     </div>
   </div>
 )
