@@ -74,7 +74,7 @@ $lines-to-show: 3;
   /* This portion sets the overflow on the title */
   display: block;
   display: -webkit-box;
-  max-width: 175px;
+  max-width: 100%;
   /* Fallback for non-webkit */
   height: $font-size*$line-height*$lines-to-show;
   margin: 0 auto;

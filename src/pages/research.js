@@ -11,9 +11,11 @@ const ResearchPage = ({data}) => (
       <div className='grid_wrapper'>
         {data.allMarkdownRemark.edges.map(post => (
           <div className='grid_item' id={post.node.frontmatter.path} key={post.node.id}>
-            <Link className='thumbnail_link' to={'/' + post.node.frontmatter.path}>
-              <img className='grid_thumbnail' src={'/covers/' + post.node.frontmatter.cover} /><br />
-            </Link>
+            <div className='grid_thumbnail'>
+              <Link className='thumbnail_link' to={'/' + post.node.frontmatter.path}>
+                <img className='grid_thumbnail_image' src={'/covers/' + post.node.frontmatter.cover} /><br />
+              </Link>
+            </div>
             <div className='meta_container'>
               <div className='grid_link_container'>
                 <Link className='grid_link' to={'/' + post.node.frontmatter.path}>
