@@ -1,3 +1,8 @@
+/* Grid variables */
+$font-size: .8rem;
+$line-height: 2;
+$lines-to-show: 3;
+
 .grid_wrapper {
   display: grid;
   grid-template-rows: auto;
@@ -33,6 +38,10 @@
 
 .grid_thumbnail {
   text-align: center;
+}
+
+.grid_thumbnail_image {
+  text-align: center;
   margin-bottom: 1rem;
   box-shadow: 5px 5px 1px $grey;
   max-height: 230px;
@@ -57,11 +66,24 @@
 
 .grid_link_text {
   text-align: center;
-  align-self: center;
   font-family: 'Bitter', sans-serif;
   font-size: .8rem;
   font-weight: 600;
-  padding: .6rem;
+  padding: 0 .6rem;
+
+  /* This portion sets the overflow on the title */
+  display: block;
+  display: -webkit-box;
+  max-width: 175px;
+  /* Fallback for non-webkit */
+  height: $font-size*$line-height*$lines-to-show;
+  margin: 0 auto;
+  font-size: $font-size;
+  line-height: $line-height;
+  -webkit-line-clamp: $lines-to-show;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .date_and_download_container {
