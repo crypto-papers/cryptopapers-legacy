@@ -25,6 +25,37 @@
   margin-left: 10px;
 }
 
+.mail_icon {
+  background-color: $light-grey;
+  padding: 5px;
+  border-radius: 20%;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.brave_text {
+  color: #ffffff;
+  font-size: 14px;
+  margin-top: 8px;
+  margin-left: -3px;
+  float: left;
+
+  @media screen and (max-width: 600px) {
+    display: none;
+  }
+}
+
+.brave_icon {
+  height: 41px;
+  padding: 5px;
+  margin-right: 5px;
+  float: right;
+
+  @media screen and (max-width: 600px) {
+    display: none;
+  }
+}
+
 .gif_container {
   text-align: center;
 }
