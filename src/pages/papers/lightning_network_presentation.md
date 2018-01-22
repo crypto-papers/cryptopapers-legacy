@@ -1,7 +1,7 @@
 ---
 path: 'lightning-network-presentation'
 title: 'The Lightning Network'
-author: 'Joseph Poon, 'Thaddeus Dryja'
+author: 'Joseph Poon, Thaddeus Dryja'
 cover: 'lightning_network_presentation.png'
 pdf: 'lightning_network_presentation.pdf'
 category: 'research', 'presentation'
