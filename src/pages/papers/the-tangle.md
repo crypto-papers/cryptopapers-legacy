@@ -12,7 +12,7 @@ date_added: '2018-01-21'
 socurce: 'https://iota.org/'
 ---
 
-<object data="/pdf/the_tangle.pdf" type="application/pdf" width="100%" height="100%">
+<object class="pdf_embed" data="/pdf/the_tangle.pdf" type="application/pdf" width="100%" height="100%">
    <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/pdf/the_tangle.pdf">download the PDF</a> to view it.</p>
 </object>
 
