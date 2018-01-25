@@ -9,7 +9,7 @@ is_currency: true # Boolean, if paper is about a currency true, otherwise false
 currency: 'Name of Coin' # If paper is about a cryptocurrency list it here, otherwise omit
 date_published: 'YYYY-MM-DD' # Date of paper's original publication, be precise as possible, if no date know put unknown
 date_added: 'YYYY-MM-DD' # Date paper was added to the site
-socurce: 'https://source_site.com' # Website from where the paper was taken
+source: 'https://source_site.com' # Website from where the paper was taken
 ---
 
 [![Cover of the Paper](/covers/paper_cover.png)](/pdf/paper_file.pdf)
