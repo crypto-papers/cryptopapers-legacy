@@ -4,6 +4,7 @@ title: 'EOS - An Introduction v0.4'
 author: 'Ian Grigg'
 cover: 'eos.png'
 pdf: 'eos.pdf'
+page_count: '08'
 category: 'whitepaper'
 is_currency: true
 currency: 'EOS'
@@ -25,8 +26,3 @@ The papers begins by describing the current cryptocurrency environment including
 
 #### Excerpt
 > Current technologies for blockchain fall short of providing what developers and end-users need in order to contract together and to build large scale businesses. We propose EOS, a performance-based and self-governing blockchain that provides an operating system for building large-scale consumer-facing distributed applications. This paper outlines the context, vision and software architecture underlying EOS, which we are building to serve a broad and diverse group of users with smart business.
-
-#### Download & Related
-Date Published | Title                                                                          | Page Count
----------------|--------------------------------------------------------------------------------|------------
-2017-07-05     | EOS - An Introduction v0.4 [![Download](/assets/download_cloud.svg)](/pdf/eos.pdf) | 8

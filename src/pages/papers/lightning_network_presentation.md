@@ -4,14 +4,17 @@ title: 'The Lightning Network'
 author: 'Joseph Poon, Thaddeus Dryja'
 cover: 'lightning_network_presentation.png'
 pdf: 'lightning_network_presentation.pdf'
-category: 'research', 'presentation'
+page_count: '54'
+category: 'research'
 is_currency: false
 date_published: '2015-02-23'
 date_added: '2018-01-18'
 source: 'https://lightning.network'
 ---
 
-[![Cover of the Lightning Network presentation](/covers/lightning_network_presentation.png)](/pdf/lightning_network_presentation.pdf)
+<object class="pdf_embed" data="/pdf/lightning_network_presentation.pdf" type="application/pdf" width="100%" height="100%">
+   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/pdf/lightning_network_presentation.pdf">download the PDF</a> to view it.</p>
+</object>
 
 by Joseph Poon and Thaddeus Dryja
 
@@ -29,7 +32,6 @@ Creating new channels are infrequent
 #### Download & Related
 Date Published | Title                                                                          | Page Count
 ---------------|--------------------------------------------------------------------------------|------------
-2015-02-13     | The Lightning Network [![Download](/assets/download_cloud.svg)](/pdf/lightning_network_presentation.pdf) | 54
 2016-01-14     | The Bitcoin Lightning Network v0.5.9.2 [![Download](/assets/download_cloud.svg)](/pdf/lightning_network.pdf) | 59
 2015-07-06     | Time, Bitcoin, and the Lightning Network [![Download](/assets/download_cloud.svg)](/pdf/time_bitcoin_lightning_network.pdf) | 57
 2015-05-26     | Bitcoin Scalability Solutions [![Download](/assets/download_cloud.svg)](/pdf/bitcoin_scalability_solutions.pdf) | 41

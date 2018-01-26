@@ -4,6 +4,7 @@ title: 'Ethereum White Paper: A Next Generation Contract & Decentralized Applica
 author: 'Vitalik Buterin'
 cover: 'ethereum.png'
 pdf: 'ethereum.pdf'
+page_count: '36'
 category: 'whitepaper'
 is_currency: true
 currency: 'Ethereum'
@@ -25,8 +26,3 @@ The paper begins with a brief history of digital currencies covering Bitcoin and
 
 #### Excerpt
 > The Ethereum protocol was originally conceived as an upgraded version of a cryptocurrency, providing advanced features such as on-blockchain escrow, withdrawal limits and financial contracts, gambling markets and the like via a highly generalized programming language. The Ethereum protocol would not "support" any of the applications directly, but the existence of a Turing-complete programming language means that arbitrary contracts can theoretically be created for any transaction type or application. What is more interesting about Ethereum, however, is that the Ethereum protocol moves far beyond just currency. Protocols and decentralized applications around decentralized file storage, decentralized computation and decentralized prediction markets, among dozens of other such concepts, have the potential to substantially increase the efficiency of the computational industry, and provide a massive boost to other peer-to-peer protocols by adding for the first time an economic layer. Finally, there is also a substantial array of applications that have nothing to do with money at all.
-
-#### Download & Related
-Date Published | Title                                                                          | Page Count
----------------|--------------------------------------------------------------------------------|------------
-2015-03-28     | Ethereum White Paper [![Download](/assets/download_cloud.svg)](/pdf/ethereum.pdf) | 36

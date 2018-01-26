@@ -4,6 +4,7 @@ title: 'The Tangle'
 author: 'Serguei Popov'
 cover: 'the_tangle.png'
 pdf: 'the_tangle.pdf'
+page_count: '28'
 category: 'whitepaper'
 is_currency: true
 currency: 'Iota'
@@ -25,8 +26,3 @@ The paper presents an introduction and description of the Iota system, define th
 
 #### Excerpt
 > In this paper we analyze the mathematical foundations of IOTA, a cryptocurrency for the Internet-of-Things (IoT) industry. The main feature of this novel cryptocurrency is the tangle, a directed acyclic graph (DAG) for storing transactions. The tangle naturally succeeds the blockchain as its next evolutionary step, and offers features that are required to establish a machine-to-machine micropayment system.
-
-#### Download & Related
-Date Published | Title                                                                          | Page Count
----------------|--------------------------------------------------------------------------------|------------
-2017-10-01     | The Tangle [![Download](/assets/download_cloud.svg)](/pdf/the_tangle.pdf)      | 28

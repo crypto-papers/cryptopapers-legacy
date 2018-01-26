@@ -4,6 +4,7 @@ title: 'Time, Bitcoin, and the Lightning Network'
 author: 'Joseph Poon'
 cover: 'time_bitcoin_lightning_network.png'
 pdf: 'time_bitcoin_lightning_network.pdf'
+page_count: '57'
 category: 'research'
 is_currency: false
 date_published: '2015-07-06'
@@ -11,7 +12,9 @@ date_added: '2018-01-18'
 source: 'https://lightning.network'
 ---
 
-[![Cover of Time, Bitcoin, and the Lightning Network](/covers/time_bitcoin_lightning_network.png)](/pdf/time_bitcoin_lightning_network.pdf)
+<object class="pdf_embed" data="/pdf/time_bitcoin_lightning_network.pdf" type="application/pdf" width="100%" height="100%">
+   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/pdf/time_bitcoin_lightning_network.pdf">download the PDF</a> to view it.</p>
+</object>
 
 by Joseph Poon
 
@@ -28,7 +31,6 @@ With these channels as building blocks, payments can route over an untrusted net
 #### Download & Related
 Date Published | Title                                                                          | Page Count
 ---------------|--------------------------------------------------------------------------------|------------
-2015-07-06     | Time, Bitcoin, and the Lightning Network [![Download](/assets/download_cloud.svg)](/pdf/time_bitcoin_lightning_network.pdf) | 57
 2016-01-14     | The Bitcoin Lightning Network v0.5.9.2 [![Download](/assets/download_cloud.svg)](/pdf/lightning_network.pdf) | 59
 2015-05-26     | Bitcoin Scalability Solutions [![Download](/assets/download_cloud.svg)](/pdf/bitcoin_scalability_solutions.pdf) | 41
 2015-02-13     | The Lightning Network [![Download](/assets/download_cloud.svg)](/pdf/lightning_network_presentation.pdf) | 54

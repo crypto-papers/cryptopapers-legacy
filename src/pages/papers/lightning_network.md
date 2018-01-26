@@ -4,6 +4,7 @@ title: 'The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments'
 author: 'Joseph Poon, Thaddeus Dryja'
 cover: 'lightning_network.png'
 pdf: 'lightning_network.pdf'
+page_count: '59'
 category: 'research'
 is_currency: false
 date_published: '2016-01-14'
@@ -11,7 +12,9 @@ date_added: '2018-01-18'
 source: 'https://lightning.network'
 ---
 
-[![Cover of the Bitcoin Lightning Network](/covers/lightning_network.png)](/pdf/lightning_network.pdf)
+<object class="pdf_embed" data="/pdf/lightning_network.pdf" type="application/pdf" width="100%" height="100%">
+   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/pdf/lightning_network.pdf">download the PDF</a> to view it.</p>
+</object>
 
 by Joseph Poon and Thaddeus Dryja
 
@@ -26,7 +29,6 @@ An in depth look at the Lightning Network's attempt to resolve the scaling conun
 #### Download & Related
 Date Published | Title                                                                          | Page Count
 ---------------|--------------------------------------------------------------------------------|------------
-2016-01-14     | The Bitcoin Lightning Network v0.5.9.2 [![Download](/assets/download_cloud.svg)](/pdf/lightning_network.pdf) | 59
 2015-07-06     | Time, Bitcoin, and the Lightning Network [![Download](/assets/download_cloud.svg)](/pdf/time_bitcoin_lightning_network.pdf) | 57
 2015-05-26     | Bitcoin Scalability Solutions [![Download](/assets/download_cloud.svg)](/pdf/bitcoin_scalability_solutions.pdf) | 41
 2015-02-13     | The Lightning Network [![Download](/assets/download_cloud.svg)](/pdf/lightning_network_presentation.pdf) | 54

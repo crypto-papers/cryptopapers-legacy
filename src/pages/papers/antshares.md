@@ -3,6 +3,7 @@ path: 'antshares'
 title: 'Antshares and the Blockchain'
 cover: 'antshares.png'
 pdf: 'antshares.pdf'
+page_count: '13'
 category: 'whitepaper'
 is_currency: true
 currency: 'Neo'
@@ -22,9 +23,3 @@ The paper explains the key components of a blockchain and provides a brief histo
 
 #### Excerpt
 > Antshares is a decentralized and distributed ledger protocol that digitalizes real-world assets into digital ones, enabling registration, deposit, transfer, trading, clearing and settlement via a peer-to-peer network.
-
-
-#### Download & Related
-Date Published | Title                                                                          | Page Count
----------------|--------------------------------------------------------------------------------|------------
-Unknown        | Antshares and the Blockchain [![Download](/assets/download_cloud.svg)](/pdf/antshares.pdf) | 13
