@@ -7,7 +7,7 @@ pdf: 'bat.pdf'
 page_count: '37'
 category: 'whitepaper'
 is_currency: true
-currency: 'Basic Attention Token'
+currency: 'BAT'
 date_published: '2018-01-07'
 date_added: '2018-01-25'
 source: 'https://basicattentiontoken.org/'
