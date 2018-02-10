@@ -11,10 +11,10 @@ const CurrencyPage = ({data}) => (
       <div className='grid_wrapper'>
         {data.allMarkdownRemark.edges.map(post => (
           <div className='grid_item' id={post.node.frontmatter.path} key={post.node.id}>
-            <h4 className='currency_header'>{post.node.frontmatter.currency}</h4>
+            <h4 className='currency_header'>{post.node.frontmatter.ticker}</h4>
             <div className='grid_thumbnail'>
               <Link className='thumbnail_link' to={'/' + post.node.frontmatter.path}>
-                <img className='grid_thumbnail_image' src={'/covers/' + post.node.frontmatter.cover} /><br />
+                <img className='grid_thumbnail_image' src={'/assets/covers/' + post.node.frontmatter.cover} /><br />
               </Link>
             </div>
             <div className='meta_container'>
@@ -25,7 +25,7 @@ const CurrencyPage = ({data}) => (
               </div>
               <div className='date_and_download_container'>
                 <p className='publication_date' >Published: {post.node.frontmatter.date_published}</p>
-                <Link className='grid_download' to={'/pdf/' + post.node.frontmatter.pdf}>
+                <Link className='grid_download' to={'/assets/pdf/' + post.node.frontmatter.pdf}>
                   <img className='download_icon' src={download_cloud} />
                 </Link>
               </div>
@@ -54,6 +54,7 @@ export const pageQuery = graphql`
             category
             is_currency
             currency
+            ticker
             date_published
             date_added
             source

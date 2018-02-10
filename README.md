@@ -25,8 +25,8 @@ The CryptoPapers team is currently one person working in their free time, so the
 New paper pull requests will only be considered for inclusion if they:
   1. Are properly titled using the convention `New Paper - Paper Title`.
   1. Have a properly formatted markdown file describing the paper and providing all of the required metadata. (Please duplicate the [`/src/templates/template.md`](src/templates/template.md) file in the directory [`/src/templates/`](src/templates), replace the dummy text therein with information on the paper, and move the new file into the directory [`/src/pages/papers`](src/pages/papers))
-  1. Include a PDF copy of the paper in the directory [`/pdf`](/pdf).
-  1. Include an image of the cover or first page of the paper in the directory [`/covers`](/covers). (Hint: Firefox makes it extremely easy to screenshot the whole first page of an online PDF using the built-in screenshot tool)
+  1. Include a PDF copy of the paper in the directory [`/pdf`](/assets/pdf).
+  1. Include an image of the cover or first page of the paper in the directory [`/covers`](/assets/covers). (Hint: Firefox makes it extremely easy to screenshot the whole first page of an online PDF using the built-in screenshot tool)
 
 If you would like to submit a paper for inclusion but are unable to complete a pull request, please tweet \@crypto_papers with your recommendation and a link to the paper.
 

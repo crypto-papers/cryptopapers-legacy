@@ -13,7 +13,7 @@ const IndexPage = ({data}) => (
           <div className='grid_item' id={post.node.frontmatter.path} key={post.node.id}>
             <div className='grid_thumbnail'>
               <Link className='thumbnail_link' to={post.node.frontmatter.path}>
-                <img className='grid_thumbnail_image' src={'/covers/' + post.node.frontmatter.cover} /><br />
+                <img className='grid_thumbnail_image' src={'/assets/covers/' + post.node.frontmatter.cover} /><br />
               </Link>
             </div>
             <div className='meta_container'>
@@ -24,7 +24,7 @@ const IndexPage = ({data}) => (
               </div>
               <div className='date_and_download_container'>
                 <p className='publication_date' >Published: {post.node.frontmatter.date_published}</p>
-                <Link className='grid_download' to={'/pdf/' + post.node.frontmatter.pdf}>
+                <Link className='grid_download' to={'/assets/pdf/' + post.node.frontmatter.pdf}>
                   <img className='download_icon' src={download_cloud} />
                 </Link>
               </div>
