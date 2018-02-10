@@ -4,17 +4,19 @@ title: 'The Ripple Protocol Consensus Algorithm'
 author: 'David Schwartz, Noah Youngs, Arthur Britto'
 cover: 'ripple.png'
 pdf: 'ripple.pdf'
-page_count: '08'
+page_count: 08
+language: 'en'
 category: 'whitepaper'
 is_currency: true
 currency: 'Ripple'
+ticker: 'XRP'
 date_published: '2014'
 date_added: '2018-01-19'
 socurce: 'https://ripple.com'
 ---
 
-<object class="pdf_embed" data="/pdf/ripple.pdf" type="application/pdf" width="100%" height="100%">
-   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/pdf/ripple.pdf">download the PDF</a> to view it.</p>
+<object class="pdf_embed" data="/assets/pdf/ripple.pdf" type="application/pdf" width="100%" height="100%">
+   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/assets/pdf/ripple.pdf">download the PDF</a> to view it.</p>
 </object>
 
 by David Schwartz, Noah Youngs, and Arthur Britto

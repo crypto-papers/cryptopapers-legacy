@@ -4,17 +4,19 @@ title: 'Sense: Rewarding Human Capital'
 author: 'Ariel Jalali, Crystal Rose'
 cover: 'sense.png'
 pdf: 'sense.pdf'
-page_count: '23'
+page_count: 23
+language: 'en'
 category: 'whitepaper'
 is_currency: true
 currency: 'Sense'
+ticker: 'SENSE'
 date_published: 'Unknown'
 date_added: '2018-01-26'
 source: 'https://sensetoken.com'
 ---
 
-<object class="pdf_embed" data="/pdf/sense.pdf" type="application/pdf" width="100%" height="100%">
-   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/pdf/sense.pdf">download the PDF</a> to view it.</p>
+<object class="pdf_embed" data="/assets/pdf/sense.pdf" type="application/pdf" width="100%" height="100%">
+   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/assets/pdf/sense.pdf">download the PDF</a> to view it.</p>
 </object>
 
 by Ariel Jalali and Crystal Rose

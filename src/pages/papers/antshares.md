@@ -3,17 +3,19 @@ path: 'antshares'
 title: 'Antshares and the Blockchain'
 cover: 'antshares.png'
 pdf: 'antshares.pdf'
-page_count: '13'
+page_count: 13
+language: 'en'
 category: 'whitepaper'
 is_currency: true
 currency: 'Neo'
+ticker: 'NEO'
 date_published: 'Unknown'
 date_added: '2018-01-21'
 socurce: 'https://coss.io/'
 ---
 
-<object class="pdf_embed" data="/pdf/antshares.pdf" type="application/pdf" width="100%" height="100%">
-   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/pdf/antshares.pdf">download the PDF</a> to view it.</p>
+<object class="pdf_embed" data="/assets/pdf/antshares.pdf" type="application/pdf" width="100%" height="100%">
+   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/assets/pdf/antshares.pdf">download the PDF</a> to view it.</p>
 </object>
 
 #### Description

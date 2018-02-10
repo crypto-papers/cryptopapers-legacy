@@ -4,20 +4,22 @@ title: 'Bitcoin: A Peer-to-Peer Electronic Cash System'
 author: 'Satoshi Nakamoto'
 cover: 'bitcoin.png'
 pdf: 'bitcoin.pdf'
-page_count: '09'
+page_count: 09
+language: 'en'
 category: 'whitepaper'
 is_currency: true
 currency: 'Bitcoin'
+ticker: 'BTC'
 date_published: '2008-10-31'
 date_added: '2018-01-12'
 source: 'https://bitcoin.org/'
 ---
 
-<object class="pdf_embed" data="/pdf/bitcoin.pdf" type="application/pdf" width="100%" height="100%">
-   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/pdf/bitcoin.pdf">download the PDF</a> to view it.</p>
+<object class="pdf_embed" data="/assets/pdf/bitcoin.pdf" type="application/pdf" width="100%" height="100%">
+   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/assets/pdf/bitcoin.pdf">download the PDF</a> to view it.</p>
 </object>
 
-by Satoshi Nakamoto
+by Satoshi Nakamoto | Oct. 31, 2008
 
 #### Description
 The O.G. of cryptocurrency whitepapers. Written under the pseudonym Satoshi Nakamoto, it conceptualizes the blockchain as an immutable digital ledger of hashed transactions verified by a decentralized proof of work.

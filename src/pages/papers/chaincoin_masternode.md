@@ -3,7 +3,8 @@ path: 'chaincoin-masternode'
 title: 'Setting up a Chaincoin Masternode'
 cover: 'chaincoin_masternode.png'
 pdf: 'chaincoin_masternode.pdf'
-page_count: '09'
+page_count: 9
+language: 'en'
 category: 'documentation'
 is_currency: false
 currency: 'Chaincoin'
@@ -12,9 +13,11 @@ date_added: '2018-01-15'
 source: 'https://www.chaincoin.org/'
 ---
 
-<object class="pdf_embed" data="/pdf/chaincoin_masternode.pdf" type="application/pdf" width="100%" height="100%">
-   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/pdf/chaincoin_masternode.pdf">download the PDF</a> to view it.</p>
+<object class="pdf_embed" data="/assets/pdf/chaincoin_masternode.pdf" type="application/pdf" width="100%" height="100%">
+   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/assets/pdf/chaincoin_masternode.pdf">download the PDF</a> to view it.</p>
 </object>
+
+April 2017
 
 #### Description
 A step-by-step guide on setting up a Chaincoin masternode with instructions on setting up a Ubuntu server with Vultr's hosting service, configuring and securing the server, compiling the masternode, managing your masternode, and troubleshooting.

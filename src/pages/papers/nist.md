@@ -4,7 +4,8 @@ title: ' NISTIR 8202: Blockchain Technology Overview (DRAFT)'
 author: 'Dylan Yaga, Peter Mell, Nik Roby, Karen Scarfone'
 cover: 'nist.png'
 pdf: 'nist.pdf'
-page_count: '59'
+page_count: 59
+language: 'en'
 category: 'research'
 is_currency: false
 date_published: '2018-01-24'
@@ -12,11 +13,11 @@ date_added: '2018-01-31'
 source: 'https://csrc.nist.gov/'
 ---
 
-<object class="pdf_embed" data="/pdf/nist.pdf" type="application/pdf" width="100%" height="100%">
-   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/pdf/nist.pdf">download the PDF</a> to view it.</p>
+<object class="pdf_embed" data="/assets/pdf/nist.pdf" type="application/pdf" width="100%" height="100%">
+   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/assets/pdf/nist.pdf">download the PDF</a> to view it.</p>
 </object>
 
-by Dylan Yaga, Peter Mell, Nik Roby, and Karen Scarfone | 2018-01-24
+by Dylan Yaga, Peter Mell, Nik Roby, and Karen Scarfone | Jan. 24, 2018
 
 #### Description
 This paper serves as an introduction to the concept of blockchains and a high-level overview of the field. The authors begin with an overview of basic blockchain architecture, followed by an explanation of various consensus mechanisms, forks, and smart contracts. The paper compares permissioned and permissionless blockchains; as well as contrasting different types of blockchain platforms (cryptocurrencies, hyperledgers, multichains). Finally, it discusses some of the limitations and misconceptions about blockchains.

@@ -4,20 +4,22 @@ title: 'NEM Catapult'
 author: 'Lon Wong'
 cover: 'nem_catapult.png'
 pdf: 'nem_catapult.pdf'
-page_count: '18'
+page_count: 18
+language: 'en'
 category: 'whitepaper'
 is_currency: true
 currency: 'NEM'
+ticker: 'XEM'
 date_published: '2016-11'
 date_added: '2018-01-19'
 socurce: 'https://nem.io/'
 ---
 
-<object class="pdf_embed" data="/pdf/nem_catapult.pdf" type="application/pdf" width="100%" height="100%">
-   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/pdf/nem_catapult.pdf">download the PDF</a> to view it.</p>
+<object class="pdf_embed" data="/assets/pdf/nem_catapult.pdf" type="application/pdf" width="100%" height="100%">
+   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/assets/pdf/nem_catapult.pdf">download the PDF</a> to view it.</p>
 </object>
 
-by Lon Wong
+by Lon Wong | Nov. 2016
 
 #### Description
 This paper introduces Catapult, an extension of the NEM blockchain that features a highly scalable API gateway server layer that allows for a high transaction throughput, an embedded escrow service, and interoperability. It outlines Catapult's consensus mechanism, potential use cases, and further extensions. The author also provides a comparison with other initiatives (Ethereum, Bitcoin, and Corda).

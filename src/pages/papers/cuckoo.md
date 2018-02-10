@@ -4,7 +4,8 @@ title: 'Cuckoo Cycle: A Memory Bound Graph-Theoretic Proof-of-Work'
 author: 'John Tromp'
 cover: 'cuckoo.png'
 pdf: 'cuckoo.pdf'
-page_count: '13'
+page_count: 13
+language: 'en'
 category: 'research'
 is_currency: false
 date_published: '2015-07-24'
@@ -12,11 +13,11 @@ date_added: '2018-01-24'
 source: 'https://github.com/tromp/cuckoo/'
 ---
 
-<object class="pdf_embed" data="/pdf/cuckoo.pdf" type="application/pdf" width="100%" height="100%">
-   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/pdf/cuckoo.pdf">download the PDF</a> to view it.</p>
+<object class="pdf_embed" data="/assets/pdf/cuckoo.pdf" type="application/pdf" width="100%" height="100%">
+   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/assets/pdf/cuckoo.pdf">download the PDF</a> to view it.</p>
 </object>
 
-by John Tromp
+by John Tromp | July 24, 2015
 
 #### Description
 In this work the author proposes a new model for proof-of-work, which minimizes the advantages of certain pricey hardware architectures. The proofs consist of finding certain subgraphs in large pseudo-random graphs and are bound to memory latency.

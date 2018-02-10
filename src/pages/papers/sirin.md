@@ -4,17 +4,19 @@ title: 'SIRIN LABS Whitepaper'
 author: 'SIRIN LABS Team'
 cover: 'sirin.png'
 pdf: 'sirin.pdf'
-page_count: '33'
+page_count: 33
+language: 'en'
 category: 'whitepaper'
 is_currency: true
 currency: 'Sirin'
+ticker: 'SRN'
 date_published: 'Unknown'
 date_added: '2018-01-26'
 source: 'https://sirinlabs.com'
 ---
 
-<object class="pdf_embed" data="/pdf/sirin.pdf" type="application/pdf" width="100%" height="100%">
-   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/pdf/sirin.pdf">download the PDF</a> to view it.</p>
+<object class="pdf_embed" data="/assets/pdf/sirin.pdf" type="application/pdf" width="100%" height="100%">
+   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/assets/pdf/sirin.pdf">download the PDF</a> to view it.</p>
 </object>
 
 by the SIRIN LABS Team

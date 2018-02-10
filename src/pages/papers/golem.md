@@ -3,18 +3,22 @@ path: 'golem'
 title: 'The Golem Project: Crowdfunding Whitepaper'
 cover: 'golem.png'
 pdf: 'golem.pdf'
-page_count: '28'
+page_count: 28
+language: 'en'
 category: 'whitepaper'
 is_currency: true
 currency: 'Golem'
+ticker: GNT
 date_published: '2016-11'
 date_added: '2018-01-16'
 source: 'https://golem.network/'
 ---
 
-<object class="pdf_embed" data="/pdf/golem.pdf" type="application/pdf" width="100%" height="100%">
-   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/pdf/golem.pdf">download the PDF</a> to view it.</p>
+<object class="pdf_embed" data="/assets/pdf/golem.pdf" type="application/pdf" width="100%" height="100%">
+   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/assets/pdf/golem.pdf">download the PDF</a> to view it.</p>
 </object>
+
+Nov. 2016
 
 #### Description
 This paper presents an overview of the Golem team's overarching vision for the project. This includes an assessment of the market for their product and the introduction of key project infrastructure (such as the Golem network token - GNT, the application registry, and the transaction framework). The paper also provides a roadmap with go to market strategies for each of the four milestones, details about the GNT crowdsale, and a listing of Golem team members.

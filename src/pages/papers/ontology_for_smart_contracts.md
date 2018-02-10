@@ -4,7 +4,8 @@ title: 'An Ontology for Smart Contracts'
 author: 'Darryl McAdams'
 cover: 'ontology_for_smart_contracts.png'
 pdf: 'ontology_for_smart_contracts.pdf'
-page_count: '03'
+page_count: 03
+language: 'en'
 category: 'research'
 is_currency: false
 date_published: '2017-07-03'
@@ -12,11 +13,11 @@ date_added: '2018-01-15'
 source: 'https://iohk.io/research/papers/'
 ---
 
-<object class="pdf_embed" data="/pdf/ontology_for_smart_contracts.pdf" type="application/pdf" width="100%" height="100%">
-   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/pdf/ontology_for_smart_contracts.pdf">download the PDF</a> to view it.</p>
+<object class="pdf_embed" data="/assets/pdf/ontology_for_smart_contracts.pdf" type="application/pdf" width="100%" height="100%">
+   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/assets/pdf/ontology_for_smart_contracts.pdf">download the PDF</a> to view it.</p>
 </object>
 
-by Darryl McAdams
+by Darryl McAdams | July 3, 2017
 
 #### Description
 This paper presents an ontology (collection of concepts) that attempts to outline the essential features of many smart contracts. The paper begins with a general overview of the proposed ontology, gives analyses of a number of interesting smart contracts, and proposes certain ontologies that a well-designed blockchain should be able to support.

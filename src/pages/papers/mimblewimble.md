@@ -4,7 +4,8 @@ title: 'Mimblewimble'
 author: 'Tom Elvis Jedusor'
 cover: 'mimblewimble.png'
 pdf: 'mimblewimble.pdf'
-page_count: '05'
+page_count: 05
+language: 'en'
 category: 'research'
 is_currency: false
 date_published: '2016-07-19'
@@ -12,11 +13,11 @@ date_added: '2018-01-24'
 source: 'https://scalingbitcoin.org'
 ---
 
-<object class="pdf_embed" data="/pdf/mimblewimble.pdf" type="application/pdf" width="100%" height="100%">
-   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/pdf/mimblewimble.pdf">download the PDF</a> to view it.</p>
+<object class="pdf_embed" data="/assets/pdf/mimblewimble.pdf" type="application/pdf" width="100%" height="100%">
+   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/assets/pdf/mimblewimble.pdf">download the PDF</a> to view it.</p>
 </object>
 
-by Tom Elvis Jedusor
+by Tom Elvis Jedusor | July 19, 2016
 
 #### Description
 This paper points out privacy concern fundamental to the way that Bitcoin operates, namely that the blockchain allows for the creation of transaction graphs that can be used to monitor and potentially de-anonymize individual accounts. The author proceeds to explain several existing attempts to introduce greater privacy by confusing the transaction graph, but notes that they all have their own drawbacks. The author then suggest using modified confidential transactions, one-way aggregate signatures, and merging transactions across blocks to allow for confidential transactions and an obscured transaction graph.
@@ -29,4 +30,4 @@ This paper points out privacy concern fundamental to the way that Bitcoin operat
 #### Download & Related
 Date Published | Title                                                                          | Page Count
 ---------------|--------------------------------------------------------------------------------|------------
-2016-10-06     | Mimblewimble [![Download](/assets/download_cloud.svg)](/pdf/mimblewimble_followup.pdf) | 19
+2016-10-06     | Mimblewimble [![Download](/assets/download_cloud.svg)](/assets/pdf/mimblewimble_followup.pdf) | 19

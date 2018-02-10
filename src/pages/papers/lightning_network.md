@@ -4,7 +4,8 @@ title: 'The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments'
 author: 'Joseph Poon, Thaddeus Dryja'
 cover: 'lightning_network.png'
 pdf: 'lightning_network.pdf'
-page_count: '59'
+page_count: 59
+language: 'en'
 category: 'research'
 is_currency: false
 date_published: '2016-01-14'
@@ -12,11 +13,11 @@ date_added: '2018-01-18'
 source: 'https://lightning.network'
 ---
 
-<object class="pdf_embed" data="/pdf/lightning_network.pdf" type="application/pdf" width="100%" height="100%">
-   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/pdf/lightning_network.pdf">download the PDF</a> to view it.</p>
+<object class="pdf_embed" data="/assets/pdf/lightning_network.pdf" type="application/pdf" width="100%" height="100%">
+   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/assets/pdf/lightning_network.pdf">download the PDF</a> to view it.</p>
 </object>
 
-by Joseph Poon and Thaddeus Dryja
+by Joseph Poon and Thaddeus Dryja | Jan. 14, 2016
 
 #### Description
 An in depth look at the Lightning Network's attempt to resolve the scaling conundrum. Describes a network of micropayment channels to improve scalability and hashed time-lock contracts to eliminate the counterparty of moving transactions off-chain.
@@ -29,8 +30,8 @@ An in depth look at the Lightning Network's attempt to resolve the scaling conun
 #### Download & Related
 Date Published | Title                                                                          | Page Count
 ---------------|--------------------------------------------------------------------------------|------------
-2015-07-06     | Time, Bitcoin, and the Lightning Network [![Download](/assets/download_cloud.svg)](/pdf/time_bitcoin_lightning_network.pdf) | 57
-2015-05-26     | Bitcoin Scalability Solutions [![Download](/assets/download_cloud.svg)](/pdf/bitcoin_scalability_solutions.pdf) | 41
-2015-02-13     | The Lightning Network [![Download](/assets/download_cloud.svg)](/pdf/lightning_network_presentation.pdf) | 54
-Unknown        | Lightning Network Summary [![Download](/assets/download_cloud.svg)](/pdf/lightning_network_summary.pdf) | 01
-Unknown        | The Lightning Network Technical Design Overview [![Download](/assets/download_cloud.svg)](/pdf/lightning_network_technical_summary.pdf) | 4
+2015-07-06     | Time, Bitcoin, and the Lightning Network [![Download](/assets/download_cloud.svg)](/assets/pdf/time_bitcoin_lightning_network.pdf) | 57
+2015-05-26     | Bitcoin Scalability Solutions [![Download](/assets/download_cloud.svg)](/assets/pdf/bitcoin_scalability_solutions.pdf) | 41
+2015-02-13     | The Lightning Network [![Download](/assets/download_cloud.svg)](/assets/pdf/lightning_network_presentation.pdf) | 54
+Unknown        | Lightning Network Summary [![Download](/assets/download_cloud.svg)](/assets/pdf/lightning_network_summary.pdf) | 01
+Unknown        | The Lightning Network Technical Design Overview [![Download](/assets/download_cloud.svg)](/assets/pdf/lightning_network_technical_summary.pdf) | 4

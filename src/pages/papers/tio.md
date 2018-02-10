@@ -3,20 +3,22 @@ path: 'tio'
 title: 'Trade.io: Join the Trading Revolution'
 cover: 'tio.png'
 pdf: 'tio.pdf'
-page_count: '35'
+page_count: 35
+language: 'en'
 category: 'whitepaper'
 is_currency: true
-currency: 'Trade.io'
+currency: 'Trade Token'
+ticker: 'TIO'
 date_published: '2017-12'
 date_added: '2018-01-26'
 source: 'https://trade.io'
 ---
 
-<object class="pdf_embed" data="/pdf/tio.pdf" type="application/pdf" width="100%" height="100%">
-   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/pdf/tio.pdf">download the PDF</a> to view it.</p>
+<object class="pdf_embed" data="/assets/pdf/tio.pdf" type="application/pdf" width="100%" height="100%">
+   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/assets/pdf/tio.pdf">download the PDF</a> to view it.</p>
 </object>
 
-2017-12
+Dec. 2017
 
 #### Description
 Trade.io intends to utilize a blockchain to provide a cheaper, democratized and decentralized trading platform. Initially for cryptocurrencies they intend to extent their offerings to other financial instruments. They introduce the Trade token, a utility token for their trading platform. In this paper the author provide some information on technical implementation, their roadmap, and their initial coin offering.

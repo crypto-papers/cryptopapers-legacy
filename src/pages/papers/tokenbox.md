@@ -3,20 +3,22 @@ path: 'tokenbox'
 title: 'Tokenbox Whitepaper'
 cover: 'tokenbox.png'
 pdf: 'tokenbox.pdf'
-page_count: '35'
+page_count: 35
+language: 'en'
 category: 'whitepaper'
 is_currency: true
 currency: 'Tokenbox'
+ticker: 'TBX'
 date_published: '2017-11-07'
 date_added: '2018-01-26'
 source: 'https://tokenbox.io'
 ---
 
-<object class="pdf_embed" data="/pdf/tokenbox.pdf" type="application/pdf" width="100%" height="100%">
-   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/pdf/tokenbox.pdf">download the PDF</a> to view it.</p>
+<object class="pdf_embed" data="/assets/pdf/tokenbox.pdf" type="application/pdf" width="100%" height="100%">
+   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/assets/pdf/tokenbox.pdf">download the PDF</a> to view it.</p>
 </object>
 
-2017-11-07
+Nov. 7, 2017
 
 #### Description
 The paper begins with a brief introduction to blockchain and cryptocurrencies, as well as an overview of the marketplace. It then provides a description of the platform including information on the team, a high-level technical outline, and legal structure. This is followed by details about the platform's token and economic model. The paper concludes with a roadmap, a comparison of Tokenbox with it's competitors, and a statement regarding limitation of liability.

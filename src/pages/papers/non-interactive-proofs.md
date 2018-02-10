@@ -4,7 +4,8 @@ title: 'Non-Interactive Proofs of Proof of Work'
 author: 'Aggelos Kiayias, Andrew Miller, Dionysis Zindros'
 cover: 'non_interactive_proofs.png'
 pdf: 'non_interactive_proofs.pdf'
-page_count: '35'
+page_count: 35
+language: 'en'
 category: 'research'
 is_currency: false
 date_published: '2017-12-04'
@@ -12,11 +13,11 @@ date_added: '2018-01-12'
 source: 'https://iohk.io/research/papers/'
 ---
 
-<object class="pdf_embed" data="/pdf/non_interactive_proofs.pdf" type="application/pdf" width="100%" height="100%">
-   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/pdf/non_interactive_proofs.pdf">download the PDF</a> to view it.</p>
+<object class="pdf_embed" data="/assets/pdf/non_interactive_proofs.pdf" type="application/pdf" width="100%" height="100%">
+   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/assets/pdf/non_interactive_proofs.pdf">download the PDF</a> to view it.</p>
 </object>
 
-by Aggelos Kiayias, Andrew Miller, and Dionysis Zindros
+by Aggelos Kiayias, Andrew Miller, and Dionysis Zindros | Dec. 4, 2017
 
 #### Description
 In this paper the authors propose a new primitive for blockchain protocols called Noninteractive-Proofs-of-Proof-of-Work (NIPoPoWs), which require resources only logarithmic in the length of the blockchain rather than verifying the entire linearly-growing chain.

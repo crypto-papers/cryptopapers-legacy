@@ -4,7 +4,8 @@ title: 'Confidential Assets'
 author: 'Andrew Poelstra, Adam Back, Mark Friedenbach, Gregory Maxwell, Pieter Wuille'
 cover: 'confidential_assets.png'
 pdf: 'confidential_assets.pdf'
-page_count: '21'
+page_count: 21
+language: 'en'
 category: 'research'
 is_currency: false
 date_published: '2017-04'
@@ -12,11 +13,11 @@ date_added: '2018-01-24'
 source: 'https://blockstream.com'
 ---
 
-<object class="pdf_embed" data="/pdf/confidential_assets.pdf" type="application/pdf" width="100%" height="100%">
-   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/pdf/confidential_assets.pdf">download the PDF</a> to view it.</p>
+<object class="pdf_embed" data="/assets/pdf/confidential_assets.pdf" type="application/pdf" width="100%" height="100%">
+   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/assets/pdf/confidential_assets.pdf">download the PDF</a> to view it.</p>
 </object>
 
-by Andrew Poelstra, Adam Back, Mark Friedenbach, Gregory Maxwell, and Pieter Wuille
+by Andrew Poelstra, Adam Back, Mark Friedenbach, Gregory Maxwell, and Pieter Wuille | April 2017
 
 #### Description
 The authors address the issue of privacy loss in Bitcoin and suggest a way of blinding asset tags so that no relationship between output asset types can be inferred. The paper includes an appendix with mathematical proofs of the theorems outlined.

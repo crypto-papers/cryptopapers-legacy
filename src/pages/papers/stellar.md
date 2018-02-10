@@ -4,7 +4,8 @@ title: 'The Stellar Consensus Protocol: A Federated Model for Internet-level Con
 author: 'David Mazi&#232;res'
 cover: 'stellar.png'
 pdf: 'stellar.pdf'
-page_count: '32'
+page_count: 32
+language: 'en'
 category: 'whitepaper'
 is_currency: false
 date_published: '2016-02-25'
@@ -12,11 +13,11 @@ date_added: '2018-01-19'
 socurce: 'https://stellar.com/'
 ---
 
-<object class="pdf_embed" data="/pdf/stellar.pdf" type="application/pdf" width="100%" height="100%">
-   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/pdf/stellar.pdf">download the PDF</a> to view it.</p>
+<object class="pdf_embed" data="/assets/pdf/stellar.pdf" type="application/pdf" width="100%" height="100%">
+   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/assets/pdf/stellar.pdf">download the PDF</a> to view it.</p>
 </object>
 
-by David Mazi&#232;res
+by David Mazi&#232;res | Feb. 25, 2016
 
 #### Description
 This paper outline the federated Byzantine agreement (FBA) model for consensus by which participants in the network only accept a transaction as valid if the majority of the contacts it considers important also agree to the transaction. The paper goes on to explain optimal resilience and federated voting withing the FBA model. Finally, it describes the application of these prinicples to the Stellar Consensus Protocol.

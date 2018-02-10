@@ -4,7 +4,8 @@ title: 'Increasing Anonymity in Bitcoin'
 author: 'Horas Yuan Mouton'
 cover: 'increasing_anonymity.png'
 pdf: 'increasing_anonymity.pdf'
-page_count: '14'
+page_count: 14
+language: 'en'
 category: 'research'
 is_currency: false
 date_published: '2013-08-21'
@@ -12,11 +13,11 @@ date_added: '2018-01-24'
 source: 'https://wpsoftware.net/bitcoin'
 ---
 
-<object class="pdf_embed" data="/pdf/increasing_anonymity.pdf" type="application/pdf" width="100%" height="100%">
-   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/pdf/increasing_anonymity.pdf">download the PDF</a> to view it.</p>
+<object class="pdf_embed" data="/assets/pdf/increasing_anonymity.pdf" type="application/pdf" width="100%" height="100%">
+   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/assets/pdf/increasing_anonymity.pdf">download the PDF</a> to view it.</p>
 </object>
 
-by Horas Yuan Mouton
+by Horas Yuan Mouton | 2013-08-21
 
 #### Description
 This paper introduces the concept of one-way  aggregate  signature (OWAS) as a way to enhance the anonymity of cryptocurrencies such as Bitcoin. Using OWAS, multiple transactions are grouped together into a larger transaction thereby obfuscating the links between the inputs and outputs of the original transactions remain and providing parties to the transactions with plausible deniability.

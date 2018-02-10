@@ -4,20 +4,22 @@ title: 'EOS - An Introduction v0.4'
 author: 'Ian Grigg'
 cover: 'eos.png'
 pdf: 'eos.pdf'
-page_count: '08'
+page_count: 8
+language: 'en'
 category: 'whitepaper'
 is_currency: true
 currency: 'EOS'
+ticker: 'EOS'
 date_published: '2017-07-05'
 date_added: '2018-01-21'
 socurce: 'https://eos.io'
 ---
 
-<object class="pdf_embed" data="/pdf/eos.pdf" type="application/pdf" width="100%" height="100%">
-   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/pdf/eos.pdf">download the PDF</a> to view it.</p>
+<object class="pdf_embed" data="/assets/pdf/eos.pdf" type="application/pdf" width="100%" height="100%">
+   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/assets/pdf/eos.pdf">download the PDF</a> to view it.</p>
 </object>
 
-by Ian Grigg
+by Ian Grigg | July 5, 2017
 
 #### Description
 The papers begins by describing the current cryptocurrency environment including a discussion of the market, consensus mechanisms, contracts, use cases, and governance. It goes on to explain the EOS project's vision and architecture. The paper closes with comparisions to Bitcoin, Ethereum, and Corda as well as thoughts on the user experience, use cases, and community surrounding EOS.

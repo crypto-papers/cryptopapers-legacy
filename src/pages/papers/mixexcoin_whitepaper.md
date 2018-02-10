@@ -3,18 +3,22 @@ path: 'minex-whitepaper'
 title: 'Minexcoin: Low Volatility Asset'
 cover: 'minex_1_2.png'
 pdf: 'minex_1_2.pdf'
-page_count: '25'
+page_count: 25
+language: 'en'
 category: 'whitepaper'
 is_currency: true
 currency: 'Minexcoin'
+ticker: 'MNX'
 date_published: '2017-07-21'
 date_added: '2018-01-12'
 source: 'https://minexcoin.com/'
 ---
 
-<object class="pdf_embed" data="/pdf/minex_1_2.pdf" type="application/pdf" width="100%" height="100%">
-   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/pdf/minex_1_2.pdf">download the PDF</a> to view it.</p>
+<object class="pdf_embed" data="/assets/pdf/minex_1_2.pdf" type="application/pdf" width="100%" height="100%">
+   <p><b>DOCUMENT UNAVIALABLE</b>: This browser does not support PDFs. Please <a href="/assets/pdf/minex_1_2.pdf">download the PDF</a> to view it.</p>
 </object>
+
+July 21, 2017
 
 #### Description
 The Minex whitepaper provides an overview of the Minexcoin project, including an explanation of the need for a stable, low volatility digital currency and the team's vision for delivering such a currency. This paper also outlines the terms of the Minexcoin crowdsale.
@@ -28,4 +32,4 @@ MinexCoin asset is a low-volatility cryptocurrency with predictable and dirigibl
 #### Related
 Date Published | Title                                                                                | Page Count
 ---------------|--------------------------------------------------------------------------------------|------------
-2017-05        | Minexcoin: Low Volatility Asset v1.1 [![Download](/assets/download_cloud.svg)](/pdf/minex.pdf) | 32
+2017-05        | Minexcoin: Low Volatility Asset v1.1 [![Download](/assets/download_cloud.svg)](/assets/pdf/minex.pdf) | 32
