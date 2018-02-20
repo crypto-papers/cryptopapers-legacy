@@ -41,7 +41,7 @@ export const pageQuery = graphql`
   query CoinQuery {
     allMarkdownRemark(
       filter: { frontmatter: { is_currency: { eq: true } } }
-      sort: { fields: [ frontmatter___currency ], order: ASC }
+      sort: { fields: [ frontmatter___ticker ], order: ASC }
     ) {
       edges {
         node {
