@@ -22,7 +22,7 @@ source: 'https://source_site.com' # Website from where the paper was taken
 by Author Name | MM DD, YYYY
 
 #### Description
-One-line description of the paper (who, what, why).
+Two- to three-line description of the paper (who, what, why).
 
 **Source:** https://source_site.com
 
