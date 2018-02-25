@@ -28,3 +28,10 @@ Billed as a "rewrite of the Yellowpaper in non-Yellowpaper syntax" this paper at
 
 #### Excerpt
 > The Ethereum Protocol is a deterministic but practically unbounded state-machine with two basic functions; the first being a globally accessible singleton state, and the second being a virtual machine that applies changes to that state. This paper explains the individual parts that make up these two factors.
+
+#### Related
+Date Published | Title                                                                          | Page Count
+---------------|--------------------------------------------------------------------------------|------------
+2018-02-22     | Ethereum Off-Whitepaper v0.1.64 [![Download](/assets/download_cloud.svg)](/assets/pdf/eth_off_white.pdf) | 21
+2017-02-23     | Ethereum Yellowpaper Byzantium [![Download](/assets/download_cloud.svg)](/assets/pdf/eth_yellow_byzantium.pdf) | 37
+2017-10-02     | Ethereum Yellowpaper EIP-150 [![Download](/assets/download_cloud.svg)](/assets/pdf/eth_yellow_eip150.pdf) | 32
