@@ -4,7 +4,7 @@ title: 'Paper's Title' # Full paper title
 author: 'Author Name' # Omit if no author name provided
 cover: 'paper_cover.png' # Slug for the cover image, must be saved in the /covers directory at the site root
 pdf: 'paper_file.pdf' # Slug for the PDF, must be saved in the /pdf directory at the site root
-page_count: 'xx' # Number of pages in the PDF
+page_count: xx # Number of pages in the PDF
 language: 'en' # Locale code
 category: 'whitepaper' # Choose from 'whitepaper', 'documentation', and 'research'
 is_currency: true # Boolean, if paper is about a currency true, otherwise false
