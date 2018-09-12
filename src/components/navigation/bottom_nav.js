@@ -2,7 +2,7 @@ import React from 'react'
 import Link from 'gatsby-link'
 
 const BottomNavigation = () => (
-  <div className='site_navigation'>
+  <div className='bottom_site_navigation'>
     <div className='bottom_nav_container'>
       <ul className="bottom_nav_list">
         <li className='bottom_nav_item'>
